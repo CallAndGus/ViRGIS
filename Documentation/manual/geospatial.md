@@ -29,27 +29,38 @@ Martin Dobias (2019) New QGIS 3D capabilities and future plans reviewed in [http
 
 De Roo, B., Bourgeois, J. & De Maeyer, P. (2017) Usability Assessment of a Virtual Globe-Based 4D Archaeological GIS. In: Alias Abdul-Rahman (ed.). _Advances in 3D Geoinformation_. Cham, Springer International Publishing. pp. 323–335.
 
+Zou, M. (2013) An Algorithm for Triangulating 3D Polygons. All Theses and Dissertations (ETDs). 1212.
+
+Roth, G. & Wibowoo, E. (1997) An Efficient Volumetric Method for Building Closed Triangular Meshes from 3-D Image and Point Data. In: ResearchGate. [Online]. 1 January 1997 Available from: https://www.researchgate.net/publication/221474907_An_Efficient_Volumetric_Method_for_Building_Closed_Triangular_Meshes_from_3-D_Image_and_Point_Data [Accessed: 16 July 2020].
+
+Maur, Pavel Delaunay Triangulation in 3D. [Online] Available from: https://www.kiv.zcu.cz/site/documents/verejne/vyzkum/publikace/technicke-zpravy/2002/tr-2002-02.pdf.
+
+Kenneth Rose, Alla Sheffer, Jamie Wither, Marie-Paule Cani, Boris Thibert (2007) Developable Surfaces from Arbitrary Sketched
+Boundaries. Available from https://hal.inria.fr/inria-00337445/document [accessed June 2020]
+
 
 ## ​Some Terminology and Realms
 
 **Real-World Space** - space defined by geographic coordinates and by real-world units (e.g. metres). This space is always projected and z-up.
 
-**VR-Space** - space defined in the virtual world in the coordinate system of the VR world. This is an unprojected coordinate system and y-up.
+**VR--Space** - space defined in the virtual world in the coordinate system of the VR world. This is an unprojected coordinate system and y-up.
 
 **GIS World** - refers to the paradigm space of Geospatial Information and the tools and processes used there.
 
 **VR World** - refers to the paradigm space of the VR and gaming systems and the tools and processes used there.
 
-**World Space Coordinates** - refers to the Unity World Space Coordinate System
+**World Space Coordinates** - refers to the Unity World Space Coordinate System. The Map Space Coordinates are transformed into the World Space Coordinates by the zoom of the model.
+
+**Map Space Coordinates** - refers to the Coordinate System of the GIS Model. The Map Space Coordinate System is a Transverse Mercator projection with units of 1m (i.e. 1m is mapped to one Unity unit) with the center of the projection placed at the origin of the model as defined in the Project.JSON file and the axis transposed to be y-up.
+
+**Data Coordinates** Each RecordSet has a Coordinate Reference System (CRS). This is usually a well-known CRS such as EPSG:4326. 
 
 
 ## ​Geometry
 
-ToDo - expand, confirm and correct
+ViRGIS creates a limited extent geodetically projected coordinate system in the VR Space, where the ellipsoid is represented as a planar datum. This tool is intended for limited extent GIS or Spatial analysis problems where the planar projection is not a problem. If an ellipsoid representation of the datum is required, this is not the tool.
 
-ViRGIS creates a limited extent geographically projected coordinate system in the VR Space, where the ellipsoid is represented as a planar datum. This tool is intended for limited extent GIS or Spatial analysis problems where the planar datum is not a problem. If an ellipsoid representation of the datum is required, this is not the tool.
-
-This space can be zoomed - that really represents a change in the level of details (LoD) but also changes the base relationship between VR Space units and Real World Space units (which is a nominal 1m per unit but changes as the zoom level change to try to avoid impossibly large numbers in the VR Space).
+This space can be zoomed - this changes the base relationship between VR Space units and Real World Space units (which is a nominal 1m per unit).
 
 Real-world Points, Lines and Polygons etc are projected into this VR Space using standard projection techniques.
 
@@ -68,9 +79,9 @@ Z, or more traditionally Altitude, has always been used in GIS but has not been 
     3. Relative to local ground level or a dedicated local datum,
     4. Relative to a regional datum such as MSL.
     
-    In 2D GIS, in most cases Z is just a DEM (i.e. an attribute), so this did not matter and since Z is a data attribute and not actually a coordinate, if the data is wrong or missing it does not change the geometry. This is not true in true 3D space. 
-    
-    In the VR World, all Z values from the Real-World Space are projected into Y values in the VR Space coordinate system relative to the ellipsoid.
+In 2D GIS, in most cases Z is just a DEM (i.e. an attribute), so this did not matter and since Z is a data attribute and not actually a coordinate, if the data is wrong or missing it does not change the geometry. This is not true in true 3D space. 
+
+In the VR World, all Z values from the Real-World Space are projected into Y values in the VR Space coordinate system relative to the ellipsoid. Thus, the Z values must be ellipsoid-height figures.
 
 ### Points are Points
 
@@ -90,12 +101,11 @@ A line is a set of points or vertices and, provided all vertices have a Z value,
 
 The symbology questions are primarily:
 
-- “Simple” or “Buffered” - i.e. whether the width is defined in VR-World units or in Real-World Units and projected to VR-World units. 
-- Shape. In the VR-World (more so than the 3D GIS World) every entity needs solid structure for the brain to process it correctly. Lines with zero breadth don’t work. Therefore, all lines will be represented by cuboids or right elliptical cylinders. 
+- “Simple” or “Buffered” - i.e. whether the width is defined in VR-World units or in Real-World Units and projected to VR-World units. In Virgis, for V1 and V2, only simple lines will provided since buffered lines have the ability to break the VR illusion.
 
-As a note, the line segment is created by elongating the mesh along the z-axis in VR Space. That means the characteristics of the line symbology (i.e. cross section) are set by the X and Y values of the scale vector in VR Space. To keep consistency, the scaling is still written as a 3D transform in z-up format. This means that in the project.json file, the x and z values set the width and breadth of the line. The y value should always be 1, since the y-value is created when drawing the line.
+- Shape. In the VR-World (more so than the 3D GIS World) every entity needs solid structure for the brain to process it correctly. Lines with zero depth don’t work. Therefore, all lines will be represented by cuboids or right elliptical cylinders. 
 
-It should also be noted that the transform is applied in the local reference frame. This means that the (Real-World) y axis is aligned along the line segment and the other axes aligned accordingly. This actually means that the (Real-world) y axis could actually end up pointing in any direction in Real-World global space, including down.
+As a note, the line segment is created by elongating the mesh along the z-axis in VR Space. That means the characteristics of the line symbology (i.e. cross section) are set by the X and Y values of the scale vector in VR Space. To keep consistency, the scaling is still written as a 3D transform in z-up format. This means that in the project.json file, the x and z values set the width and depth of the line. The y value should always be 1, since the y-value is created when drawing the line.
 
 ### Polygons are difficult
 
@@ -113,13 +123,11 @@ If it is not planar, it is a polyhedral.
 
 For features presenting as polygons, we have chosen the following method
 
-*   A Polygon is represented by a linear ring as defined in GeoJSON, 
-*   There are no constraints on the Z values of the vertices and no assumptions that the Polygon is planar,
-*   A simplistic algorithm is used to turn a linear ring into a polyhedral by adding a single additional vertex at the centroid of the  linear ring,
-*   This polyhedral is turned into a triangulated mesh;  note that for a planar polygon, the polygon will at this point still be planar but represented by a triangulated mesh rather than a polygon,
+*   A Polygon is represented by a set of linear rings as defined in GeoJSON, 
+*   There are no constraints on the Z values of the vertices and no assumptions that the Polygon is actually planar although there is an assumption tha the surface is developable (i.e.  surfaces that can be unfolded into the plane with no distortion),
+*   This polygonZ is turned into a triangulated mesh by identifying the plane closest to the set of points made by the verteces of the outer linear ring using a least-square method, projecting all of the linear rings onto that plane and getting the Delaunay Triangulation for the polygon made up of the projected linear rings. A mesh is then made from that triangulation and the original 3D verteces in world space coordinates. Note that for a planar polygon, the polygon will at this point still be planar but represented by a triangulated mesh rather than a polygon. Also note that because of the projection, it is possible for a valid hole in the origingal GIS representation (i.e. the xy plane in real world space) to be invalid in the projected polygon because it is not contained by the outer linear ring. In this case, the innner linear ring is ignored.
 *   The polyhedral can now be manipulated by moving any of vertices.
-*   The polyhedral is returned back to the GIS world by returning the linear ring. This will then be projected into the 2D GIS world automatically, since that world will ignore the z values as coordinates and just use the x and y values.
-*   The polyhedron vertex is stored in the metadata for the polygon so round trip editing capabilities between the GIS World and the VR World are ensured.
+*   The polyhedral is returned back to the GIS world by returning the linear rings. This will then be projected into the 2D GIS world automatically, since that world will ignore the z values as coordinates and just use the x and y values.
 
 This means that all polygons become internally just a special case of a mesh.  
 
