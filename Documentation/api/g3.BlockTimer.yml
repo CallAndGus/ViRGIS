@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BlockTimer
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 9
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Watch
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 11
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Label
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 12
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Accumulated
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 13
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 15
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Start
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 23
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Stop
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 27
@@ -249,7 +249,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Running
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 31
@@ -284,7 +284,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Accumulate
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 36
@@ -317,7 +317,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reset
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 43
@@ -347,7 +347,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AccumulatedString
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 50
@@ -382,7 +382,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 54
@@ -417,7 +417,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TimeFormatString
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 60

@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/TagSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StringTagSet
     path: ../Assets/geometry3Sharp/core/TagSet.cs
     startLine: 71
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/TagSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidTag
     path: ../Assets/geometry3Sharp/core/TagSet.cs
     startLine: 73
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/TagSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/TagSet.cs
     startLine: 75
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/TagSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/core/TagSet.cs
     startLine: 86
@@ -165,7 +165,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/TagSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Has
     path: ../Assets/geometry3Sharp/core/TagSet.cs
     startLine: 90
@@ -202,7 +202,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/TagSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/core/TagSet.cs
     startLine: 97

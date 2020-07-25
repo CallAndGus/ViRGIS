@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Shapes
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 241
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Spheroid
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 243
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cuboid
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 244
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cylinder
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 245

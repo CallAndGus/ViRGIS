@@ -29,7 +29,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Position
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 12
@@ -73,7 +73,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 22
@@ -118,7 +118,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 36
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Altitude
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 76
@@ -199,7 +199,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Latitude
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 81
@@ -238,7 +238,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Longitude
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 86
@@ -277,7 +277,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 94
@@ -315,7 +315,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 106
@@ -355,7 +355,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 114
@@ -392,7 +392,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 122
@@ -431,7 +431,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 131
@@ -472,7 +472,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 153
@@ -513,7 +513,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 161
@@ -550,7 +550,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Position.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/Position.cs
     startLine: 172

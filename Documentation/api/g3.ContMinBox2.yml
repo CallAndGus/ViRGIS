@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/containment/ContMinBox2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ContMinBox2
     path: ../Assets/geometry3Sharp/containment/ContMinBox2.cs
     startLine: 17
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/containment/ContMinBox2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinBox
     path: ../Assets/geometry3Sharp/containment/ContMinBox2.cs
     startLine: 25
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/containment/ContMinBox2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/containment/ContMinBox2.cs
     startLine: 29
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/containment/ContMinBox2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateBox
     path: ../Assets/geometry3Sharp/containment/ContMinBox2.cs
     startLine: 284

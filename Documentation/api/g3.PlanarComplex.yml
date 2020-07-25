@@ -48,7 +48,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlanarComplex
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 21
@@ -81,7 +81,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceAccuracy
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 24
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleAccuracyDeg
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 25
@@ -143,7 +143,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SpacingT
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 26
@@ -174,7 +174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinimizeSampling
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 27
@@ -205,7 +205,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 104
@@ -235,7 +235,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ElementCount
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 109
@@ -270,7 +270,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 114
@@ -305,7 +305,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 133
@@ -340,7 +340,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 144
@@ -375,7 +375,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Remove
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 155
@@ -408,7 +408,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 177
@@ -441,7 +441,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllSegmentsItr
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 184
@@ -473,7 +473,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ElementsItr
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 201
@@ -505,7 +505,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LoopsItr
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 206
@@ -537,7 +537,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CurvesItr
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 212
@@ -569,7 +569,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasOpenCurves
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 219
@@ -601,7 +601,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LoopLeafComponentsItr
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 234
@@ -635,7 +635,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EndpointsItr
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 249
@@ -667,7 +667,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 265
@@ -699,7 +699,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SplitAllLoops
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 276
@@ -729,7 +729,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: JoinElements
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 305
@@ -768,7 +768,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertToLoop
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 361
@@ -803,7 +803,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindSolidRegions
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 484
@@ -840,7 +840,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindSolidRegions
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 494
@@ -875,7 +875,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindClosedLoops
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 779
@@ -910,7 +910,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindOpenCurves
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 838
@@ -945,7 +945,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 880
@@ -977,7 +977,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Append
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 899
@@ -1010,7 +1010,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 912
@@ -1047,7 +1047,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PrintStats
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 946
@@ -1080,7 +1080,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CountType
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 969
@@ -1115,7 +1115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CountType
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 980

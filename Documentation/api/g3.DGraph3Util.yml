@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DGraph3Util
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 12
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtractCurves
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 30
@@ -103,7 +103,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DisconnectJunction
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 212
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NextEdgeAndVtx
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 234
@@ -187,7 +187,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WalkToNextNonRegularVtx
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 257
@@ -230,7 +230,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ErodeOpenSpurs
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 292

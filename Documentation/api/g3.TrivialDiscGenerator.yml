@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrivialDiscGenerator
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 8
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Radius
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 10
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StartAngleDeg
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 11
@@ -145,7 +145,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EndAngleDeg
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 12
@@ -176,7 +176,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Slices
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 13
@@ -207,7 +207,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Generate
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 15

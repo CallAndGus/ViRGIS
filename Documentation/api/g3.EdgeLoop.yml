@@ -42,7 +42,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeLoop
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 12
@@ -77,7 +77,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 14
@@ -108,7 +108,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 16
@@ -139,7 +139,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Edges
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 17
@@ -170,7 +170,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BowtieVertices
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 19
@@ -201,7 +201,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 22
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 26
@@ -276,7 +276,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 40
@@ -309,7 +309,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromEdges
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 57
@@ -353,7 +353,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromVertices
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 79
@@ -397,7 +397,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromVertices
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 101
@@ -443,7 +443,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 129
@@ -478,7 +478,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeCount
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 132
@@ -513,7 +513,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 136
@@ -548,7 +548,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBounds
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 141
@@ -580,7 +580,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToCurve
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 150
@@ -615,7 +615,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CorrectOrientation
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 165
@@ -649,7 +649,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 180
@@ -679,7 +679,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsInternalLoop
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 191
@@ -714,7 +714,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBoundaryLoop
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 208
@@ -751,7 +751,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindVertexIndex
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 226
@@ -788,7 +788,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestVertex
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 239
@@ -825,7 +825,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CountWithinTolerance
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 257
@@ -867,7 +867,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsSameLoop
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 276
@@ -906,7 +906,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexSpan
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 321
@@ -952,7 +952,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CheckValidity
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 342
@@ -989,7 +989,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexLoopToEdgeLoop
     path: ../Assets/geometry3Sharp/mesh/EdgeLoop.cs
     startLine: 384

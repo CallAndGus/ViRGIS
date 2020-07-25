@@ -22,7 +22,6 @@ items:
   - Virgis.FeatureAdder
   - Virgis.FeatureObject
   - Virgis.FlyingCam
-  - Virgis.GeoJsonReader
   - Virgis.IVirgisEntity
   - Virgis.IVirgisFeature
   - Virgis.IVirgisLayer
@@ -43,8 +42,10 @@ items:
   - Virgis.PlyImport
   - Virgis.PointCloudLayer
   - Virgis.PointLayer
+  - Virgis.PolygonExtensions
   - Virgis.PolygonLayer
   - Virgis.PositionExtensionMethods
+  - Virgis.QuitButton
   - Virgis.SelectionTypes
   - Virgis.SimpleMeshExtensions
   - Virgis.UnityLayers
@@ -85,11 +86,6 @@ references:
   name: DataPlotter
   nameWithType: DataPlotter
   fullName: Virgis.DataPlotter
-- uid: Virgis.GeoJsonReader
-  commentId: T:Virgis.GeoJsonReader
-  name: GeoJsonReader
-  nameWithType: GeoJsonReader
-  fullName: Virgis.GeoJsonReader
 - uid: Virgis.PlyImport
   commentId: T:Virgis.PlyImport
   name: PlyImport
@@ -297,6 +293,11 @@ references:
   name: DcurveExtensions
   nameWithType: DcurveExtensions
   fullName: Virgis.DcurveExtensions
+- uid: Virgis.PolygonExtensions
+  commentId: T:Virgis.PolygonExtensions
+  name: PolygonExtensions
+  nameWithType: PolygonExtensions
+  fullName: Virgis.PolygonExtensions
 - uid: Virgis.SimpleMeshExtensions
   commentId: T:Virgis.SimpleMeshExtensions
   parent: Virgis
@@ -358,7 +359,6 @@ references:
   fullName: Virgis.Dataline
 - uid: Virgis.Datapoint
   commentId: T:Virgis.Datapoint
-  parent: Virgis
   name: Datapoint
   nameWithType: Datapoint
   fullName: Virgis.Datapoint
@@ -423,6 +423,11 @@ references:
   name: MenuFacade
   nameWithType: MenuFacade
   fullName: Virgis.MenuFacade
+- uid: Virgis.QuitButton
+  commentId: T:Virgis.QuitButton
+  name: QuitButton
+  nameWithType: QuitButton
+  fullName: Virgis.QuitButton
 - uid: Virgis.DataRotator
   commentId: T:Virgis.DataRotator
   name: DataRotator

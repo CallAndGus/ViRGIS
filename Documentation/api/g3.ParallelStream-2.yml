@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/gParallel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParallelStream
     path: ../Assets/geometry3Sharp/core/gParallel.cs
     startLine: 150
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/gParallel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ProducerF
     path: ../Assets/geometry3Sharp/core/gParallel.cs
     startLine: 152
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/gParallel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConsumerF
     path: ../Assets/geometry3Sharp/core/gParallel.cs
     startLine: 154
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/gParallel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Run_NoThreads
     path: ../Assets/geometry3Sharp/core/gParallel.cs
     startLine: 161
@@ -161,7 +161,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/gParallel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Run
     path: ../Assets/geometry3Sharp/core/gParallel.cs
     startLine: 177

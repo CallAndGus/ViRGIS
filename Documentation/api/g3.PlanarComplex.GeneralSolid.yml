@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeneralSolid
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 413
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Outer
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 415
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Holes
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 416

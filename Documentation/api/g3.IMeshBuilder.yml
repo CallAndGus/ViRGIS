@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IMeshBuilder
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 89
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendNewMesh
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 92
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendNewMesh
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 93
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetActiveMesh
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 95
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 97
@@ -190,7 +190,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 98
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangle
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 100
@@ -256,7 +256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangle
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 101
@@ -293,7 +293,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BuildMaterial
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 107
@@ -324,7 +324,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AssignMaterial
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 110
@@ -355,7 +355,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SupportsMetaData
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 113
@@ -388,7 +388,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendMetaData
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 114

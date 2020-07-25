@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygon2dBoxTree
     path: ../Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
     startLine: 83
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygon
     path: ../Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
     startLine: 85
@@ -88,7 +88,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
     startLine: 91
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
     startLine: 98
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Distance
     path: ../Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
     startLine: 103
@@ -191,7 +191,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearestPoint
     path: ../Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
     startLine: 109
@@ -226,7 +226,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SquaredDistance
     path: ../Assets/geometry3Sharp/spatial/Polygon2dBoxTree.cs
     startLine: 118

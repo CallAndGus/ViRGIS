@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmoothLoopElement
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 78
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: polygon
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 80
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentItr
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 82
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 85
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 89

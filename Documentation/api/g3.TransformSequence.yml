@@ -33,7 +33,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransformSequence
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 16
@@ -68,7 +68,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 56
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 61
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Append
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 68
@@ -164,7 +164,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTranslation
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 74
@@ -197,7 +197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTranslation
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 81
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendRotation
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 89
@@ -267,7 +267,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendRotation
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 97
@@ -302,7 +302,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendScale
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 105
@@ -335,7 +335,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendScale
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 113
@@ -370,7 +370,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendToFrame
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 121
@@ -403,7 +403,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendFromFrame
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 130
@@ -436,7 +436,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransformP
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 143
@@ -473,7 +473,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransformV
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 194
@@ -510,7 +510,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransformP
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 234
@@ -547,7 +547,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MakeInverse
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 242
@@ -581,7 +581,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Store
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 285
@@ -614,7 +614,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Restore
     path: ../Assets/geometry3Sharp/math/TransformSequence.cs
     startLine: 298

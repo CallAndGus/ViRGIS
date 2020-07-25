@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointLayer
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 13
@@ -111,7 +111,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SpherePrefab
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 15
@@ -142,7 +142,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CubePrefab
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 16
@@ -173,7 +173,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CylinderPrefab
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 17
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LabelPrefab
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 18
@@ -235,7 +235,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseMaterial
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 19
@@ -266,7 +266,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _init
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 30
@@ -304,7 +304,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _addFeature
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 65
@@ -345,7 +345,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _draw
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 71
@@ -378,7 +378,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _drawFeature
     path: ../Assets/Scripts/Layers/PointLayer.cs
     startLine: 93
@@ -425,10 +425,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _checkpoint
     path: ../Assets/Scripts/Layers/PointLayer.cs
-    startLine: 125
+    startLine: 124
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -458,16 +458,18 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _save
     path: ../Assets/Scripts/Layers/PointLayer.cs
-    startLine: 127
+    startLine: 126
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: protected override void _save()
-    content.vb: Protected Overrides Sub _save
+    content: protected override Task _save()
+    return:
+      type: System.Threading.Tasks.Task
+    content.vb: Protected Overrides Function _save As Task
   overridden: Virgis.VirgisLayer{Project.GeographyCollection,GeoJSON.Net.Feature.FeatureCollection}._save
   overload: Virgis.PointLayer._save*
   modifiers.csharp:
@@ -491,10 +493,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFeatureShape
     path: ../Assets/Scripts/Layers/PointLayer.cs
-    startLine: 139
+    startLine: 138
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -526,10 +528,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/Layers/PointLayer.cs
-    startLine: 146
+    startLine: 145
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -562,10 +564,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Layers/PointLayer.cs
-    startLine: 151
+    startLine: 150
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -598,10 +600,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveVertex
     path: ../Assets/Scripts/Layers/PointLayer.cs
-    startLine: 155
+    startLine: 154
   assemblies:
   - Assembly-CSharp
   namespace: Virgis

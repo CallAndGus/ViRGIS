@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistPoint2Box2
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 10
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 13
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Box
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 20
@@ -127,7 +127,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 26
@@ -158,7 +158,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoxClosest
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 28
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 31
@@ -224,7 +224,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 36
@@ -256,7 +256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 42
@@ -288,7 +288,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint2Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSquared
     path: ../Assets/geometry3Sharp/distance/DistPoint2Box2.cs
     startLine: 48

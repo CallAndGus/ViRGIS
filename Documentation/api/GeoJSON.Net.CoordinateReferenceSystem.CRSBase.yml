@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CRSBase
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 12
@@ -78,7 +78,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Properties
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 18
@@ -132,7 +132,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 24
@@ -190,7 +190,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 33
@@ -230,7 +230,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 41
@@ -267,7 +267,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 49
@@ -306,7 +306,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 92
@@ -347,7 +347,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 108
@@ -388,7 +388,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 116
@@ -425,7 +425,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSBase.cs
     startLine: 141

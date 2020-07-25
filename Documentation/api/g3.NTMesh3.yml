@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NTMesh3
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 21
@@ -170,7 +170,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidID
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 23
@@ -203,7 +203,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonManifoldID
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 24
@@ -236,7 +236,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 26
@@ -271,7 +271,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 27
@@ -306,7 +306,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidEdge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 28
@@ -341,7 +341,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 52
@@ -378,7 +378,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 56
@@ -411,7 +411,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 88
@@ -444,7 +444,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Copy
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 92
@@ -481,7 +481,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 115
@@ -514,7 +514,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Timestamp
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 134
@@ -551,7 +551,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ShapeTimestamp
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 137
@@ -586,7 +586,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 144
@@ -623,7 +623,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleCount
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 147
@@ -660,7 +660,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeCount
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 150
@@ -695,7 +695,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxVertexID
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 155
@@ -732,7 +732,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxTriangleID
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 158
@@ -769,7 +769,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxEdgeID
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 161
@@ -804,7 +804,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxGroupID
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 164
@@ -839,7 +839,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexColors
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 168
@@ -876,7 +876,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexNormals
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 169
@@ -913,7 +913,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexUVs
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 170
@@ -950,7 +950,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasTriangleGroups
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 171
@@ -987,7 +987,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Components
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 173
@@ -1022,7 +1022,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 185
@@ -1059,7 +1059,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 188
@@ -1096,7 +1096,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsEdge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 191
@@ -1131,7 +1131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 199
@@ -1168,7 +1168,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexf
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 204
@@ -1203,7 +1203,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 210
@@ -1240,7 +1240,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexNormal
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 219
@@ -1277,7 +1277,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexUV
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 229
@@ -1314,7 +1314,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertexNormal
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 233
@@ -1351,7 +1351,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexColor
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 242
@@ -1388,7 +1388,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertexColor
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 252
@@ -1423,7 +1423,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 262
@@ -1469,7 +1469,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVtxEdgeCount
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 280
@@ -1504,7 +1504,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetMaxVtxEdgeCount
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 285
@@ -1536,7 +1536,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexAll
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 292
@@ -1573,7 +1573,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 312
@@ -1610,7 +1610,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriEdges
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 318
@@ -1645,7 +1645,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriEdge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 324
@@ -1682,7 +1682,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriTrianglesItr
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 330
@@ -1717,7 +1717,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriangleGroup
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 345
@@ -1754,7 +1754,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetTriangleGroup
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 350
@@ -1789,7 +1789,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllocateTriangleGroup
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 359
@@ -1821,7 +1821,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriVertices
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 364
@@ -1863,7 +1863,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 373
@@ -1900,7 +1900,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriNormal
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 379
@@ -1935,7 +1935,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriArea
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 386
@@ -1970,7 +1970,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriInfo
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 398
@@ -2012,7 +2012,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriBounds
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 409
@@ -2047,7 +2047,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriFrame
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 425
@@ -2084,7 +2084,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEdgeV
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 445
@@ -2119,7 +2119,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEdgeV
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 450
@@ -2161,7 +2161,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeTrianglesItr
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 460
@@ -2196,7 +2196,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeTrianglesCount
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 465
@@ -2231,7 +2231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetOrientedBoundaryEdgeV
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 472
@@ -2266,7 +2266,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 491
@@ -2301,7 +2301,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 496
@@ -2336,7 +2336,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 525
@@ -2377,7 +2377,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 528
@@ -2414,7 +2414,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EnableVertexNormals
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 582
@@ -2447,7 +2447,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DiscardVertexNormals
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 596
@@ -2477,7 +2477,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EnableVertexColors
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 600
@@ -2510,7 +2510,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DiscardVertexColors
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 614
@@ -2540,7 +2540,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EnableTriangleGroups
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 619
@@ -2573,7 +2573,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DiscardTriangleGroups
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 630
@@ -2603,7 +2603,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexIndices
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 645
@@ -2637,7 +2637,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleIndices
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 649
@@ -2671,7 +2671,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeIndices
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 653
@@ -2703,7 +2703,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundaryEdgeIndices
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 659
@@ -2735,7 +2735,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 667
@@ -2767,7 +2767,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Triangles
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 673
@@ -2799,7 +2799,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindEdge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 684
@@ -2836,7 +2836,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindEdgeFromTri
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 691
@@ -2875,7 +2875,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VtxVerticesItr
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 712
@@ -2910,7 +2910,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VtxEdgesItr
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 720
@@ -2945,7 +2945,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VtxBoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 731
@@ -2982,7 +2982,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VtxAllBoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 749
@@ -3024,7 +3024,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVtxTriangles
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 765
@@ -3064,7 +3064,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVtxTriangleCount
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 784
@@ -3103,7 +3103,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VtxTrianglesItr
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 794
@@ -3138,7 +3138,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: tri_has_v
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 805
@@ -3175,7 +3175,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: tri_is_boundary
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 812
@@ -3210,7 +3210,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: tri_has_neighbour_t
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 819
@@ -3247,7 +3247,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: tri_has_sequential_v
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 826
@@ -3286,7 +3286,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_neighbour_edge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 837
@@ -3325,7 +3325,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_neighbour_index
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 849
@@ -3364,7 +3364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsNonManifoldEdge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 861
@@ -3399,7 +3399,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBoundaryEdge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 865
@@ -3434,7 +3434,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: edge_is_boundary
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 870
@@ -3469,7 +3469,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: edge_has_v
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 873
@@ -3506,7 +3506,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: edge_has_t
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 877
@@ -3543,7 +3543,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: edge_other_v
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 880
@@ -3580,7 +3580,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertex_is_boundary
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 894
@@ -3615,7 +3615,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBoundaryVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 897
@@ -3650,7 +3650,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBoundaryTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 906
@@ -3685,7 +3685,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBowtieVertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 952
@@ -3722,7 +3722,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBounds
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 966
@@ -3754,7 +3754,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CachedBounds
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 987
@@ -3789,7 +3789,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1004
@@ -3821,7 +3821,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CachedIsClosed
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1021
@@ -3856,7 +3856,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsCompact
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1034
@@ -3891,7 +3891,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsCompactV
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1037
@@ -3926,7 +3926,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1210
@@ -3965,7 +3965,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SplitEdge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1267
@@ -4007,7 +4007,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SplitEdge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1276
@@ -4047,7 +4047,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PokeTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1393
@@ -4089,7 +4089,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PokeTriangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1397
@@ -4133,7 +4133,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Deconstruct
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1461
@@ -4165,7 +4165,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: debug_check_is_vertex
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1475
@@ -4210,7 +4210,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: debug_check_is_triangle
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1482
@@ -4255,7 +4255,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: debug_check_is_edge
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1489
@@ -4300,7 +4300,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CheckValidity
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1502

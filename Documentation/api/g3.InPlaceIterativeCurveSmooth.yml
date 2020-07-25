@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InPlaceIterativeCurveSmooth
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 8
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curve
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 11
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Start
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 17
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: End
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 23
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Alpha
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 29
@@ -198,7 +198,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 34
@@ -228,7 +228,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 39
@@ -263,7 +263,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateDeformation
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 48
@@ -296,7 +296,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateDeformation_Closed
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 57
@@ -329,7 +329,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateDeformation_Open
     path: ../Assets/geometry3Sharp/curve/SimpleCurveDeformers.cs
     startLine: 76

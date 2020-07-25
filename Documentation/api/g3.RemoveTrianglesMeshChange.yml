@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTrianglesMeshChange
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 177
@@ -65,7 +65,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemovedV
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 179
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Positions
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 180
@@ -127,7 +127,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normals
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 181
@@ -158,7 +158,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Colors
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 182
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UVs
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 183
@@ -220,7 +220,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemovedT
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 185
@@ -251,7 +251,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Triangles
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 186
@@ -282,7 +282,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnApplyF
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 188
@@ -313,7 +313,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnRevertF
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 189
@@ -344,7 +344,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 191
@@ -374,7 +374,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitializeFromApply
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 196
@@ -412,7 +412,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitializeFromExisting
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 224
@@ -450,7 +450,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Apply
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 261
@@ -483,7 +483,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Changes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Revert
     path: ../Assets/geometry3Sharp/mesh/DMesh3Changes.cs
     startLine: 276

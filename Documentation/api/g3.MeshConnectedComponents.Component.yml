@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Component
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 20
@@ -48,7 +48,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Indices
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 22

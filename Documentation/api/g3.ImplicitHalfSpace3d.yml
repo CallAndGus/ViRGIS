@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ImplicitHalfSpace3d
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 48
@@ -60,7 +60,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Origin
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 50
@@ -91,7 +91,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normal
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 51
@@ -122,7 +122,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Value
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 53
@@ -162,7 +162,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 58

@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeoJSONObjectType
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 7
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 15
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultiPoint
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 23
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineString
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 31
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultiLineString
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 39
@@ -198,7 +198,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygon
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 47
@@ -233,7 +233,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultiPolygon
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 55
@@ -268,7 +268,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeometryCollection
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 63
@@ -303,7 +303,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Feature
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 71
@@ -338,7 +338,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/GeoJSONObjectType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FeatureCollection
     path: ../Assets/GeoJSON.Net/GeoJSONObjectType.cs
     startLine: 79

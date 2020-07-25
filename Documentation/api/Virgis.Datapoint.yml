@@ -12,9 +12,7 @@ items:
   - Virgis.Datapoint.MoveTo(Virgis.MoveArgs)
   - Virgis.Datapoint.Selected(Virgis.SelectionTypes)
   - Virgis.Datapoint.SetMaterial(UnityEngine.Material,UnityEngine.Material)
-  - Virgis.Datapoint.Translate(Virgis.MoveArgs)
   - Virgis.Datapoint.UnSelected(Virgis.SelectionTypes)
-  - Virgis.Datapoint.VertexMove(Virgis.MoveArgs)
   langs:
   - csharp
   - vb
@@ -26,7 +24,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Datapoint
     path: ../Assets/Scripts/Geometries/Datapoint.cs
     startLine: 13
@@ -59,6 +57,8 @@ items:
   - Virgis.VirgisFeature.label
   - Virgis.VirgisFeature.StartEditSession
   - Virgis.VirgisFeature.ExitEditSession(System.Boolean)
+  - Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
+  - Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
   - Virgis.VirgisFeature.AddVertex(UnityEngine.Vector3)
   - Virgis.VirgisFeature.RemoveVertex(Virgis.VirgisFeature)
   - Virgis.VirgisFeature.GetId
@@ -87,7 +87,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Selected
     path: ../Assets/Scripts/Geometries/Datapoint.cs
     startLine: 31
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnSelected
     path: ../Assets/Scripts/Geometries/Datapoint.cs
     startLine: 39
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetMaterial
     path: ../Assets/Scripts/Geometries/Datapoint.cs
     startLine: 71
@@ -197,7 +197,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveTo
     path: ../Assets/Scripts/Geometries/Datapoint.cs
     startLine: 83
@@ -233,7 +233,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Geometries/Datapoint.cs
     startLine: 111
@@ -248,78 +248,6 @@ items:
     content.vb: Public Overrides Sub MoveAxis(args As MoveArgs)
   overridden: Virgis.VirgisFeature.MoveAxis(Virgis.MoveArgs)
   overload: Virgis.Datapoint.MoveAxis*
-  modifiers.csharp:
-  - public
-  - override
-  modifiers.vb:
-  - Public
-  - Overrides
-- uid: Virgis.Datapoint.VertexMove(Virgis.MoveArgs)
-  commentId: M:Virgis.Datapoint.VertexMove(Virgis.MoveArgs)
-  id: VertexMove(Virgis.MoveArgs)
-  parent: Virgis.Datapoint
-  langs:
-  - csharp
-  - vb
-  name: VertexMove(MoveArgs)
-  nameWithType: Datapoint.VertexMove(MoveArgs)
-  fullName: Virgis.Datapoint.VertexMove(Virgis.MoveArgs)
-  type: Method
-  source:
-    remote:
-      path: Assets/Scripts/Geometries/Datapoint.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: VertexMove
-    path: ../Assets/Scripts/Geometries/Datapoint.cs
-    startLine: 116
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  syntax:
-    content: public override void VertexMove(MoveArgs args)
-    parameters:
-    - id: args
-      type: Virgis.MoveArgs
-    content.vb: Public Overrides Sub VertexMove(args As MoveArgs)
-  overridden: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
-  overload: Virgis.Datapoint.VertexMove*
-  modifiers.csharp:
-  - public
-  - override
-  modifiers.vb:
-  - Public
-  - Overrides
-- uid: Virgis.Datapoint.Translate(Virgis.MoveArgs)
-  commentId: M:Virgis.Datapoint.Translate(Virgis.MoveArgs)
-  id: Translate(Virgis.MoveArgs)
-  parent: Virgis.Datapoint
-  langs:
-  - csharp
-  - vb
-  name: Translate(MoveArgs)
-  nameWithType: Datapoint.Translate(MoveArgs)
-  fullName: Virgis.Datapoint.Translate(Virgis.MoveArgs)
-  type: Method
-  source:
-    remote:
-      path: Assets/Scripts/Geometries/Datapoint.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: Translate
-    path: ../Assets/Scripts/Geometries/Datapoint.cs
-    startLine: 120
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  syntax:
-    content: public override void Translate(MoveArgs args)
-    parameters:
-    - id: args
-      type: Virgis.MoveArgs
-    content.vb: Public Overrides Sub Translate(args As MoveArgs)
-  overridden: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
-  overload: Virgis.Datapoint.Translate*
   modifiers.csharp:
   - public
   - override
@@ -341,10 +269,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetClosest
     path: ../Assets/Scripts/Geometries/Datapoint.cs
-    startLine: 124
+    startLine: 118
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -384,10 +312,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Delete
     path: ../Assets/Scripts/Geometries/Datapoint.cs
-    startLine: 128
+    startLine: 122
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -414,10 +342,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapoint.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetGeometry
     path: ../Assets/Scripts/Geometries/Datapoint.cs
-    startLine: 132
+    startLine: 126
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -592,6 +520,78 @@ references:
     nameWithType: Boolean
     fullName: System.Boolean
     isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
+  commentId: M:Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
+  parent: Virgis.VirgisFeature
+  name: Translate(MoveArgs)
+  nameWithType: VirgisFeature.Translate(MoveArgs)
+  fullName: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
+  spec.csharp:
+  - uid: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
+    name: Translate
+    nameWithType: VirgisFeature.Translate
+    fullName: Virgis.VirgisFeature.Translate
+  - name: (
+    nameWithType: (
+    fullName: (
+  - uid: Virgis.MoveArgs
+    name: MoveArgs
+    nameWithType: MoveArgs
+    fullName: Virgis.MoveArgs
+  - name: )
+    nameWithType: )
+    fullName: )
+  spec.vb:
+  - uid: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
+    name: Translate
+    nameWithType: VirgisFeature.Translate
+    fullName: Virgis.VirgisFeature.Translate
+  - name: (
+    nameWithType: (
+    fullName: (
+  - uid: Virgis.MoveArgs
+    name: MoveArgs
+    nameWithType: MoveArgs
+    fullName: Virgis.MoveArgs
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
+  commentId: M:Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
+  parent: Virgis.VirgisFeature
+  name: VertexMove(MoveArgs)
+  nameWithType: VirgisFeature.VertexMove(MoveArgs)
+  fullName: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
+  spec.csharp:
+  - uid: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
+    name: VertexMove
+    nameWithType: VirgisFeature.VertexMove
+    fullName: Virgis.VirgisFeature.VertexMove
+  - name: (
+    nameWithType: (
+    fullName: (
+  - uid: Virgis.MoveArgs
+    name: MoveArgs
+    nameWithType: MoveArgs
+    fullName: Virgis.MoveArgs
+  - name: )
+    nameWithType: )
+    fullName: )
+  spec.vb:
+  - uid: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
+    name: VertexMove
+    nameWithType: VirgisFeature.VertexMove
+    fullName: Virgis.VirgisFeature.VertexMove
+  - name: (
+    nameWithType: (
+    fullName: (
+  - uid: Virgis.MoveArgs
+    name: MoveArgs
+    nameWithType: MoveArgs
+    fullName: Virgis.MoveArgs
   - name: )
     nameWithType: )
     fullName: )
@@ -1084,88 +1084,6 @@ references:
   name: MoveAxis
   nameWithType: Datapoint.MoveAxis
   fullName: Virgis.Datapoint.MoveAxis
-- uid: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
-  commentId: M:Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
-  parent: Virgis.VirgisFeature
-  name: VertexMove(MoveArgs)
-  nameWithType: VirgisFeature.VertexMove(MoveArgs)
-  fullName: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
-  spec.csharp:
-  - uid: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
-    name: VertexMove
-    nameWithType: VirgisFeature.VertexMove
-    fullName: Virgis.VirgisFeature.VertexMove
-  - name: (
-    nameWithType: (
-    fullName: (
-  - uid: Virgis.MoveArgs
-    name: MoveArgs
-    nameWithType: MoveArgs
-    fullName: Virgis.MoveArgs
-  - name: )
-    nameWithType: )
-    fullName: )
-  spec.vb:
-  - uid: Virgis.VirgisFeature.VertexMove(Virgis.MoveArgs)
-    name: VertexMove
-    nameWithType: VirgisFeature.VertexMove
-    fullName: Virgis.VirgisFeature.VertexMove
-  - name: (
-    nameWithType: (
-    fullName: (
-  - uid: Virgis.MoveArgs
-    name: MoveArgs
-    nameWithType: MoveArgs
-    fullName: Virgis.MoveArgs
-  - name: )
-    nameWithType: )
-    fullName: )
-- uid: Virgis.Datapoint.VertexMove*
-  commentId: Overload:Virgis.Datapoint.VertexMove
-  name: VertexMove
-  nameWithType: Datapoint.VertexMove
-  fullName: Virgis.Datapoint.VertexMove
-- uid: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
-  commentId: M:Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
-  parent: Virgis.VirgisFeature
-  name: Translate(MoveArgs)
-  nameWithType: VirgisFeature.Translate(MoveArgs)
-  fullName: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
-  spec.csharp:
-  - uid: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
-    name: Translate
-    nameWithType: VirgisFeature.Translate
-    fullName: Virgis.VirgisFeature.Translate
-  - name: (
-    nameWithType: (
-    fullName: (
-  - uid: Virgis.MoveArgs
-    name: MoveArgs
-    nameWithType: MoveArgs
-    fullName: Virgis.MoveArgs
-  - name: )
-    nameWithType: )
-    fullName: )
-  spec.vb:
-  - uid: Virgis.VirgisFeature.Translate(Virgis.MoveArgs)
-    name: Translate
-    nameWithType: VirgisFeature.Translate
-    fullName: Virgis.VirgisFeature.Translate
-  - name: (
-    nameWithType: (
-    fullName: (
-  - uid: Virgis.MoveArgs
-    name: MoveArgs
-    nameWithType: MoveArgs
-    fullName: Virgis.MoveArgs
-  - name: )
-    nameWithType: )
-    fullName: )
-- uid: Virgis.Datapoint.Translate*
-  commentId: Overload:Virgis.Datapoint.Translate
-  name: Translate
-  nameWithType: Datapoint.Translate
-  fullName: Virgis.Datapoint.Translate
 - uid: Virgis.VirgisFeature.GetClosest(UnityEngine.Vector3,System.Guid[])
   commentId: M:Virgis.VirgisFeature.GetClosest(UnityEngine.Vector3,System.Guid[])
   parent: Virgis.VirgisFeature

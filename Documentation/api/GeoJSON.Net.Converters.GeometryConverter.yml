@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/GeometryConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeometryConverter
     path: ../Assets/GeoJSON.Net/Converters/GeometryConverter.cs
     startLine: 15
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/GeometryConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CanConvert
     path: ../Assets/GeoJSON.Net/Converters/GeometryConverter.cs
     startLine: 24
@@ -99,7 +99,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/GeometryConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadJson
     path: ../Assets/GeoJSON.Net/Converters/GeometryConverter.cs
     startLine: 39
@@ -150,7 +150,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/GeometryConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteJson
     path: ../Assets/GeoJSON.Net/Converters/GeometryConverter.cs
     startLine: 64

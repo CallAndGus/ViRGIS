@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshCaches.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshTriInfoCache
     path: ../Assets/geometry3Sharp/mesh/MeshCaches.cs
     startLine: 11
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshCaches.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Centroids
     path: ../Assets/geometry3Sharp/mesh/MeshCaches.cs
     startLine: 13
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshCaches.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normals
     path: ../Assets/geometry3Sharp/mesh/MeshCaches.cs
     startLine: 14
@@ -116,7 +116,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshCaches.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Areas
     path: ../Assets/geometry3Sharp/mesh/MeshCaches.cs
     startLine: 15
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshCaches.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshCaches.cs
     startLine: 17
@@ -180,7 +180,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshCaches.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriInfo
     path: ../Assets/geometry3Sharp/mesh/MeshCaches.cs
     startLine: 32

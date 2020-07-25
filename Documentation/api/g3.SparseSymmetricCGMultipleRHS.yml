@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SparseSymmetricCGMultipleRHS
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 225
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultiplyF
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 228
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PreconditionMultiplyF
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 230
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: B
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 233
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvergeTolerance
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 235
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: X
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 239
@@ -216,7 +216,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UseXAsInitialGuess
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 240
@@ -247,7 +247,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxIterations
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 242
@@ -278,7 +278,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Iterations
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 243
@@ -309,7 +309,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solve
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 252
@@ -343,7 +343,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolvePreconditioned
     path: ../Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs
     startLine: 381

@@ -41,7 +41,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CachingMeshSDF
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 47
@@ -76,7 +76,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 49
@@ -107,7 +107,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Spatial
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 50
@@ -138,7 +138,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CellSize
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 51
@@ -169,7 +169,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExpandBounds
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 55
@@ -200,7 +200,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxOffsetDistance
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 58
@@ -231,7 +231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UseParallel
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 61
@@ -262,7 +262,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeSigns
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 64
@@ -293,7 +293,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsideMode
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 77
@@ -324,7 +324,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WantClosestTriGrid
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 81
@@ -355,7 +355,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WantIntersectionsGrid
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 84
@@ -386,7 +386,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CancelF
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 87
@@ -419,7 +419,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DebugPrint
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 90
@@ -450,7 +450,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 99
@@ -487,7 +487,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Initialize
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 111
@@ -517,7 +517,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetValue
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 152
@@ -552,7 +552,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dimensions
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 183
@@ -587,7 +587,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Grid
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 190
@@ -624,7 +624,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GridOrigin
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 197
@@ -661,7 +661,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClosestTriGrid
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 202
@@ -696,7 +696,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntersectionsGrid
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 209
@@ -731,7 +731,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 218
@@ -775,7 +775,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 221
@@ -815,7 +815,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CellCenter
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 225
@@ -854,7 +854,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: orientation
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 360
@@ -902,7 +902,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: point_in_triangle_2d
     path: ../Assets/geometry3Sharp/implicit/CachingMeshSDF.cs
     startLine: 375

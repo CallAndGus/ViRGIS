@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ProcessResult
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 263
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ok_Collapsed
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 264
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ok_Flipped
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 265
@@ -118,7 +118,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ok_Split
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 266
@@ -150,7 +150,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ignored_EdgeIsFine
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 267
@@ -182,7 +182,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ignored_EdgeIsFullyConstrained
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 268
@@ -214,7 +214,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_OpNotSuccessful
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 269
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_NotAnEdge
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 270

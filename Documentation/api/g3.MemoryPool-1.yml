@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/MemoryPool.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MemoryPool
     path: ../Assets/geometry3Sharp/core/MemoryPool.cs
     startLine: 8
@@ -63,7 +63,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/MemoryPool.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/MemoryPool.cs
     startLine: 13
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/MemoryPool.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Allocate
     path: ../Assets/geometry3Sharp/core/MemoryPool.cs
     startLine: 19
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/MemoryPool.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Return
     path: ../Assets/geometry3Sharp/core/MemoryPool.cs
     startLine: 32
@@ -164,7 +164,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/MemoryPool.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReturnAll
     path: ../Assets/geometry3Sharp/core/MemoryPool.cs
     startLine: 37
@@ -196,7 +196,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/MemoryPool.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FreeAll
     path: ../Assets/geometry3Sharp/core/MemoryPool.cs
     startLine: 43

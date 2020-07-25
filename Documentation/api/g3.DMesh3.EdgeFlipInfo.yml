@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeFlipInfo
     path: ../Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
     startLine: 442
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: eID
     path: ../Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
     startLine: 443
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: v0
     path: ../Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
     startLine: 444
@@ -116,7 +116,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: v1
     path: ../Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
     startLine: 444
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ov0
     path: ../Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
     startLine: 445
@@ -178,7 +178,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ov1
     path: ../Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
     startLine: 445
@@ -209,7 +209,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: t0
     path: ../Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
     startLine: 446
@@ -240,7 +240,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: t1
     path: ../Assets/geometry3Sharp/mesh/DMesh3_edge_operators.cs
     startLine: 446

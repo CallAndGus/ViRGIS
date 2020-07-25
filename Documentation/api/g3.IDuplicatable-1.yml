@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/g3Interfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IDuplicatable
     path: ../Assets/geometry3Sharp/core/g3Interfaces.cs
     startLine: 9
@@ -55,7 +55,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/g3Interfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Duplicate
     path: ../Assets/geometry3Sharp/core/g3Interfaces.cs
     startLine: 11

@@ -1,0 +1,131 @@
+### YamlMime:ManagedReference
+items:
+- uid: Virgis.QuitButton
+  commentId: T:Virgis.QuitButton
+  id: QuitButton
+  parent: Virgis
+  children:
+  - Virgis.QuitButton.OnClick
+  langs:
+  - csharp
+  - vb
+  name: QuitButton
+  nameWithType: QuitButton
+  fullName: Virgis.QuitButton
+  type: Class
+  source:
+    remote:
+      path: Assets/Scripts/QuitButton.cs
+      branch: gh-pages
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
+    id: QuitButton
+    path: ../Assets/Scripts/QuitButton.cs
+    startLine: 4
+  assemblies:
+  - Assembly-CSharp
+  namespace: Virgis
+  syntax:
+    content: 'public class QuitButton : MonoBehaviour'
+    content.vb: >-
+      Public Class QuitButton
+          Inherits MonoBehaviour
+  inheritance:
+  - System.Object
+  - UnityEngine.Object
+  - UnityEngine.Component
+  - UnityEngine.Behaviour
+  - UnityEngine.MonoBehaviour
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Virgis.QuitButton.OnClick
+  commentId: M:Virgis.QuitButton.OnClick
+  id: OnClick
+  parent: Virgis.QuitButton
+  langs:
+  - csharp
+  - vb
+  name: OnClick()
+  nameWithType: QuitButton.OnClick()
+  fullName: Virgis.QuitButton.OnClick()
+  type: Method
+  source:
+    remote:
+      path: Assets/Scripts/QuitButton.cs
+      branch: gh-pages
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
+    id: OnClick
+    path: ../Assets/Scripts/QuitButton.cs
+    startLine: 6
+  assemblies:
+  - Assembly-CSharp
+  namespace: Virgis
+  syntax:
+    content: public void OnClick()
+    content.vb: Public Sub OnClick
+  overload: Virgis.QuitButton.OnClick*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+references:
+- uid: Virgis
+  commentId: N:Virgis
+  name: Virgis
+  nameWithType: Virgis
+  fullName: Virgis
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: UnityEngine.Object
+  commentId: T:UnityEngine.Object
+  parent: UnityEngine
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: UnityEngine.Object
+- uid: UnityEngine.Component
+  commentId: T:UnityEngine.Component
+  parent: UnityEngine
+  isExternal: true
+  name: Component
+  nameWithType: Component
+  fullName: UnityEngine.Component
+- uid: UnityEngine.Behaviour
+  commentId: T:UnityEngine.Behaviour
+  parent: UnityEngine
+  isExternal: true
+  name: Behaviour
+  nameWithType: Behaviour
+  fullName: UnityEngine.Behaviour
+- uid: UnityEngine.MonoBehaviour
+  commentId: T:UnityEngine.MonoBehaviour
+  parent: UnityEngine
+  isExternal: true
+  name: MonoBehaviour
+  nameWithType: MonoBehaviour
+  fullName: UnityEngine.MonoBehaviour
+- uid: System
+  commentId: N:System
+  isExternal: true
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: UnityEngine
+  commentId: N:UnityEngine
+  isExternal: true
+  name: UnityEngine
+  nameWithType: UnityEngine
+  fullName: UnityEngine
+- uid: Virgis.QuitButton.OnClick*
+  commentId: Overload:Virgis.QuitButton.OnClick
+  name: OnClick
+  nameWithType: QuitButton.OnClick
+  fullName: Virgis.QuitButton.OnClick

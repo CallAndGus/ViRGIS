@@ -33,7 +33,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParametricCurveSequence2
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 6
@@ -71,7 +71,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 12
@@ -101,7 +101,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 16
@@ -139,7 +139,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 21
@@ -174,7 +174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curves
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 25
@@ -211,7 +211,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 29
@@ -248,7 +248,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Append
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 35
@@ -281,7 +281,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Prepend
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 40
@@ -314,7 +314,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParamLength
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 45
@@ -351,7 +351,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 54
@@ -388,7 +388,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TangentT
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 67
@@ -425,7 +425,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 82
@@ -462,7 +462,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 90
@@ -499,7 +499,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLength
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 99
@@ -536,7 +536,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 112
@@ -568,7 +568,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 118
@@ -602,7 +602,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTransformable
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 128
@@ -639,7 +639,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/ParametricCurveSequence2.cs
     startLine: 129

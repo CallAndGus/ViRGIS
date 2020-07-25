@@ -16,7 +16,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EndEditSessionEvent
     path: ../Assets/Scripts/EditSession.cs
     startLine: 8

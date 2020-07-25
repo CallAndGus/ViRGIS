@@ -29,7 +29,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Hexagon2d
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 4
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 12
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Radius
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 13
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TopMode
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 14
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 16
@@ -192,7 +192,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 24
@@ -227,7 +227,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 29
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InnerRadius
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 35
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Corner
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 41
@@ -329,7 +329,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Width
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 51
@@ -364,7 +364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Height
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 56
@@ -399,7 +399,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertSpacing
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 63
@@ -434,7 +434,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HorzSpacing
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 69
@@ -469,7 +469,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Hexagon2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/curve/Hexagon2.cs
     startLine: 113

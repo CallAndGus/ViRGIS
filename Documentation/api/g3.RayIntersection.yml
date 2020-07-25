@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/RayIntersection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RayIntersection
     path: ../Assets/geometry3Sharp/queries/RayIntersection.cs
     startLine: 7
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/RayIntersection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sphere
     path: ../Assets/geometry3Sharp/queries/RayIntersection.cs
     startLine: 15
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/RayIntersection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SphereSigned
     path: ../Assets/geometry3Sharp/queries/RayIntersection.cs
     startLine: 22
@@ -150,7 +150,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/RayIntersection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SphereSigned
     path: ../Assets/geometry3Sharp/queries/RayIntersection.cs
     startLine: 46
@@ -198,7 +198,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/RayIntersection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InfiniteCylinder
     path: ../Assets/geometry3Sharp/queries/RayIntersection.cs
     startLine: 66
@@ -248,7 +248,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/RayIntersection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InfiniteCylinderSigned
     path: ../Assets/geometry3Sharp/queries/RayIntersection.cs
     startLine: 72

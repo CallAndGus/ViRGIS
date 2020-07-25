@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshICP
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 6
@@ -63,7 +63,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Source
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 8
@@ -94,7 +94,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TargetSurface
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 9
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translation
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 11
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rotation
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 12
@@ -187,7 +187,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VerboseF
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 14
@@ -218,7 +218,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxIterations
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 16
@@ -249,7 +249,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UseNormals
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 18
@@ -280,7 +280,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxAllowableDistance
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 19
@@ -311,7 +311,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvergeTolerance
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 22
@@ -342,7 +342,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Converged
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 23
@@ -373,7 +373,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 32
@@ -408,7 +408,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solve
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 46
@@ -443,7 +443,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Error
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 90
@@ -480,7 +480,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshICP.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateVertices
     path: ../Assets/geometry3Sharp/mesh_ops/MeshICP.cs
     startLine: 100

@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OBJWriter
     path: ../Assets/geometry3Sharp/io/OBJWriter.cs
     startLine: 15
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OpenStreamF
     path: ../Assets/geometry3Sharp/io/OBJWriter.cs
     startLine: 18
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CloseStreamF
     path: ../Assets/geometry3Sharp/io/OBJWriter.cs
     startLine: 21
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GroupNamePrefix
     path: ../Assets/geometry3Sharp/io/OBJWriter.cs
     startLine: 25
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GroupNameF
     path: ../Assets/geometry3Sharp/io/OBJWriter.cs
     startLine: 26
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Write
     path: ../Assets/geometry3Sharp/io/OBJWriter.cs
     startLine: 28
@@ -230,7 +230,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Write
     path: ../Assets/geometry3Sharp/io/OBJWriter.cs
     startLine: 34
@@ -274,7 +274,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: set_current_material
     path: ../Assets/geometry3Sharp/io/OBJWriter.cs
     startLine: 216

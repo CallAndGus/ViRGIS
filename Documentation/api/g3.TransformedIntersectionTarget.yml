@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransformedIntersectionTarget
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 8
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapToBaseF
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 12
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapFromBasePosF
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 13
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapFromBaseNormalF
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 14
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasNormal
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 17
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RayIntersect
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 18

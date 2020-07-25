@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMixer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ColorMixer
     path: ../Assets/geometry3Sharp/color/ColorMixer.cs
     startLine: 6
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMixer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Lighten
     path: ../Assets/geometry3Sharp/color/ColorMixer.cs
     startLine: 9
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMixer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Darken
     path: ../Assets/geometry3Sharp/color/ColorMixer.cs
     startLine: 16
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMixer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CopyHue
     path: ../Assets/geometry3Sharp/color/ColorMixer.cs
     startLine: 24

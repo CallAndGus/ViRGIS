@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MenuFacade
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 13
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: startEditButton
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 15
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: stopSaveEditButton
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 16
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: stopDiscardEditButton
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 17
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: layersUI
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 18
@@ -191,7 +191,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Visible
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 39
@@ -224,7 +224,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HandleKeyInput
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 49
@@ -257,7 +257,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnShowLayersButtonClicked
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 56
@@ -287,7 +287,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnStartEditButtonClicked
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 61
@@ -317,7 +317,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnStopSaveEditButtonClicked
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 65
@@ -347,7 +347,7 @@ items:
     remote:
       path: Assets/Scripts/MenuFacade.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnStopDiscardEditButtonClicked
     path: ../Assets/Scripts/MenuFacade.cs
     startLine: 69

@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshFacesFromLoop
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
     startLine: 12
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
     startLine: 14
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
     startLine: 21
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
     startLine: 35
@@ -165,7 +165,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToArray
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
     startLine: 51
@@ -199,7 +199,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToSelection
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
     startLine: 56
@@ -231,7 +231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PathTriangles
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
     startLine: 64
@@ -266,7 +266,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InteriorTriangles
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFacesFromLoop.cs
     startLine: 67

@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IMultiCurve2d
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 68
@@ -48,7 +48,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curves
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 70

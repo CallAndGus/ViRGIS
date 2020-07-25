@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolidRegionInfo
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 419
@@ -55,7 +55,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygons
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 421
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solids
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 422
@@ -117,7 +117,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolygonsSources
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 425
@@ -148,7 +148,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 427
@@ -183,7 +183,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Area
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 437
@@ -218,7 +218,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HolesArea
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 447

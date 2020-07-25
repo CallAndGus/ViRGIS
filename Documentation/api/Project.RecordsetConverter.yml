@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RecordsetConverter
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 120
@@ -56,7 +56,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 122
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CanConvert
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 127
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadJson
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 132
@@ -168,7 +168,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteJson
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 161

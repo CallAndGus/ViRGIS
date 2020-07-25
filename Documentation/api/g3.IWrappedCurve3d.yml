@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IWrappedCurve3d
     path: ../Assets/geometry3Sharp/curve/CurveUtils.cs
     startLine: 207
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexList
     path: ../Assets/geometry3Sharp/curve/CurveUtils.cs
     startLine: 209
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Closed
     path: ../Assets/geometry3Sharp/curve/CurveUtils.cs
     startLine: 210
@@ -130,7 +130,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/curve/CurveUtils.cs
     startLine: 212
@@ -167,7 +167,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentCount
     path: ../Assets/geometry3Sharp/curve/CurveUtils.cs
     startLine: 213
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/curve/CurveUtils.cs
     startLine: 215
@@ -241,7 +241,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSegment
     path: ../Assets/geometry3Sharp/curve/CurveUtils.cs
     startLine: 216
@@ -278,7 +278,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/curve/CurveUtils.cs
     startLine: 222

@@ -37,7 +37,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BiArcFit2
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 11
@@ -70,7 +70,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point1
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 13
@@ -101,7 +101,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point2
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 14
@@ -132,7 +132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Tangent1
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 15
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Tangent2
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 16
@@ -194,7 +194,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Epsilon
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 19
@@ -225,7 +225,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Arc1
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 21
@@ -256,7 +256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Arc2
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 22
@@ -287,7 +287,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Arc1IsSegment
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 24
@@ -318,7 +318,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Arc2IsSegment
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 25
@@ -349,7 +349,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment1
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 27
@@ -380,7 +380,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment2
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 28
@@ -411,7 +411,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FitD1
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 32
@@ -442,7 +442,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FitD2
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 33
@@ -473,7 +473,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 37
@@ -512,7 +512,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 50
@@ -553,7 +553,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Distance
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 79
@@ -588,7 +588,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearestPoint
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 87
@@ -623,7 +623,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curves
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 96
@@ -658,7 +658,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curve1
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 104
@@ -693,7 +693,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curve2
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 109
@@ -728,7 +728,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/approximation/BiArcFit2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DebugPrint
     path: ../Assets/geometry3Sharp/approximation/BiArcFit2.cs
     startLine: 362

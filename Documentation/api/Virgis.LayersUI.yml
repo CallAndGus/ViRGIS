@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayersUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LayersUI
     path: ../Assets/Scripts/Layers/LayersUI.cs
     startLine: 17
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayersUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: layersScrollView
     path: ../Assets/Scripts/Layers/LayersUI.cs
     startLine: 19
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayersUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: layerPanelPrefab
     path: ../Assets/Scripts/Layers/LayersUI.cs
     startLine: 20
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayersUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: menus
     path: ../Assets/Scripts/Layers/LayersUI.cs
     startLine: 21
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayersUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HandleKeyInput
     path: ../Assets/Scripts/Layers/LayersUI.cs
     startLine: 36
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayersUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnShowMenuButtonClicked
     path: ../Assets/Scripts/Layers/LayersUI.cs
     startLine: 54

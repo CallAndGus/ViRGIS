@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Integrate1d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Integrate1d
     path: ../Assets/geometry3Sharp/math/Integrate1d.cs
     startLine: 5
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Integrate1d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RombergIntegral
     path: ../Assets/geometry3Sharp/math/Integrate1d.cs
     startLine: 7
@@ -101,7 +101,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Integrate1d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GaussianQuadrature
     path: ../Assets/geometry3Sharp/math/Integrate1d.cs
     startLine: 43
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Integrate1d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrapezoidRule
     path: ../Assets/geometry3Sharp/math/Integrate1d.cs
     startLine: 81

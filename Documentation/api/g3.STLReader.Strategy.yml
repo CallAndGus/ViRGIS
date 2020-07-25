@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Strategy
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 32
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoProcessing
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 34
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IdenticalVertexWeld
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 35
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TolerantVertexWeld
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 36
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AutoBestResult
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 38

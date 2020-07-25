@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EditSession
     path: ../Assets/Scripts/EditSession.cs
     startLine: 22
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/Scripts/EditSession.cs
     startLine: 34
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: editableLayer
     path: ../Assets/Scripts/EditSession.cs
     startLine: 42
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsActive
     path: ../Assets/Scripts/EditSession.cs
     startLine: 52
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Start
     path: ../Assets/Scripts/EditSession.cs
     startLine: 56
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StopAndSave
     path: ../Assets/Scripts/EditSession.cs
     startLine: 63
@@ -216,7 +216,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StopAndDiscard
     path: ../Assets/Scripts/EditSession.cs
     startLine: 70
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddStartEditSessionListener
     path: ../Assets/Scripts/EditSession.cs
     startLine: 77
@@ -279,7 +279,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddEndEditSessionListener
     path: ../Assets/Scripts/EditSession.cs
     startLine: 81
@@ -315,7 +315,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddEditableLayerChangedListener
     path: ../Assets/Scripts/EditSession.cs
     startLine: 85
@@ -351,7 +351,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mode
     path: ../Assets/Scripts/EditSession.cs
     startLine: 89

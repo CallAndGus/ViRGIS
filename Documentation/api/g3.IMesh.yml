@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IMesh
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 30
@@ -70,7 +70,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleCount
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 32
@@ -103,7 +103,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxTriangleID
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 33
@@ -136,7 +136,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexUVs
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 35
@@ -169,7 +169,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexUV
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 36
@@ -200,7 +200,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexAll
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 38
@@ -231,7 +231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasTriangleGroups
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 40
@@ -264,7 +264,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriangle
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 42
@@ -295,7 +295,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriangleGroup
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 43
@@ -326,7 +326,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTriangle
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 45
@@ -357,7 +357,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleIndices
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 48

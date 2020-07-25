@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IndexMap
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 207
@@ -60,7 +60,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidIndex
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 210
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 217
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 228
@@ -166,7 +166,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 235
@@ -201,7 +201,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetToInvalid
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 252
@@ -231,7 +231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 264
@@ -266,7 +266,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 276

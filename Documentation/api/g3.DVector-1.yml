@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DVector
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 13
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 24
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 31
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 43
@@ -196,7 +196,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 48
@@ -232,7 +232,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Length
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 64
@@ -269,7 +269,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BlockCount
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 68
@@ -306,7 +306,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: size
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 72
@@ -343,7 +343,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: empty
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 76
@@ -380,7 +380,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MemoryUsageBytes
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 81
@@ -417,7 +417,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 85
@@ -452,7 +452,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 97
@@ -489,7 +489,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 102
@@ -525,7 +525,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 109
@@ -563,7 +563,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: push_back
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 117
@@ -598,7 +598,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: pop_back
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 120
@@ -630,7 +630,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: insert
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 132
@@ -667,7 +667,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: insertAt
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 135
@@ -704,7 +704,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: resize
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 148
@@ -739,7 +739,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: copy
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 180
@@ -775,7 +775,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 200
@@ -815,7 +815,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: back
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 220
@@ -852,7 +852,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: front
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 224
@@ -889,7 +889,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBuffer
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 237
@@ -925,7 +925,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBuffer
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 243
@@ -959,7 +959,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToArray
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 250
@@ -993,7 +993,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBufferCast
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 255
@@ -1030,7 +1030,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBytes
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 264
@@ -1064,7 +1064,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Initialize
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 281
@@ -1100,7 +1100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clear
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 309
@@ -1134,7 +1134,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Apply
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 320
@@ -1172,7 +1172,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ApplyReplace
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 336
@@ -1210,7 +1210,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastGetBuffer
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 357
@@ -1250,7 +1250,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastGetBuffer
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 368
@@ -1290,7 +1290,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastGetBuffer
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 379
@@ -1330,7 +1330,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 393
@@ -1364,7 +1364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BlockIterator
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 415

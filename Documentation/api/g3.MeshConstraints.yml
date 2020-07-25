@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshConstraints
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 106
@@ -63,7 +63,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 113
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllocateSetID
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 118
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasEdgeConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 122
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEdgeConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 127
@@ -195,7 +195,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetOrUpdateEdgeConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 135
@@ -230,7 +230,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClearEdgeConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 140
@@ -263,7 +263,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindConstrainedEdgesBySetID
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 145
@@ -298,7 +298,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 159
@@ -333,7 +333,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 164
@@ -368,7 +368,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 172
@@ -408,7 +408,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetOrUpdateVertexConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 177
@@ -443,7 +443,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClearVertexConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 182
@@ -476,7 +476,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexConstraintsItr
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 188
@@ -508,7 +508,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasConstraints
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 194

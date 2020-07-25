@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeLoopRemesher
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 17
@@ -137,7 +137,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InputLoop
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 19
@@ -168,7 +168,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OutputLoop
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 20
@@ -199,7 +199,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LocalSmoothingRings
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 26
@@ -232,7 +232,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 32
@@ -267,7 +267,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateLoop
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 41
@@ -300,7 +300,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Precompute
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 50
@@ -333,7 +333,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: start_edges
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 66
@@ -368,7 +368,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: next_edge
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 83
@@ -411,7 +411,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: end_pass
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 98
@@ -444,7 +444,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: begin_smooth
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 107
@@ -477,7 +477,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: smooth_vertices
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 129
@@ -512,7 +512,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: project_vertices
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 158
@@ -547,7 +547,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnEdgeSplit
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 168
@@ -589,7 +589,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnEdgeCollapse
     path: ../Assets/geometry3Sharp/mesh/EdgeLoopRemesher.cs
     startLine: 188

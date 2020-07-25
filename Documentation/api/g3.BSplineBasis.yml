@@ -47,7 +47,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BSplineBasis
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 5
@@ -80,7 +80,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 16
@@ -110,7 +110,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 25
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 57
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 81
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetNumCtrlPoints
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 94
@@ -253,7 +253,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetDegree
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 97
@@ -285,7 +285,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsOpen
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 100
@@ -317,7 +317,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsUniform
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 103
@@ -349,7 +349,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: KnotCount
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 108
@@ -384,7 +384,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InteriorKnotCount
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 111
@@ -419,7 +419,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetInteriorKnot
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 119
@@ -454,7 +454,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetInteriorKnot
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 132
@@ -489,7 +489,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetKnot
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 146
@@ -524,7 +524,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetKnot
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 149
@@ -559,7 +559,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetD0
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 155
@@ -594,7 +594,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetD1
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 158
@@ -629,7 +629,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetD2
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 161
@@ -664,7 +664,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetD3
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 164
@@ -699,7 +699,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 169
@@ -741,7 +741,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Initialize
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 277
@@ -780,7 +780,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Allocate
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 301
@@ -812,7 +812,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetKey
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 317
@@ -850,7 +850,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mNumCtrlPoints
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 357
@@ -881,7 +881,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mDegree
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 358
@@ -912,7 +912,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mKnot
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 359
@@ -943,7 +943,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mOpen
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 360
@@ -974,7 +974,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mUniform
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 360
@@ -1005,7 +1005,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mBD0
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 366
@@ -1036,7 +1036,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mBD1
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 367
@@ -1067,7 +1067,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mBD2
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 368
@@ -1098,7 +1098,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BSplineBasis.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mBD3
     path: ../Assets/geometry3Sharp/curve/BSplineBasis.cs
     startLine: 369

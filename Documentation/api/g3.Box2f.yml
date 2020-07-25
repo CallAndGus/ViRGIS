@@ -37,7 +37,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Box2f
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 315
@@ -68,7 +68,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 322
@@ -99,7 +99,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisX
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 323
@@ -130,7 +130,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisY
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 324
@@ -161,7 +161,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Extent
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 325
@@ -192,7 +192,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 327
@@ -225,7 +225,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 333
@@ -264,7 +264,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 338
@@ -299,7 +299,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 344
@@ -332,7 +332,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Empty
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 351
@@ -367,7 +367,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Axis
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 354
@@ -402,7 +402,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeVertices
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 360
@@ -434,7 +434,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeVertices
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 365
@@ -470,7 +470,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxExtent
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 376
@@ -505,7 +505,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinExtent
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 379
@@ -540,7 +540,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Diagonal
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 382
@@ -575,7 +575,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Area
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 386
@@ -610,7 +610,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contain
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 390
@@ -643,7 +643,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contain
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 408
@@ -676,7 +676,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 414
@@ -711,7 +711,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Expand
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 421
@@ -744,7 +744,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Box2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/geometry3Sharp/math/Box2.cs
     startLine: 425

@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment2dBox
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 371
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 373
@@ -84,7 +84,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 375
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 376
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Implicit
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 380

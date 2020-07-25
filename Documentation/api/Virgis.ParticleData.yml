@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/ParticleData.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParticleData
     path: ../Assets/Scripts/Basic Types/ParticleData.cs
     startLine: 12
@@ -56,7 +56,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/ParticleData.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertices
     path: ../Assets/Scripts/Basic Types/ParticleData.cs
     startLine: 14
@@ -87,7 +87,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/ParticleData.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: normals
     path: ../Assets/Scripts/Basic Types/ParticleData.cs
     startLine: 15
@@ -118,7 +118,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/ParticleData.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: colors
     path: ../Assets/Scripts/Basic Types/ParticleData.cs
     startLine: 16
@@ -149,7 +149,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/ParticleData.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertexCount
     path: ../Assets/Scripts/Basic Types/ParticleData.cs
     startLine: 17
@@ -180,7 +180,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/ParticleData.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bounds
     path: ../Assets/Scripts/Basic Types/ParticleData.cs
     startLine: 18

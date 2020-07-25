@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/PositionConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PositionConverter
     path: ../Assets/GeoJSON.Net/Converters/PositionConverter.cs
     startLine: 12
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/PositionConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CanConvert
     path: ../Assets/GeoJSON.Net/Converters/PositionConverter.cs
     startLine: 21
@@ -99,7 +99,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/PositionConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadJson
     path: ../Assets/GeoJSON.Net/Converters/PositionConverter.cs
     startLine: 36
@@ -150,7 +150,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/PositionConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteJson
     path: ../Assets/GeoJSON.Net/Converters/PositionConverter.cs
     startLine: 57

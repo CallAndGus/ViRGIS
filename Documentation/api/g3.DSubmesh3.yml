@@ -49,7 +49,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DSubmesh3
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 11
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseMesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 13
@@ -113,7 +113,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SubMesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 14
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WantComponents
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 15
@@ -175,7 +175,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeTriMaps
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 16
@@ -206,7 +206,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OverrideGroupID
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 17
@@ -237,7 +237,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseSubmeshV
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 19
@@ -268,7 +268,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseToSubV
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 22
@@ -299,7 +299,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SubToBaseV
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 23
@@ -330,7 +330,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseToSubT
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 25
@@ -361,7 +361,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SubToBaseT
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 26
@@ -392,7 +392,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseBorderE
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 29
@@ -423,7 +423,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseBoundaryE
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 30
@@ -454,7 +454,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseBorderV
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 31
@@ -485,7 +485,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 34
@@ -523,7 +523,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 39
@@ -563,7 +563,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 45
@@ -596,7 +596,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 49
@@ -632,7 +632,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 52
@@ -670,7 +670,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapVertexToSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 56
@@ -705,7 +705,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapVertexToBaseMesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 59
@@ -740,7 +740,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapVerticesToSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 65
@@ -775,7 +775,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapVerticesToBaseMesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 68
@@ -810,7 +810,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapVerticesToSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 72
@@ -846,7 +846,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapEdgeToSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 79
@@ -881,7 +881,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapEdgesToSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 85
@@ -917,7 +917,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapEdgeToBaseMesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 91
@@ -952,7 +952,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapTriangleToSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 99
@@ -987,7 +987,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapTriangleToBaseMesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 105
@@ -1022,7 +1022,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapTrianglesToSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 114
@@ -1058,7 +1058,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeBoundaryInfo
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 125
@@ -1094,7 +1094,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeBoundaryInfo
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 128
@@ -1132,7 +1132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: QuickSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 220
@@ -1174,7 +1174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: QuickSubmesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3.cs
     startLine: 224

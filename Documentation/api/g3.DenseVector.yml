@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DenseVector
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 4
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 10
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 18
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Size
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 24
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Length
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 25
@@ -195,7 +195,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 27
@@ -235,7 +235,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Buffer
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 33
@@ -270,7 +270,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 39
@@ -305,7 +305,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/DenseVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/solvers/DenseVector.cs
     startLine: 42

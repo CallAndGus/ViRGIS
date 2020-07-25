@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: QueryTuple2d
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 6
@@ -63,7 +63,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 10
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 14
@@ -133,7 +133,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToLine
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 22
@@ -172,7 +172,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToLine
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 27
@@ -211,7 +211,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToTriangle
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 52
@@ -252,7 +252,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToTriangle
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 57
@@ -293,7 +293,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToCircumcircle
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 86
@@ -334,7 +334,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToCircumcircle
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 92
@@ -375,7 +375,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 127
@@ -418,7 +418,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Det2
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 131
@@ -461,7 +461,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Det3
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 135
@@ -514,7 +514,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sort
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 159
@@ -556,7 +556,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sort
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 178
@@ -600,7 +600,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/QueryTuple2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sort
     path: ../Assets/geometry3Sharp/math/QueryTuple2d.cs
     startLine: 220

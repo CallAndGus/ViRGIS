@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IVirgisLayer
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 10
@@ -71,7 +71,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddFeature
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 12
@@ -105,7 +105,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Draw
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 13
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CheckPoint
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 14
@@ -157,7 +157,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Save
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 15
@@ -165,10 +165,10 @@ items:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: RecordSet Save()
+    content: Task<RecordSet> Save()
     return:
-      type: Project.RecordSet
-    content.vb: Function Save As RecordSet
+      type: System.Threading.Tasks.Task{Project.RecordSet}
+    content.vb: Function Save As Task(Of RecordSet)
   overload: Virgis.IVirgisLayer.Save*
 - uid: Virgis.IVirgisLayer.GetFeature(System.Guid)
   commentId: M:Virgis.IVirgisLayer.GetFeature(System.Guid)
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFeature
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 16
@@ -216,7 +216,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFeatureShape
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 17
@@ -244,7 +244,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVisible
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 18
@@ -273,7 +273,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsVisible
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 19
@@ -301,7 +301,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetEditable
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 20
@@ -330,7 +330,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsEditable
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 21
@@ -810,17 +810,93 @@ references:
   name: Save
   nameWithType: IVirgisLayer.Save
   fullName: Virgis.IVirgisLayer.Save
-- uid: Project.RecordSet
-  commentId: T:Project.RecordSet
-  parent: Project
-  name: RecordSet
-  nameWithType: RecordSet
-  fullName: Project.RecordSet
-- uid: Project
-  commentId: N:Project
-  name: Project
-  nameWithType: Project
-  fullName: Project
+- uid: System.Threading.Tasks.Task{Project.RecordSet}
+  commentId: T:System.Threading.Tasks.Task{Project.RecordSet}
+  parent: System.Threading.Tasks
+  definition: System.Threading.Tasks.Task`1
+  name: Task<RecordSet>
+  nameWithType: Task<RecordSet>
+  fullName: System.Threading.Tasks.Task<Project.RecordSet>
+  nameWithType.vb: Task(Of RecordSet)
+  fullName.vb: System.Threading.Tasks.Task(Of Project.RecordSet)
+  name.vb: Task(Of RecordSet)
+  spec.csharp:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: Project.RecordSet
+    name: RecordSet
+    nameWithType: RecordSet
+    fullName: Project.RecordSet
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: Project.RecordSet
+    name: RecordSet
+    nameWithType: RecordSet
+    fullName: Project.RecordSet
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Threading.Tasks.Task`1
+  commentId: T:System.Threading.Tasks.Task`1
+  isExternal: true
+  name: Task<TResult>
+  nameWithType: Task<TResult>
+  fullName: System.Threading.Tasks.Task<TResult>
+  nameWithType.vb: Task(Of TResult)
+  fullName.vb: System.Threading.Tasks.Task(Of TResult)
+  name.vb: Task(Of TResult)
+  spec.csharp:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: TResult
+    nameWithType: TResult
+    fullName: TResult
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: TResult
+    nameWithType: TResult
+    fullName: TResult
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Threading.Tasks
+  commentId: N:System.Threading.Tasks
+  isExternal: true
+  name: System.Threading.Tasks
+  nameWithType: System.Threading.Tasks
+  fullName: System.Threading.Tasks
 - uid: Virgis.IVirgisLayer.GetFeature*
   commentId: Overload:Virgis.IVirgisLayer.GetFeature
   name: GetFeature

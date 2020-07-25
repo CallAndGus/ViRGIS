@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastQuaternionSVD
     path: ../Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
     startLine: 30
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: U
     path: ../Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
     startLine: 35
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: V
     path: ../Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
     startLine: 36
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: S
     path: ../Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
     startLine: 37
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
     startLine: 41
@@ -181,7 +181,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
     startLine: 45
@@ -218,7 +218,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solve
     path: ../Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
     startLine: 54
@@ -255,7 +255,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReconstructMatrix
     path: ../Assets/geometry3Sharp/solvers/FastQuaternionSVD.cs
     startLine: 82

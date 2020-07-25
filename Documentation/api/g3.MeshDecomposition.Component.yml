@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Component
     path: ../Assets/geometry3Sharp/mesh/MeshDecomposition.cs
     startLine: 34
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: id
     path: ../Assets/geometry3Sharp/mesh/MeshDecomposition.cs
     startLine: 36
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: triangles
     path: ../Assets/geometry3Sharp/mesh/MeshDecomposition.cs
     startLine: 38
@@ -113,7 +113,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: tri_count
     path: ../Assets/geometry3Sharp/mesh/MeshDecomposition.cs
     startLine: 39
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: source_vertices
     path: ../Assets/geometry3Sharp/mesh/MeshDecomposition.cs
     startLine: 42

@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/containment/ContMinCircle2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Support
     path: ../Assets/geometry3Sharp/containment/ContMinCircle2.cs
     startLine: 383
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/containment/ContMinCircle2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/containment/ContMinCircle2.cs
     startLine: 385
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/containment/ContMinCircle2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Quantity
     path: ../Assets/geometry3Sharp/containment/ContMinCircle2.cs
     startLine: 396
@@ -127,7 +127,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/containment/ContMinCircle2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Index
     path: ../Assets/geometry3Sharp/containment/ContMinCircle2.cs
     startLine: 397

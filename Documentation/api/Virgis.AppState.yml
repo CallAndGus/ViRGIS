@@ -36,7 +36,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppState
     path: ../Assets/Scripts/AppState.cs
     startLine: 12
@@ -75,7 +75,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: instance
     path: ../Assets/Scripts/AppState.cs
     startLine: 13
@@ -108,7 +108,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Init
     path: ../Assets/Scripts/AppState.cs
     startLine: 42
@@ -140,7 +140,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: editSession
     path: ../Assets/Scripts/AppState.cs
     startLine: 48
@@ -175,7 +175,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: abstractMap
     path: ../Assets/Scripts/AppState.cs
     startLine: 52
@@ -210,7 +210,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: map
     path: ../Assets/Scripts/AppState.cs
     startLine: 56
@@ -245,7 +245,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: project
     path: ../Assets/Scripts/AppState.cs
     startLine: 60
@@ -280,7 +280,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: layers
     path: ../Assets/Scripts/AppState.cs
     startLine: 64
@@ -315,7 +315,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: addLayer
     path: ../Assets/Scripts/AppState.cs
     startLine: 68
@@ -348,7 +348,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: clearLayers
     path: ../Assets/Scripts/AppState.cs
     startLine: 72
@@ -378,7 +378,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mainCamera
     path: ../Assets/Scripts/AppState.cs
     startLine: 76
@@ -413,7 +413,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: trackingSpace
     path: ../Assets/Scripts/AppState.cs
     startLine: 80
@@ -448,7 +448,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InEditSession
     path: ../Assets/Scripts/AppState.cs
     startLine: 84
@@ -480,7 +480,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StartEditSession
     path: ../Assets/Scripts/AppState.cs
     startLine: 88
@@ -510,7 +510,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StopSaveEditSession
     path: ../Assets/Scripts/AppState.cs
     startLine: 92
@@ -540,7 +540,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StopDiscardEditSession
     path: ../Assets/Scripts/AppState.cs
     startLine: 96
@@ -570,7 +570,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddStartEditSessionListener
     path: ../Assets/Scripts/AppState.cs
     startLine: 100
@@ -603,7 +603,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddEndEditSessionListener
     path: ../Assets/Scripts/AppState.cs
     startLine: 104
@@ -639,7 +639,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddZoomChangeListerner
     path: ../Assets/Scripts/AppState.cs
     startLine: 108
@@ -675,7 +675,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ZoomChange
     path: ../Assets/Scripts/AppState.cs
     startLine: 112
@@ -708,7 +708,7 @@ items:
     remote:
       path: Assets/Scripts/AppState.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetScale
     path: ../Assets/Scripts/AppState.cs
     startLine: 116

@@ -42,7 +42,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DGraph2
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 14
@@ -136,7 +136,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidVertex
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 16
@@ -171,7 +171,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 22
@@ -201,7 +201,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 27
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 34
@@ -269,7 +269,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertex
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 39
@@ -304,7 +304,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexColor
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 49
@@ -339,7 +339,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertexColor
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 59
@@ -374,7 +374,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEdgeV
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 69
@@ -416,7 +416,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEdgeSegment
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 82
@@ -451,7 +451,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEdgeCenter
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 93
@@ -486,7 +486,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 104
@@ -521,7 +521,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 107
@@ -558,7 +558,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendPolygon
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 128
@@ -593,7 +593,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendPolygon
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 142
@@ -628,7 +628,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendPolyline
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 150
@@ -663,7 +663,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendGraph
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 163
@@ -698,7 +698,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexColors
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 178
@@ -733,7 +733,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EnableVertexColors
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 180
@@ -766,7 +766,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DiscardVertexColors
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 194
@@ -796,7 +796,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 206
@@ -828,7 +828,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SortedVtxEdges
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 217
@@ -865,7 +865,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBounds
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 248
@@ -897,7 +897,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CachedBounds
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 268
@@ -932,7 +932,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OpeningAngle
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 287
@@ -971,7 +971,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: append_new_split_vertex
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 316
@@ -1011,7 +1011,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: subclass_validity_checks
     path: ../Assets/geometry3Sharp/curve/DGraph2.cs
     startLine: 325

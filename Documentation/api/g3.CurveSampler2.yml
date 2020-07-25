@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveSampler2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CurveSampler2
     path: ../Assets/geometry3Sharp/curve/CurveSampler2.cs
     startLine: 5
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveSampler2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AutoSample
     path: ../Assets/geometry3Sharp/curve/CurveSampler2.cs
     startLine: 7
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveSampler2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/CurveSampler2.cs
     startLine: 24
@@ -137,7 +137,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveSampler2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleTRange
     path: ../Assets/geometry3Sharp/curve/CurveSampler2.cs
     startLine: 37
@@ -180,7 +180,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveSampler2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/CurveSampler2.cs
     startLine: 49
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveSampler2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLen
     path: ../Assets/geometry3Sharp/curve/CurveSampler2.cs
     startLine: 66
@@ -258,7 +258,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveSampler2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleNURBSHybrid
     path: ../Assets/geometry3Sharp/curve/CurveSampler2.cs
     startLine: 102
@@ -297,7 +297,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveSampler2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AutoSample
     path: ../Assets/geometry3Sharp/curve/CurveSampler2.cs
     startLine: 144

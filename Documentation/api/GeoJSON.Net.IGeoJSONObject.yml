@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/IGeoJSONObject.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IGeoJSONObject
     path: ../Assets/GeoJSON.Net/IGeoJSONObject.cs
     startLine: 7
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/IGeoJSONObject.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/GeoJSON.Net/IGeoJSONObject.cs
     startLine: 18
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/IGeoJSONObject.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CRS
     path: ../Assets/GeoJSON.Net/IGeoJSONObject.cs
     startLine: 29
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/IGeoJSONObject.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundingBoxes
     path: ../Assets/GeoJSON.Net/IGeoJSONObject.cs
     startLine: 44

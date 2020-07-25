@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RecordSet
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 44
@@ -66,7 +66,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Id
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 47
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DisplayName
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 49
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 51
@@ -207,7 +207,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DataType
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 54
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Source
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 56
@@ -304,7 +304,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Features
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 58
@@ -349,7 +349,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Position
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 60
@@ -394,7 +394,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 62
@@ -439,7 +439,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Properties
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 64
@@ -484,7 +484,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Visible
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 67

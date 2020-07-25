@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RegionRemesher
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 8
@@ -142,7 +142,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseMesh
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 10
@@ -173,7 +173,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Region
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 11
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReinsertSubToBaseMapV
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 14
@@ -235,7 +235,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReinsertDuplicateTriBehavior
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 17
@@ -266,7 +266,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 25
@@ -304,7 +304,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 40
@@ -342,7 +342,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CurrentBaseTriangles
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 61
@@ -379,7 +379,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RepairPossibleNonManifoldEdges
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 79
@@ -409,7 +409,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetSubmeshGroupID
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 118
@@ -444,7 +444,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BackPropropagate
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 133
@@ -479,7 +479,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: QuickRemesh
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 166
@@ -533,7 +533,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/RegionRemesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: QuickRemesh
     path: ../Assets/geometry3Sharp/mesh/RegionRemesher.cs
     startLine: 186

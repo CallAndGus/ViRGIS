@@ -46,7 +46,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshSignedDistanceGrid
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 39
@@ -81,7 +81,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 41
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Spatial
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 42
@@ -143,7 +143,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CellSize
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 43
@@ -174,7 +174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExactBandWidth
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 47
@@ -205,7 +205,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExpandBounds
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 51
@@ -236,7 +236,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UseParallel
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 54
@@ -267,7 +267,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeMode
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 66
@@ -298,7 +298,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NarrowBandMaxDistance
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 71
@@ -329,7 +329,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeSigns
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 74
@@ -360,7 +360,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsideMode
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 87
@@ -391,7 +391,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WantClosestTriGrid
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 91
@@ -422,7 +422,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WantIntersectionsGrid
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 94
@@ -453,7 +453,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CancelF
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 97
@@ -486,7 +486,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DebugPrint
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 100
@@ -517,7 +517,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 109
@@ -554,7 +554,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 117
@@ -584,7 +584,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dimensions
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 152
@@ -619,7 +619,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Grid
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 159
@@ -656,7 +656,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GridOrigin
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 166
@@ -693,7 +693,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClosestTriGrid
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 171
@@ -728,7 +728,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntersectionsGrid
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 178
@@ -763,7 +763,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 187
@@ -807,7 +807,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 190
@@ -847,7 +847,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CellCenter
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 194
@@ -886,7 +886,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: point_segment_distance
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 950
@@ -930,7 +930,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: point_segment_distance
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 967
@@ -974,7 +974,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: point_triangle_distance
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 985
@@ -1020,7 +1020,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: point_triangle_distance
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 1012
@@ -1066,7 +1066,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: orientation
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 1042
@@ -1114,7 +1114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: point_in_triangle_2d
     path: ../Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs
     startLine: 1057

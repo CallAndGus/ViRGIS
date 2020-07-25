@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetGroupBehavior
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 5
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 16
@@ -87,7 +87,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetGroupID
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 21
@@ -122,7 +122,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ignore
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 31
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AutoGenerate
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 32
@@ -196,7 +196,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetTo
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 33

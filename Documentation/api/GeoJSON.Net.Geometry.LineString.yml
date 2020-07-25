@@ -29,7 +29,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineString
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 17
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 24
@@ -141,7 +141,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 35
@@ -180,7 +180,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 48
@@ -220,7 +220,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Coordinates
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 53
@@ -282,7 +282,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 63
@@ -317,7 +317,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsLinearRing
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 82
@@ -353,7 +353,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 92
@@ -393,7 +393,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 100
@@ -430,7 +430,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 108
@@ -469,7 +469,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 120
@@ -510,7 +510,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 136
@@ -551,7 +551,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 144
@@ -588,7 +588,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/LineString.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/LineString.cs
     startLine: 157

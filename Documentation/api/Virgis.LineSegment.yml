@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineSegment
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 10
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vStart
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 17
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vEnd
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 18
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Draw
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 31
@@ -202,7 +202,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Selected
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 41
@@ -238,7 +238,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnSelected
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 49
@@ -274,7 +274,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetMaterial
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 59
@@ -312,7 +312,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveStart
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 69
@@ -345,7 +345,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveEnd
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 76
@@ -378,7 +378,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 92
@@ -414,7 +414,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveTo
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 97
@@ -450,7 +450,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddVertex
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 102
@@ -488,7 +488,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/LineSegment.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Delete
     path: ../Assets/Scripts/Geometries/LineSegment.cs
     startLine: 107

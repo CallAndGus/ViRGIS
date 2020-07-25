@@ -45,7 +45,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: KdTree
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 8
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _root
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 10
@@ -118,7 +118,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _last
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 11
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _count
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 12
@@ -184,7 +184,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _just2D
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 13
@@ -217,7 +217,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _LastUpdate
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 14
@@ -250,7 +250,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _open
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 15
@@ -283,7 +283,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 17
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsReadOnly
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 18
@@ -357,7 +357,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AverageSearchLength
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 19
@@ -396,7 +396,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AverageSearchDeep
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 20
@@ -435,7 +435,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 26
@@ -473,7 +473,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 31
@@ -513,7 +513,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 48
@@ -551,7 +551,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddAll
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 57
@@ -590,7 +590,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindAll
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 67
@@ -631,7 +631,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Find
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 80
@@ -672,7 +672,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveAt
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 95
@@ -709,7 +709,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveAll
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 113
@@ -748,7 +748,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CountAll
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 132
@@ -790,7 +790,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clear
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 144
@@ -824,7 +824,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdatePositions
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 158
@@ -862,7 +862,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdatePositions
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 171
@@ -896,7 +896,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 199
@@ -933,7 +933,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToList
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 213
@@ -970,7 +970,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _distance
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 229
@@ -1009,7 +1009,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _getSplitValue
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 236
@@ -1048,7 +1048,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindClosest
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 300
@@ -1089,7 +1089,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindClose
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 310
@@ -1130,7 +1130,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _findClosest
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 317

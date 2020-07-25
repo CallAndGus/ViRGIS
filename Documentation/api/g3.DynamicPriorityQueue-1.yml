@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DynamicPriorityQueue
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 35
@@ -70,7 +70,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EnableDebugChecks
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 39
@@ -103,7 +103,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 46
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 55
@@ -174,7 +174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clear
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 65
@@ -211,7 +211,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: First
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 74
@@ -250,7 +250,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FirstPriority
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 81
@@ -289,7 +289,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 89
@@ -328,7 +328,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Enqueue
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 98
@@ -367,7 +367,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dequeue
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 113
@@ -403,7 +403,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Remove
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 129
@@ -440,7 +440,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Update
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 158
@@ -479,7 +479,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 169
@@ -513,7 +513,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsValidQueue
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 287
@@ -549,7 +549,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DebugPrint
     path: ../Assets/geometry3Sharp/core/DynamicPriorityQueue.cs
     startLine: 306

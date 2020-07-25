@@ -46,7 +46,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Interval1i
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 11
@@ -79,7 +79,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: a
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 13
@@ -110,7 +110,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: b
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 14
@@ -141,7 +141,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 16
@@ -174,7 +174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 17
@@ -209,7 +209,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 18
@@ -245,7 +245,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 19
@@ -278,7 +278,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Zero
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 22
@@ -313,7 +313,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Empty
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 23
@@ -348,7 +348,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Infinite
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 24
@@ -383,7 +383,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Range
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 27
@@ -422,7 +422,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RangeInclusive
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 30
@@ -461,7 +461,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Range
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 33
@@ -502,7 +502,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromToInclusive
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 37
@@ -543,7 +543,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 41
@@ -583,7 +583,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LengthSquared
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 48
@@ -618,7 +618,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Length
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 52
@@ -653,7 +653,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 57
@@ -688,7 +688,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contain
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 61
@@ -721,7 +721,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 68
@@ -756,7 +756,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Overlaps
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 73
@@ -791,7 +791,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SquaredDist
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 77
@@ -826,7 +826,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dist
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 85
@@ -861,7 +861,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 95
@@ -894,7 +894,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 98
@@ -929,7 +929,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_UnaryNegation
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 104
@@ -966,7 +966,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 109
@@ -1005,7 +1005,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 112
@@ -1044,7 +1044,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 116
@@ -1083,7 +1083,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 121
@@ -1115,7 +1115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Interval1i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/math/Interval1i.cs
     startLine: 129

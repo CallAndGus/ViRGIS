@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVectorArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DIndexArray2i
     path: ../Assets/geometry3Sharp/core/DVectorArray.cs
     startLine: 250
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVectorArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/DVectorArray.cs
     startLine: 252
@@ -97,7 +97,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVectorArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/DVectorArray.cs
     startLine: 253
@@ -133,7 +133,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVectorArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/core/DVectorArray.cs
     startLine: 254
@@ -173,7 +173,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVectorArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AsIndex2i
     path: ../Assets/geometry3Sharp/core/DVectorArray.cs
     startLine: 259

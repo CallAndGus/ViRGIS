@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Edge
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 327
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: V
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 328
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: E0
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 329
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: E1
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 330
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sign
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 331
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Time
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 332
@@ -216,7 +216,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 334
@@ -251,7 +251,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSign
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 343
@@ -288,7 +288,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Insert
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 351
@@ -323,7 +323,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DeleteSelf
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 358
@@ -353,7 +353,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetIndices
     path: ../Assets/geometry3Sharp/comp_geom/ConvexHull2.cs
     startLine: 365

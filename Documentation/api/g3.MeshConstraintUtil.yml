@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshConstraintUtil
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 8
@@ -65,7 +65,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixEdges
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 13
@@ -107,7 +107,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixAllBoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 28
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixAllBoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 41
@@ -179,7 +179,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixAllBoundaryEdges_AllowCollapse
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 50
@@ -218,7 +218,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixAllBoundaryEdges_AllowSplit
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 70
@@ -257,7 +257,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixSubmeshBoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 90
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixAllGroupBoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 111
@@ -333,7 +333,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixAllGroupBoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 126
@@ -370,7 +370,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConstrainVtxLoopTo
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 137
@@ -416,7 +416,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConstrainVtxLoopTo
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 157
@@ -460,7 +460,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConstrainVtxSpanTo
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 170
@@ -506,7 +506,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConstrainVtxSpanTo
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 192
@@ -550,7 +550,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PreserveBoundaryLoops
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 204
@@ -587,7 +587,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PreserveBoundaryLoops
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 212
@@ -622,7 +622,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddTrackedEdges
     path: ../Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs
     startLine: 221

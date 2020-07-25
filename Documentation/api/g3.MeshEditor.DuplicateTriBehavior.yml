@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DuplicateTriBehavior
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 669
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AssertContinue
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 671
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AssertAbort
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 672
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UseExisting
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 672
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Replace
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 672

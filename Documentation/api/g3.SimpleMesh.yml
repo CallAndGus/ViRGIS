@@ -79,7 +79,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SimpleMesh
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 8
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 10
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normals
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 11
@@ -182,7 +182,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Colors
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 12
@@ -213,7 +213,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UVs
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 13
@@ -244,7 +244,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Triangles
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 15
@@ -275,7 +275,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FaceGroups
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 16
@@ -306,7 +306,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 20
@@ -336,7 +336,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 41
@@ -369,7 +369,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Initialize
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 62
@@ -408,7 +408,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Initialize
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 72
@@ -454,7 +454,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Components
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 91
@@ -489,7 +489,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Timestamp
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 107
@@ -528,7 +528,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 119
@@ -567,7 +567,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 135
@@ -602,7 +602,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertices
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 160
@@ -641,7 +641,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangle
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 179
@@ -682,7 +682,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangles
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 190
@@ -722,7 +722,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangles
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 202
@@ -760,7 +760,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 220
@@ -797,7 +797,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Scale
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 230
@@ -834,7 +834,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Scale
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 240
@@ -867,7 +867,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 252
@@ -904,7 +904,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleCount
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 256
@@ -941,7 +941,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxVertexID
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 260
@@ -978,7 +978,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxTriangleID
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 264
@@ -1015,7 +1015,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsVertex
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 270
@@ -1052,7 +1052,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTriangle
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 273
@@ -1089,7 +1089,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexColors
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 277
@@ -1126,7 +1126,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexNormals
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 282
@@ -1163,7 +1163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexUVs
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 287
@@ -1200,7 +1200,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 292
@@ -1237,7 +1237,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexNormal
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 297
@@ -1274,7 +1274,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexColor
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 302
@@ -1311,7 +1311,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexUV
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 307
@@ -1348,7 +1348,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexAll
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 312
@@ -1385,7 +1385,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasTriangleGroups
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 334
@@ -1422,7 +1422,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriangle
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 339
@@ -1459,7 +1459,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriangleGroup
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 344
@@ -1496,7 +1496,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VerticesItr
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 350
@@ -1528,7 +1528,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NormalsItr
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 356
@@ -1560,7 +1560,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ColorsItr
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 362
@@ -1592,7 +1592,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UVsItr
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 368
@@ -1624,7 +1624,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglesItr
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 374
@@ -1656,7 +1656,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleGroupsItr
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 381
@@ -1688,7 +1688,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexIndices
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 388
@@ -1722,7 +1722,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleIndices
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 393
@@ -1756,7 +1756,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertex
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 402
@@ -1793,7 +1793,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertexNormal
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 409
@@ -1830,7 +1830,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertexColor
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 416
@@ -1865,7 +1865,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertexUV
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 423
@@ -1900,7 +1900,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexArray
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 433
@@ -1932,7 +1932,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexArrayFloat
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 437
@@ -1964,7 +1964,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexNormalArray
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 445
@@ -1996,7 +1996,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexColorArray
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 450
@@ -2028,7 +2028,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexUVArray
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 455
@@ -2060,7 +2060,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriangleArray
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 460
@@ -2092,7 +2092,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFaceGroupsArray
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 465
@@ -2124,7 +2124,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexBuffer
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 477
@@ -2157,7 +2157,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexNormalBuffer
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 482
@@ -2190,7 +2190,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexColorBuffer
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 488
@@ -2223,7 +2223,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexUVBuffer
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 494
@@ -2256,7 +2256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTriangleBuffer
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 500
@@ -2289,7 +2289,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/SimpleMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFaceGroupsBuffer
     path: ../Assets/geometry3Sharp/mesh/SimpleMesh.cs
     startLine: 505

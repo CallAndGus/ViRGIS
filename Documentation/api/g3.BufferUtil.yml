@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BufferUtil
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 16
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertex3
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 18
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertex3
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 23
@@ -175,7 +175,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertex2
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 30
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertex2
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 35
@@ -263,7 +263,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetTriangle
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 41
@@ -309,7 +309,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 49
@@ -351,7 +351,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultiplyAdd
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 57
@@ -393,7 +393,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultiplyAdd
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 63
@@ -435,7 +435,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultiplyAdd_GetSqrSum
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 69
@@ -479,7 +479,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 79
@@ -521,7 +521,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParallelDot
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 89
@@ -563,7 +563,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllocNxM
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 101
@@ -602,7 +602,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitNxM
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 109
@@ -646,7 +646,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CountValid
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 121
@@ -694,7 +694,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FilterInPlace
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 135
@@ -742,7 +742,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Filter
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 148
@@ -790,7 +790,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToVector3d
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 169
@@ -834,7 +834,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToVector3f
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 220
@@ -878,7 +878,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToIndex3i
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 272
@@ -922,7 +922,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToInt
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 312
@@ -964,7 +964,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToShort
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 327
@@ -1006,7 +1006,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToDouble
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 342
@@ -1048,7 +1048,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToFloat
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 357
@@ -1090,7 +1090,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToVectorArray3d
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 372
@@ -1132,7 +1132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToVectorArray2f
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 392
@@ -1174,7 +1174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToVectorArray3f
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 409
@@ -1216,7 +1216,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToVectorArray3i
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 430
@@ -1258,7 +1258,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToIndexArray4i
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 449
@@ -1300,7 +1300,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToBytes
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 469
@@ -1342,7 +1342,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToBytes
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 479
@@ -1384,7 +1384,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToBytes
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 489
@@ -1426,7 +1426,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToBytes
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 499
@@ -1468,7 +1468,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CompressZLib
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 512
@@ -1512,7 +1512,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/BufferUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DecompressZLib
     path: ../Assets/geometry3Sharp/core/BufferUtil.cs
     startLine: 537

@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Line2f
     path: ../Assets/geometry3Sharp/math/Line2.cs
     startLine: 113
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Origin
     path: ../Assets/geometry3Sharp/math/Line2.cs
     startLine: 115
@@ -84,7 +84,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Direction
     path: ../Assets/geometry3Sharp/math/Line2.cs
     startLine: 116
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Line2.cs
     startLine: 118
@@ -150,7 +150,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointAt
     path: ../Assets/geometry3Sharp/math/Line2.cs
     startLine: 125
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Project
     path: ../Assets/geometry3Sharp/math/Line2.cs
     startLine: 130
@@ -220,7 +220,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/math/Line2.cs
     startLine: 135

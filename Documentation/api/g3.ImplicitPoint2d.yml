@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ImplicitPoint2d
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 25
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 30
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 34
@@ -139,7 +139,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Value
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 39
@@ -178,7 +178,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 52
@@ -215,7 +215,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Gradient
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 58
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InBounds
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 74
@@ -296,7 +296,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LowX
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 78
@@ -331,7 +331,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LowY
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 82
@@ -366,7 +366,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HighX
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 86
@@ -401,7 +401,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HighY
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 90
@@ -436,7 +436,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: radius
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 94
@@ -471,7 +471,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: x
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 99
@@ -506,7 +506,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: y
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 104
@@ -541,7 +541,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 109

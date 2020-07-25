@@ -10,7 +10,6 @@ items:
   - Virgis.PointCloudLayer._draw
   - Virgis.PointCloudLayer._init(Project.GeographyCollection)
   - Virgis.PointCloudLayer._save
-  - Virgis.PointCloudLayer.GetFeatureShape
   - Virgis.PointCloudLayer.handle
   - Virgis.PointCloudLayer.HandleMaterial
   - Virgis.PointCloudLayer.material
@@ -29,7 +28,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointCloudLayer
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 12
@@ -109,7 +108,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: material
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 15
@@ -140,7 +139,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: handle
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 16
@@ -171,7 +170,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: pointCloud
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 17
@@ -202,7 +201,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: meshes
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 18
@@ -233,7 +232,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HandleMaterial
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 19
@@ -264,7 +263,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _init
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 27
@@ -302,7 +301,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _addFeature
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 41
@@ -343,7 +342,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _draw
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
     startLine: 46
@@ -376,10 +375,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
-    startLine: 74
+    startLine: 75
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -412,10 +411,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
-    startLine: 83
+    startLine: 84
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -448,10 +447,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _checkpoint
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
-    startLine: 109
+    startLine: 112
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -481,16 +480,18 @@ items:
     remote:
       path: Assets/Scripts/Layers/PointCloudLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _save
     path: ../Assets/Scripts/Layers/PointCloudLayer.cs
-    startLine: 111
+    startLine: 114
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: protected override void _save()
-    content.vb: Protected Overrides Sub _save
+    content: protected override Task _save()
+    return:
+      type: System.Threading.Tasks.Task
+    content.vb: Protected Overrides Function _save As Task
   overridden: Virgis.VirgisLayer{Project.GeographyCollection,Virgis.ParticleData}._save
   overload: Virgis.PointCloudLayer._save*
   modifiers.csharp:
@@ -498,41 +499,6 @@ items:
   - override
   modifiers.vb:
   - Protected
-  - Overrides
-- uid: Virgis.PointCloudLayer.GetFeatureShape
-  commentId: M:Virgis.PointCloudLayer.GetFeatureShape
-  id: GetFeatureShape
-  parent: Virgis.PointCloudLayer
-  langs:
-  - csharp
-  - vb
-  name: GetFeatureShape()
-  nameWithType: PointCloudLayer.GetFeatureShape()
-  fullName: Virgis.PointCloudLayer.GetFeatureShape()
-  type: Method
-  source:
-    remote:
-      path: Assets/Scripts/Layers/PointCloudLayer.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: GetFeatureShape
-    path: ../Assets/Scripts/Layers/PointCloudLayer.cs
-    startLine: 119
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  syntax:
-    content: public override GameObject GetFeatureShape()
-    return:
-      type: UnityEngine.GameObject
-    content.vb: Public Overrides Function GetFeatureShape As GameObject
-  overridden: Virgis.VirgisLayer{Project.GeographyCollection,Virgis.ParticleData}.GetFeatureShape
-  overload: Virgis.PointCloudLayer.GetFeatureShape*
-  modifiers.csharp:
-  - public
-  - override
-  modifiers.vb:
-  - Public
   - Overrides
 references:
 - uid: Virgis
@@ -3230,8 +3196,3 @@ references:
   name: _save
   nameWithType: PointCloudLayer._save
   fullName: Virgis.PointCloudLayer._save
-- uid: Virgis.PointCloudLayer.GetFeatureShape*
-  commentId: Overload:Virgis.PointCloudLayer.GetFeatureShape
-  name: GetFeatureShape
-  nameWithType: PointCloudLayer.GetFeatureShape
-  fullName: Virgis.PointCloudLayer.GetFeatureShape

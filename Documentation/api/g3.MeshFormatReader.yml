@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshFormatReader
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 12
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SupportedExtensions
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 14
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadFile
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 15
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadFile
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 16

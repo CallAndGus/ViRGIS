@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointHashGrid3d
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 22
@@ -66,7 +66,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 33
@@ -105,7 +105,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidValue
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 41
@@ -142,7 +142,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertPoint
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 48
@@ -181,7 +181,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertPointUnsafe
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 57
@@ -220,7 +220,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemovePoint
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 67
@@ -261,7 +261,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemovePointUnsafe
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 76
@@ -302,7 +302,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdatePoint
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 86
@@ -343,7 +343,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdatePointUnsafe
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 102
@@ -384,7 +384,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestInRadius
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 121
@@ -430,7 +430,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: print_large_buckets
     path: ../Assets/geometry3Sharp/spatial/PointHashGrid3d.cs
     startLine: 195

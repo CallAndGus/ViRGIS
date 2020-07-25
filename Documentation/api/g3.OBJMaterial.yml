@@ -39,7 +39,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OBJMaterial
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 32
@@ -81,7 +81,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ka
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 34
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Kd
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 35
@@ -143,7 +143,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ks
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 36
@@ -174,7 +174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ke
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 37
@@ -205,7 +205,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Tf
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 38
@@ -236,7 +236,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: illum
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 39
@@ -267,7 +267,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: d
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 40
@@ -298,7 +298,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ns
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 41
@@ -329,7 +329,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: sharpness
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 42
@@ -360,7 +360,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ni
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 43
@@ -391,7 +391,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: map_Ka
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 45
@@ -422,7 +422,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: map_Kd
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 46
@@ -453,7 +453,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: map_Ks
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 47
@@ -484,7 +484,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: map_Ke
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 48
@@ -515,7 +515,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: map_d
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 49
@@ -546,7 +546,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: map_Ns
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 50
@@ -577,7 +577,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bump
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 52
@@ -608,7 +608,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: disp
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 53
@@ -639,7 +639,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: decal
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 54
@@ -670,7 +670,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: refl
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 55
@@ -701,7 +701,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 60
@@ -731,7 +731,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DiffuseColor
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 70
@@ -769,7 +769,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MaterialTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Alpha
     path: ../Assets/geometry3Sharp/io/MaterialTypes.cs
     startLine: 74

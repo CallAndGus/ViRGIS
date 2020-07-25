@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/VectorTuple.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vector2dTuple2
     path: ../Assets/geometry3Sharp/math/VectorTuple.cs
     startLine: 61
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/VectorTuple.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: V0
     path: ../Assets/geometry3Sharp/math/VectorTuple.cs
     startLine: 63
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/VectorTuple.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: V1
     path: ../Assets/geometry3Sharp/math/VectorTuple.cs
     startLine: 63
@@ -113,7 +113,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/VectorTuple.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/VectorTuple.cs
     startLine: 65
@@ -148,7 +148,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/VectorTuple.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/math/VectorTuple.cs
     startLine: 70

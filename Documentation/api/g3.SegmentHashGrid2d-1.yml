@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentHashGrid2d
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 24
@@ -65,7 +65,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 36
@@ -104,7 +104,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertSegment
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 49
@@ -145,7 +145,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertSegmentUnsafe
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 60
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveSegment
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 72
@@ -227,7 +227,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveSegmentUnsafe
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 81
@@ -268,7 +268,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateSegment
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 91
@@ -311,7 +311,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateSegmentUnsafe
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 109
@@ -354,7 +354,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestInRadius
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 130
@@ -400,7 +400,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestInSquaredRadius
     path: ../Assets/geometry3Sharp/spatial/SegmentHashGrid.cs
     startLine: 171

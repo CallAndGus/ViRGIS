@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntrTriangle3Triangle3
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 10
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Triangle0
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 13
@@ -99,7 +99,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Triangle1
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 20
@@ -134,7 +134,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReportCoplanarIntersection
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 29
@@ -165,7 +165,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Quantity
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 32
@@ -196,7 +196,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Result
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 33
@@ -227,7 +227,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 34
@@ -258,7 +258,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Points
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 38
@@ -289,7 +289,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolygonPoints
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 41
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 44
@@ -355,7 +355,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 51
@@ -387,7 +387,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Find
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 58
@@ -419,7 +419,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Test
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 152
@@ -451,7 +451,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersects
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 244
@@ -493,7 +493,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ProjectOntoAxis
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 337
@@ -537,7 +537,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglePlaneRelations
     path: ../Assets/geometry3Sharp/intersection/IntrTriangle3Triangle3.cs
     startLine: 367

@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ISpatial
     path: ../Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
     startLine: 6
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SupportsNearestTriangle
     path: ../Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
     startLine: 8
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestTriangle
     path: ../Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
     startLine: 13
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SupportsTriangleRayIntersection
     path: ../Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
     startLine: 15
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestHitTriangle
     path: ../Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
     startLine: 20
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SupportsPointContainment
     path: ../Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
     startLine: 22
@@ -222,7 +222,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsInside
     path: ../Assets/geometry3Sharp/spatial/SpatialInterfaces.cs
     startLine: 27

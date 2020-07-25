@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ArcLengthParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampledArcLengthParam2d
     path: ../Assets/geometry3Sharp/curve/ArcLengthParam.cs
     startLine: 117
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ArcLengthParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/ArcLengthParam.cs
     startLine: 122
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ArcLengthParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/ArcLengthParam.cs
     startLine: 143
@@ -132,7 +132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ArcLengthParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sample
     path: ../Assets/geometry3Sharp/curve/ArcLengthParam.cs
     startLine: 147
@@ -169,7 +169,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ArcLengthParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: tangent
     path: ../Assets/geometry3Sharp/curve/ArcLengthParam.cs
     startLine: 173

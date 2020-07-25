@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ImplicitField2d
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 8
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Value
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 10
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Gradient
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 12
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 14

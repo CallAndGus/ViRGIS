@@ -25,7 +25,7 @@ items:
   - Virgis.MapInitialize.PointCloud
   - Virgis.MapInitialize.PointLayer
   - Virgis.MapInitialize.PolygonLayer
-  - Virgis.MapInitialize.Save
+  - Virgis.MapInitialize.Save(System.Boolean)
   - Virgis.MapInitialize.StartEditSession
   - Virgis.MapInitialize.Translate(Virgis.MoveArgs)
   langs:
@@ -39,7 +39,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapInitialize
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 19
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MainCamera
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 22
@@ -152,7 +152,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointLayer
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 25
@@ -183,7 +183,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineLayer
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 26
@@ -214,7 +214,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolygonLayer
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 27
@@ -245,7 +245,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointCloud
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 28
@@ -276,7 +276,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshLayer
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 29
@@ -307,7 +307,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CsvLayer
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 30
@@ -338,7 +338,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: appState
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 31
@@ -369,7 +369,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: inputfile
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 34
@@ -400,7 +400,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _init
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 122
@@ -438,7 +438,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 127
@@ -471,7 +471,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _addFeature
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 132
@@ -512,7 +512,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _draw
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 145
@@ -545,7 +545,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExitEditSession
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 150
@@ -581,7 +581,7 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _checkpoint
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 157
@@ -599,22 +599,22 @@ items:
   modifiers.vb:
   - Protected
   - Overrides
-- uid: Virgis.MapInitialize.Save
-  commentId: M:Virgis.MapInitialize.Save
-  id: Save
+- uid: Virgis.MapInitialize.Save(System.Boolean)
+  commentId: M:Virgis.MapInitialize.Save(System.Boolean)
+  id: Save(System.Boolean)
   parent: Virgis.MapInitialize
   langs:
   - csharp
   - vb
-  name: Save()
-  nameWithType: MapInitialize.Save()
-  fullName: Virgis.MapInitialize.Save()
+  name: Save(Boolean)
+  nameWithType: MapInitialize.Save(Boolean)
+  fullName: Virgis.MapInitialize.Save(System.Boolean)
   type: Method
   source:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Save
     path: ../Assets/Scripts/MapInitialize.cs
     startLine: 161
@@ -622,8 +622,13 @@ items:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: public void Save()
-    content.vb: Public Sub Save
+    content: public Task<RecordSet> Save(bool all = true)
+    parameters:
+    - id: all
+      type: System.Boolean
+    return:
+      type: System.Threading.Tasks.Task{Project.RecordSet}
+    content.vb: Public Function Save(all As Boolean = True) As Task(Of RecordSet)
   overload: Virgis.MapInitialize.Save*
   modifiers.csharp:
   - public
@@ -644,16 +649,18 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _save
     path: ../Assets/Scripts/MapInitialize.cs
-    startLine: 175
+    startLine: 182
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: protected override void _save()
-    content.vb: Protected Overrides Sub _save
+    content: protected override Task _save()
+    return:
+      type: System.Threading.Tasks.Task
+    content.vb: Protected Overrides Function _save As Task
   overridden: Virgis.VirgisLayer{Project.RecordSet,Virgis.FeatureObject}._save
   overload: Virgis.MapInitialize._save*
   modifiers.csharp:
@@ -677,10 +684,10 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/MapInitialize.cs
-    startLine: 180
+    startLine: 187
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -713,10 +720,10 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/MapInitialize.cs
-    startLine: 185
+    startLine: 192
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -749,10 +756,10 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StartEditSession
     path: ../Assets/Scripts/MapInitialize.cs
-    startLine: 190
+    startLine: 197
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -782,10 +789,10 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _onStartEditSession
     path: ../Assets/Scripts/MapInitialize.cs
-    startLine: 195
+    startLine: 202
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -812,10 +819,10 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _onExitEditSession
     path: ../Assets/Scripts/MapInitialize.cs
-    startLine: 204
+    startLine: 211
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -848,10 +855,10 @@ items:
     remote:
       path: Assets/Scripts/MapInitialize.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFeatureShape
     path: ../Assets/Scripts/MapInitialize.cs
-    startLine: 209
+    startLine: 216
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -3488,6 +3495,87 @@ references:
   name: Save
   nameWithType: MapInitialize.Save
   fullName: Virgis.MapInitialize.Save
+- uid: System.Threading.Tasks.Task{Project.RecordSet}
+  commentId: T:System.Threading.Tasks.Task{Project.RecordSet}
+  parent: System.Threading.Tasks
+  definition: System.Threading.Tasks.Task`1
+  name: Task<RecordSet>
+  nameWithType: Task<RecordSet>
+  fullName: System.Threading.Tasks.Task<Project.RecordSet>
+  nameWithType.vb: Task(Of RecordSet)
+  fullName.vb: System.Threading.Tasks.Task(Of Project.RecordSet)
+  name.vb: Task(Of RecordSet)
+  spec.csharp:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: Project.RecordSet
+    name: RecordSet
+    nameWithType: RecordSet
+    fullName: Project.RecordSet
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: Project.RecordSet
+    name: RecordSet
+    nameWithType: RecordSet
+    fullName: Project.RecordSet
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Threading.Tasks.Task`1
+  commentId: T:System.Threading.Tasks.Task`1
+  isExternal: true
+  name: Task<TResult>
+  nameWithType: Task<TResult>
+  fullName: System.Threading.Tasks.Task<TResult>
+  nameWithType.vb: Task(Of TResult)
+  fullName.vb: System.Threading.Tasks.Task(Of TResult)
+  name.vb: Task(Of TResult)
+  spec.csharp:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: TResult
+    nameWithType: TResult
+    fullName: TResult
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: TResult
+    nameWithType: TResult
+    fullName: TResult
+  - name: )
+    nameWithType: )
+    fullName: )
 - uid: Virgis.MapInitialize._save*
   commentId: Overload:Virgis.MapInitialize._save
   name: _save

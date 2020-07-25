@@ -32,7 +32,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntrLine3Box3
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 8
@@ -65,7 +65,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Line
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 11
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Box
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 18
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Quantity
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 24
@@ -166,7 +166,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Result
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 25
@@ -197,7 +197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 26
@@ -228,7 +228,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsSimpleIntersection
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 28
@@ -263,7 +263,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineParam0
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 32
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineParam1
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 32
@@ -325,7 +325,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point0
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 33
@@ -356,7 +356,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point1
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 34
@@ -387,7 +387,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 36
@@ -422,7 +422,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 41
@@ -454,7 +454,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Find
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 48
@@ -486,7 +486,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Test
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 74
@@ -518,7 +518,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DoClipping
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 110
@@ -576,7 +576,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clip
     path: ../Assets/geometry3Sharp/intersection/IntrLine3Box3.cs
     startLine: 160

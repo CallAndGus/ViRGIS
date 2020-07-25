@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/TypeExtensions.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TypeExtensions
     path: ../Assets/GeoJSON.Net/Converters/TypeExtensions.cs
     startLine: 7
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/TypeExtensions.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsAssignableFromType
     path: ../Assets/GeoJSON.Net/Converters/TypeExtensions.cs
     startLine: 12

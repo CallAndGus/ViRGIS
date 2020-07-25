@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SkeletalRicciNaryBlend3d
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 634
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Children
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 636
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BlendPower
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 637
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FieldShift
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 638
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Value
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 640
@@ -194,7 +194,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/implicit/Implicit3d.cs
     startLine: 663

@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DGraph2Util
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 12
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtractCurves
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 26
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ChainOpenPaths
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 140
@@ -139,7 +139,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DisconnectJunctions
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 281
@@ -178,7 +178,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DisconnectJunction
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 335
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexLaplacian
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 357
@@ -265,7 +265,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindRayIntersection
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 379
@@ -313,7 +313,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NextEdgeAndVtx
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 412
@@ -356,7 +356,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WalkToNextNonRegularVtx
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 435
@@ -399,7 +399,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PathLength
     path: ../Assets/geometry3Sharp/curve/DGraph2Util.cs
     startLine: 469

@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GraphSplitter2d
     path: ../Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
     startLine: 17
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Graph
     path: ../Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
     startLine: 19
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnVertexTol
     path: ../Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
     startLine: 24
@@ -122,7 +122,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertedEdgesID
     path: ../Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
     startLine: 29
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsideTestF
     path: ../Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
     startLine: 34
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
     startLine: 37
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertLine
     path: ../Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
     startLine: 46
@@ -258,7 +258,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: do_split
     path: ../Assets/geometry3Sharp/comp_geom/GraphSplitter2d.cs
     startLine: 70

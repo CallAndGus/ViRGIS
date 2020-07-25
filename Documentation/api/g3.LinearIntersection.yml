@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LinearIntersection
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 23
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: intersects
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 25
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: numIntersections
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 26
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: parameter
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 27

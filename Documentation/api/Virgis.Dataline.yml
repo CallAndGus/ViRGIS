@@ -33,7 +33,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dataline
     path: ../Assets/Scripts/Geometries/Dataline.cs
     startLine: 17
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CylinderObject
     path: ../Assets/Scripts/Geometries/Dataline.cs
     startLine: 19
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexTable
     path: ../Assets/Scripts/Geometries/Dataline.cs
     startLine: 24
@@ -157,10 +157,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexMove
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 44
+    startLine: 45
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -193,10 +193,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 58
+    startLine: 61
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -229,10 +229,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Draw
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 99
+    startLine: 101
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -289,13 +289,15 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MakeLinearRing
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 143
+    startLine: 146
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
+  summary: "\nMake the Line into a Linear Ring by setting the Lr flag and creating a LineSegment form the last vertex to the first.\nIf the last vertex is in the same (exact) position as the first vertex, the last vertex is deleted.\n"
+  example: []
   syntax:
     content: public void MakeLinearRing()
     content.vb: Public Sub MakeLinearRing
@@ -319,10 +321,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexPositions
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 166
+    startLine: 169
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -354,10 +356,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexes
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 179
+    startLine: 180
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -386,10 +388,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Selected
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 188
+    startLine: 189
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -422,10 +424,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnSelected
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 197
+    startLine: 198
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -458,10 +460,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 206
+    startLine: 207
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -494,10 +496,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetWkt
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 218
+    startLine: 220
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -526,10 +528,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetWktCoords
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 225
+    startLine: 227
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -558,10 +560,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveTo
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 239
+    startLine: 241
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -594,10 +596,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddVertex
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 244
+    startLine: 246
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -632,22 +634,27 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddVertex
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 251
+    startLine: 258
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
+  summary: "\nAdd a vertx to the Line when you know the segment to add the vertex to\n"
+  example: []
   syntax:
     content: public VirgisFeature AddVertex(LineSegment segment, Vector3 position)
     parameters:
     - id: segment
       type: Virgis.LineSegment
+      description: 'Linesegement to add the vertex to '
     - id: position
       type: UnityEngine.Vector3
+      description: Vertex Position in Wordl Space coordinates
     return:
       type: Virgis.VirgisFeature
+      description: ''
     content.vb: Public Function AddVertex(segment As LineSegment, position As Vector3) As VirgisFeature
   overload: Virgis.Dataline.AddVertex*
   modifiers.csharp:
@@ -669,10 +676,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Dataline.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveVertex
     path: ../Assets/Scripts/Geometries/Dataline.cs
-    startLine: 282
+    startLine: 290
   assemblies:
   - Assembly-CSharp
   namespace: Virgis

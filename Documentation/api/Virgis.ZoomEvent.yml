@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/Scripts/ZoomChange.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ZoomEvent
     path: ../Assets/Scripts/ZoomChange.cs
     startLine: 10
@@ -60,7 +60,7 @@ items:
     remote:
       path: Assets/Scripts/ZoomChange.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/Scripts/ZoomChange.cs
     startLine: 14
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/Scripts/ZoomChange.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddZoomChangeListerner
     path: ../Assets/Scripts/ZoomChange.cs
     startLine: 19
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/Scripts/ZoomChange.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Change
     path: ../Assets/Scripts/ZoomChange.cs
     startLine: 23
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/Scripts/ZoomChange.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetScale
     path: ../Assets/Scripts/ZoomChange.cs
     startLine: 31

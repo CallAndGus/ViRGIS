@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CommandArgumentSet
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 9
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Integers
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 13
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Floats
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 14
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Strings
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 17
@@ -157,7 +157,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Flags
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 20
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SawArguments
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 24
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Filenames
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 27
@@ -250,7 +250,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Register
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 30
@@ -285,7 +285,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Register
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 33
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Register
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 36
@@ -355,7 +355,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Register
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 39
@@ -390,7 +390,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Saw
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 44
@@ -425,7 +425,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Validate
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 50
@@ -465,7 +465,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Parse
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 62
@@ -503,7 +503,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: error_missing_argument
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 126
@@ -538,7 +538,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/CommandArgumentSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: error_invalid_value
     path: ../Assets/geometry3Sharp/core/CommandArgumentSet.cs
     startLine: 130

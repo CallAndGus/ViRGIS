@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/FileSystemUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FileSystemUtils
     path: ../Assets/geometry3Sharp/core/FileSystemUtils.cs
     startLine: 6
@@ -56,7 +56,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/FileSystemUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CanAccessFolder
     path: ../Assets/geometry3Sharp/core/FileSystemUtils.cs
     startLine: 8
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/FileSystemUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsValidFilenameCharacter
     path: ../Assets/geometry3Sharp/core/FileSystemUtils.cs
     startLine: 19
@@ -130,7 +130,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/FileSystemUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsValidFilenameString
     path: ../Assets/geometry3Sharp/core/FileSystemUtils.cs
     startLine: 23
@@ -167,7 +167,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/FileSystemUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsWebURL
     path: ../Assets/geometry3Sharp/core/FileSystemUtils.cs
     startLine: 32
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/FileSystemUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsFullFilesystemPath
     path: ../Assets/geometry3Sharp/core/FileSystemUtils.cs
     startLine: 40
@@ -241,7 +241,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/FileSystemUtils.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTempFilePathWithExtension
     path: ../Assets/geometry3Sharp/core/FileSystemUtils.cs
     startLine: 46

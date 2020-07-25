@@ -76,7 +76,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygon2d
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 9
@@ -113,7 +113,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertices
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 11
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Timestamp
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 12
@@ -175,7 +175,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 14
@@ -205,7 +205,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 19
@@ -238,7 +238,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 25
@@ -274,7 +274,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 31
@@ -310,7 +310,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 37
@@ -346,7 +346,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 42
@@ -379,7 +379,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 49
@@ -415,7 +415,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 58
@@ -453,7 +453,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Duplicate
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 66
@@ -489,7 +489,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 73
@@ -529,7 +529,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Start
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 79
@@ -564,7 +564,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 83
@@ -599,7 +599,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 87
@@ -634,7 +634,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 92
@@ -667,7 +667,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertices
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 97
@@ -703,7 +703,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveVertex
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 103
@@ -736,7 +736,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVertices
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 110
@@ -774,7 +774,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 123
@@ -804,7 +804,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTangent
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 130
@@ -839,7 +839,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetNormal
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 142
@@ -876,7 +876,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetNormal_FaceAvg
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 152
@@ -913,7 +913,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBounds
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 168
@@ -945,7 +945,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 173
@@ -980,7 +980,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentItr
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 179
@@ -1012,7 +1012,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VerticesItr
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 184
@@ -1047,7 +1047,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClockwise
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 207
@@ -1082,7 +1082,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SignedArea
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 210
@@ -1117,7 +1117,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Area
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 225
@@ -1152,7 +1152,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Perimeter
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 231
@@ -1187,7 +1187,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 241
@@ -1222,7 +1222,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NeighboursP
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 245
@@ -1262,7 +1262,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NeighboursV
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 251
@@ -1304,7 +1304,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OpeningAngleDeg
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 262
@@ -1339,7 +1339,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WindingIntegral
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 273
@@ -1376,7 +1376,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 291
@@ -1413,7 +1413,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 319
@@ -1448,7 +1448,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 338
@@ -1485,7 +1485,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersects
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 352
@@ -1520,7 +1520,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersects
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 368
@@ -1557,7 +1557,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindIntersections
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 385
@@ -1592,7 +1592,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 408
@@ -1627,7 +1627,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointAt
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 413
@@ -1664,7 +1664,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetNormal
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 418
@@ -1701,7 +1701,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 430
@@ -1743,7 +1743,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 454
@@ -1778,7 +1778,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AverageEdgeLength
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 460
@@ -1813,7 +1813,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 472
@@ -1848,7 +1848,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rotate
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 480
@@ -1885,7 +1885,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Scale
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 488
@@ -1922,7 +1922,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 496
@@ -1960,7 +1960,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 505
@@ -1995,7 +1995,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VtxNormalOffset
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 519
@@ -2032,7 +2032,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolyOffset
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 540
@@ -2067,7 +2067,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Simplify
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 611
@@ -2104,7 +2104,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Chamfer
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 691
@@ -2141,7 +2141,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinimalBoundingBox
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 754
@@ -2178,7 +2178,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MakeRectangle
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 762
@@ -2219,7 +2219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MakeCircle
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 773

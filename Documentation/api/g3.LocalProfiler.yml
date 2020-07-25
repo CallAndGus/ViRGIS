@@ -33,7 +33,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LocalProfiler
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 73
@@ -68,7 +68,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Start
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 78
@@ -103,7 +103,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StopAllAndStartNew
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 90
@@ -138,7 +138,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 96
@@ -173,7 +173,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Stop
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 102
@@ -206,7 +206,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StopAll
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 107
@@ -236,7 +236,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StopAndAccumulate
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 115
@@ -271,7 +271,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reset
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 120
@@ -304,7 +304,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ResetAccumulated
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 125
@@ -337,7 +337,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ResetAllAccumulated
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 130
@@ -370,7 +370,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DivideAllAccumulated
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 136
@@ -403,7 +403,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Elapsed
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 144
@@ -438,7 +438,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Accumulated
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 148
@@ -473,7 +473,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllTicks
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 154
@@ -508,7 +508,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllAccumulatedTicks
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 164
@@ -543,7 +543,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllTimes
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 176
@@ -580,7 +580,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllAccumulatedTimes
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 187
@@ -617,7 +617,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProfileUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dispose
     path: ../Assets/geometry3Sharp/core/ProfileUtil.cs
     startLine: 200

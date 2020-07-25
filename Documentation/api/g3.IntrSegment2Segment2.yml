@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntrSegment2Segment2
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 36
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment1
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 39
@@ -99,7 +99,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment2
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 46
@@ -134,7 +134,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntervalThreshold
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 53
@@ -169,7 +169,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DotThreshold
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 60
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Quantity
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 66
@@ -235,7 +235,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Result
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 67
@@ -266,7 +266,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 68
@@ -297,7 +297,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsSimpleIntersection
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 70
@@ -332,7 +332,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point0
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 76
@@ -363,7 +363,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point1
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 77
@@ -394,7 +394,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Parameter0
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 79
@@ -425,7 +425,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Parameter1
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 80
@@ -456,7 +456,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 82
@@ -491,7 +491,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 87
@@ -523,7 +523,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Find
     path: ../Assets/geometry3Sharp/intersection/IntrSegment2Segment2.cs
     startLine: 94

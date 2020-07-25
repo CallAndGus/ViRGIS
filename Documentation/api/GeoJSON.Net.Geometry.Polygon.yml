@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygon
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 19
@@ -76,7 +76,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 28
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 45
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 52
@@ -203,7 +203,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Coordinates
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 57
@@ -265,7 +265,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 66
@@ -305,7 +305,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 74
@@ -342,7 +342,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 82
@@ -381,7 +381,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 94
@@ -422,7 +422,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 110
@@ -463,7 +463,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 118
@@ -500,7 +500,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Polygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/Polygon.cs
     startLine: 131

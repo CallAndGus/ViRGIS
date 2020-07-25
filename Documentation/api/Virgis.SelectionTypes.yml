@@ -19,10 +19,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SelectionTypes
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 28
+    startLine: 29
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -52,10 +52,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SELECT
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 30
+    startLine: 31
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -84,10 +84,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SELECTALL
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 31
+    startLine: 32
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -116,10 +116,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BROADCAST
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 32
+    startLine: 33
   assemblies:
   - Assembly-CSharp
   namespace: Virgis

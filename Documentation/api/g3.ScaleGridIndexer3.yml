@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ScaleGridIndexer3
     path: ../Assets/geometry3Sharp/spatial/GridIndexing.cs
     startLine: 68
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CellSize
     path: ../Assets/geometry3Sharp/spatial/GridIndexing.cs
     startLine: 70
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/GridIndexing.cs
     startLine: 72
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToGrid
     path: ../Assets/geometry3Sharp/spatial/GridIndexing.cs
     startLine: 77
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToGridf
     path: ../Assets/geometry3Sharp/spatial/GridIndexing.cs
     startLine: 84
@@ -197,7 +197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromGrid
     path: ../Assets/geometry3Sharp/spatial/GridIndexing.cs
     startLine: 91
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromGrid
     path: ../Assets/geometry3Sharp/spatial/GridIndexing.cs
     startLine: 98

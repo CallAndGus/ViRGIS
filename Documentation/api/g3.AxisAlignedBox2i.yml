@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisAlignedBox2i
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 7
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Min
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 9
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Max
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 10
@@ -162,7 +162,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Empty
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 12
@@ -197,7 +197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Zero
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 13
@@ -232,7 +232,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnitPositive
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 14
@@ -267,7 +267,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Infinite
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 15
@@ -302,7 +302,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 19
@@ -335,7 +335,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 25
@@ -374,7 +374,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 31
@@ -407,7 +407,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 37
@@ -442,7 +442,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 43
@@ -477,7 +477,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 49
@@ -516,7 +516,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 54
@@ -551,7 +551,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 60
@@ -584,7 +584,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Width
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 64
@@ -619,7 +619,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Height
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 67
@@ -654,7 +654,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Area
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 72
@@ -689,7 +689,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DiagonalLength
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 76
@@ -724,7 +724,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxDim
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 82
@@ -759,7 +759,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Diagonal
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 87
@@ -794,7 +794,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Extents
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 91
@@ -829,7 +829,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 95
@@ -864,7 +864,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 101
@@ -903,7 +903,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 104
@@ -942,7 +942,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 107
@@ -980,7 +980,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 110
@@ -1015,7 +1015,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CompareTo
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 113
@@ -1050,7 +1050,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 119
@@ -1085,7 +1085,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetCorner
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 130
@@ -1120,7 +1120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Expand
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 136
@@ -1153,7 +1153,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contract
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 142
@@ -1186,7 +1186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Scale
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 148
@@ -1223,7 +1223,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contain
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 156
@@ -1256,7 +1256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contain
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 164
@@ -1289,7 +1289,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contain
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 173
@@ -1322,7 +1322,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contain
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 181
@@ -1355,7 +1355,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersect
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 190
@@ -1390,7 +1390,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 203
@@ -1425,7 +1425,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 207
@@ -1463,7 +1463,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 213
@@ -1498,7 +1498,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 216
@@ -1536,7 +1536,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersects
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 222
@@ -1571,7 +1571,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 229
@@ -1606,7 +1606,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Distance
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 235
@@ -1641,7 +1641,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearestPoint
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 241
@@ -1676,7 +1676,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 251
@@ -1709,7 +1709,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveMin
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 257
@@ -1742,7 +1742,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveMin
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 263
@@ -1777,7 +1777,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IndicesInclusive
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 273
@@ -1809,7 +1809,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IndicesExclusive
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 279
@@ -1841,7 +1841,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/math/AxisAlignedBox2i.cs
     startLine: 287

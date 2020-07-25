@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IVirgisFeature
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 29
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetMaterial
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 31
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddVertex
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 33
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveVertex
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 34
@@ -158,7 +158,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetGeometry
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 35

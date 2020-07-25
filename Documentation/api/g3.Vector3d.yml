@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vector3d
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 10
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: x
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 12
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: y
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 13
@@ -191,7 +191,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: z
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 14
@@ -222,7 +222,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 16
@@ -255,7 +255,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 17
@@ -292,7 +292,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 18
@@ -328,7 +328,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 19
@@ -361,7 +361,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 20
@@ -394,7 +394,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Zero
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 22
@@ -429,7 +429,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: One
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 23
@@ -464,7 +464,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisX
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 24
@@ -499,7 +499,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisY
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 25
@@ -534,7 +534,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisZ
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 26
@@ -569,7 +569,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxValue
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 27
@@ -604,7 +604,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinValue
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 28
@@ -639,7 +639,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 30
@@ -679,7 +679,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: xy
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 36
@@ -714,7 +714,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: xz
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 40
@@ -749,7 +749,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: yz
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 44
@@ -784,7 +784,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LengthSquared
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 49
@@ -819,7 +819,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Length
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 53
@@ -854,7 +854,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LengthL1
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 58
@@ -889,7 +889,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Max
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 63
@@ -924,7 +924,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Min
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 66
@@ -959,7 +959,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxAbs
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 69
@@ -994,7 +994,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinAbs
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 72
@@ -1029,7 +1029,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Abs
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 76
@@ -1064,7 +1064,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normalize
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 80
@@ -1099,7 +1099,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normalized
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 94
@@ -1134,7 +1134,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsNormalized
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 106
@@ -1169,7 +1169,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsFinite
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 110
@@ -1204,7 +1204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Round
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 115
@@ -1237,7 +1237,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 122
@@ -1272,7 +1272,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 125
@@ -1310,7 +1310,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 129
@@ -1349,7 +1349,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cross
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 133
@@ -1384,7 +1384,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cross
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 139
@@ -1422,7 +1422,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cross
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 145
@@ -1461,7 +1461,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnitCross
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 149
@@ -1499,7 +1499,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnitCross
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 157
@@ -1534,7 +1534,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleD
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 162
@@ -1569,7 +1569,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleD
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 167
@@ -1608,7 +1608,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleR
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 171
@@ -1643,7 +1643,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleR
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 176
@@ -1682,7 +1682,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 181
@@ -1717,7 +1717,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 185
@@ -1755,7 +1755,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Distance
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 190
@@ -1790,7 +1790,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Distance
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 194
@@ -1828,7 +1828,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 199
@@ -1861,7 +1861,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 203
@@ -1898,7 +1898,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 207
@@ -1931,7 +1931,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Subtract
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 211
@@ -1964,7 +1964,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_UnaryNegation
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 218
@@ -2001,7 +2001,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 223
@@ -2040,7 +2040,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 227
@@ -2079,7 +2079,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Division
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 231
@@ -2118,7 +2118,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Division
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 235
@@ -2157,7 +2157,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 240
@@ -2196,7 +2196,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Division
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 244
@@ -2235,7 +2235,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 250
@@ -2274,7 +2274,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 254
@@ -2313,7 +2313,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 259
@@ -2352,7 +2352,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 263
@@ -2391,7 +2391,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 270
@@ -2430,7 +2430,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 274
@@ -2469,7 +2469,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 278
@@ -2507,7 +2507,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 282
@@ -2542,7 +2542,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CompareTo
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 294
@@ -2577,7 +2577,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 304
@@ -2612,7 +2612,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EpsilonEqual
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 310
@@ -2649,7 +2649,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Lerp
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 317
@@ -2690,7 +2690,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Lerp
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 321
@@ -2734,7 +2734,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 328
@@ -2769,7 +2769,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 331
@@ -2804,7 +2804,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Implicit
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 337
@@ -2844,7 +2844,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Explicit
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 341
@@ -2884,7 +2884,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Orthonormalize
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 370
@@ -2930,7 +2930,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GenerateComplementBasis
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 409
@@ -2974,7 +2974,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeOrthogonalComplement
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 444
@@ -3022,7 +3022,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Vector3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MakePerpVectors
     path: ../Assets/geometry3Sharp/math/Vector3d.cs
     startLine: 472

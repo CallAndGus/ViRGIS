@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConeGenerator
     path: ../Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
     startLine: 208
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseRadius
     path: ../Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
     startLine: 210
@@ -116,7 +116,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Height
     path: ../Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
     startLine: 211
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StartAngleDeg
     path: ../Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
     startLine: 212
@@ -178,7 +178,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EndAngleDeg
     path: ../Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
     startLine: 213
@@ -209,7 +209,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Slices
     path: ../Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
     startLine: 214
@@ -240,7 +240,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoSharedVertices
     path: ../Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
     startLine: 217
@@ -271,7 +271,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Generate
     path: ../Assets/geometry3Sharp/mesh_generators/CylinderGenerators.cs
     startLine: 220

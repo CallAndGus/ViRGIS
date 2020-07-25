@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HBitArray
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 18
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 48
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 71
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 78
@@ -170,7 +170,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrueCount
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 83
@@ -205,7 +205,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 89
@@ -240,7 +240,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 94
@@ -273,7 +273,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 99
@@ -308,7 +308,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 140
@@ -343,7 +343,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/HBitArray.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/core/HBitArray.cs
     startLine: 149

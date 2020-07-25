@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ImplicitDifference2d
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 138
@@ -63,7 +63,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 140
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Value
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 144
@@ -133,7 +133,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Gradient
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 158

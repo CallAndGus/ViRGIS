@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IdentityIndexMap
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 167
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 169

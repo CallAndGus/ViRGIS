@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/Scripts/FeatureAdder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FeatureAdder
     path: ../Assets/Scripts/FeatureAdder.cs
     startLine: 7
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/Scripts/FeatureAdder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: blueCubePrefab
     path: ../Assets/Scripts/FeatureAdder.cs
     startLine: 8
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/Scripts/FeatureAdder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: defaultMarkerShape
     path: ../Assets/Scripts/FeatureAdder.cs
     startLine: 9
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/Scripts/FeatureAdder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LeftTriggerPressed
     path: ../Assets/Scripts/FeatureAdder.cs
     startLine: 44
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/Scripts/FeatureAdder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LeftTriggerReleased
     path: ../Assets/Scripts/FeatureAdder.cs
     startLine: 57

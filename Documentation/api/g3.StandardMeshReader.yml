@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StandardMeshReader
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 20
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadInvariantCulture
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 27
@@ -94,7 +94,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: warningEvent
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 31
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshBuilder
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 38
@@ -162,7 +162,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 50
@@ -197,7 +197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SupportsFormat
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 67
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddFormatHandler
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 80
@@ -269,7 +269,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 94
@@ -308,7 +308,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 146
@@ -349,7 +349,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadFile
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 195
@@ -392,7 +392,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadFile
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 206
@@ -437,7 +437,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadMesh
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 219
@@ -476,7 +476,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadMesh
     path: ../Assets/geometry3Sharp/io/StandardMeshReader.cs
     startLine: 230

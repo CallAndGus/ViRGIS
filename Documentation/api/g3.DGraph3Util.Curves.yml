@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curves
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 14
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Loops
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 16
@@ -84,7 +84,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Paths
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 17
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundaryV
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 19
@@ -146,7 +146,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: JunctionV
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 20
@@ -177,7 +177,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LoopEdges
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 22
@@ -208,7 +208,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph3Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PathEdges
     path: ../Assets/geometry3Sharp/curve/DGraph3Util.cs
     startLine: 23

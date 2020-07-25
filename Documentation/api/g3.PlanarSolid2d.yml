@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlanarSolid2d
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 13
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 21
@@ -87,7 +87,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Outer
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 25
@@ -122,7 +122,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetOuter
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 28
@@ -157,7 +157,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddHole
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 36
@@ -190,7 +190,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Holes
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 51
@@ -225,7 +225,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 56
@@ -260,7 +260,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Perimeter
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 67
@@ -295,7 +295,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarSolid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Convert
     path: ../Assets/geometry3Sharp/curve/PlanarSolid2d.cs
     startLine: 83

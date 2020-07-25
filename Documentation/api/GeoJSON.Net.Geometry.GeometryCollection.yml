@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeometryCollection
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 17
@@ -76,7 +76,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 22
@@ -108,7 +108,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 30
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 36
@@ -187,7 +187,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Geometries
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 41
@@ -249,7 +249,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 50
@@ -289,7 +289,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 58
@@ -326,7 +326,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 66
@@ -365,7 +365,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 78
@@ -406,7 +406,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 94
@@ -447,7 +447,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 102
@@ -484,7 +484,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/GeometryCollection.cs
     startLine: 115

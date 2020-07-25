@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Corner
     path: ../Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
     startLine: 207
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BottomLeft
     path: ../Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
     startLine: 210
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BottomRight
     path: ../Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
     startLine: 211
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TopRight
     path: ../Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
     startLine: 212
@@ -157,7 +157,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TopLeft
     path: ../Assets/geometry3Sharp/mesh_generators/PlaneGenerators.cs
     startLine: 213

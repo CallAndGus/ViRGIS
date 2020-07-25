@@ -42,7 +42,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Arc2d
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 8
@@ -79,7 +79,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 10
@@ -110,7 +110,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Radius
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 11
@@ -141,7 +141,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleStartDeg
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 12
@@ -172,7 +172,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleEndDeg
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 13
@@ -203,7 +203,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsReversed
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 14
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 17
@@ -273,7 +273,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 35
@@ -312,7 +312,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetFromCenterAndPoints
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 46
@@ -351,7 +351,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: P0
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 61
@@ -386,7 +386,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: P1
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 64
@@ -421,7 +421,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curvature
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 68
@@ -456,7 +456,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SignedCurvature
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 72
@@ -491,7 +491,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 77
@@ -528,7 +528,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParamLength
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 82
@@ -565,7 +565,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 88
@@ -602,7 +602,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TangentT
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 98
@@ -639,7 +639,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 112
@@ -676,7 +676,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 114
@@ -713,7 +713,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLength
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 120
@@ -750,7 +750,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 132
@@ -782,7 +782,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 136
@@ -816,7 +816,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTransformable
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 142
@@ -853,7 +853,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 143
@@ -888,7 +888,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 154
@@ -923,7 +923,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Distance
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 181
@@ -958,7 +958,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Arc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearestPoint
     path: ../Assets/geometry3Sharp/curve/Arc2.cs
     startLine: 203

@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/Scripts/VR Interactions/DataRotator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DataRotator
     path: ../Assets/Scripts/VR Interactions/DataRotator.cs
     startLine: 6
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/Scripts/VR Interactions/DataRotator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: color
     path: ../Assets/Scripts/VR Interactions/DataRotator.cs
     startLine: 8
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/Scripts/VR Interactions/DataRotator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: anticolor
     path: ../Assets/Scripts/VR Interactions/DataRotator.cs
     startLine: 9
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/Scripts/VR Interactions/DataRotator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: position
     path: ../Assets/Scripts/VR Interactions/DataRotator.cs
     startLine: 10
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/Scripts/VR Interactions/DataRotator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetColor
     path: ../Assets/Scripts/VR Interactions/DataRotator.cs
     startLine: 24
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/Scripts/VR Interactions/DataRotator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Selected
     path: ../Assets/Scripts/VR Interactions/DataRotator.cs
     startLine: 33
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/Scripts/VR Interactions/DataRotator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnSelected
     path: ../Assets/Scripts/VR Interactions/DataRotator.cs
     startLine: 41
@@ -254,7 +254,7 @@ items:
     remote:
       path: Assets/Scripts/VR Interactions/DataRotator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/VR Interactions/DataRotator.cs
     startLine: 49

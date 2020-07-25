@@ -37,7 +37,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshRefinerBase
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 7
@@ -73,7 +73,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mesh
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 9
@@ -104,7 +104,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: constraints
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 10
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllowCollapseFixedVertsWithSameSetID
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 15
@@ -166,7 +166,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeFlipTolerance
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 21
@@ -203,7 +203,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: edge_flip_tol
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 25
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 28
@@ -267,7 +267,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 32
@@ -297,7 +297,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 36
@@ -332,7 +332,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Constraints
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 41
@@ -367,7 +367,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetExternalConstraints
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 46
@@ -400,7 +400,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Progress
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 55
@@ -433,7 +433,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cancelled
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 60
@@ -469,7 +469,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: edge_flip_metric
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 65
@@ -509,7 +509,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: collapse_creates_flip_or_invalid
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 83
@@ -557,7 +557,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: flip_inverts_normals
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 120
@@ -602,7 +602,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: can_collapse_constraints
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 154
@@ -654,7 +654,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: can_collapse_vtx
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 191
@@ -698,7 +698,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertex_is_fixed
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 250
@@ -733,7 +733,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertex_is_constrained
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 256
@@ -768,7 +768,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: get_vertex_constraint
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 266
@@ -803,7 +803,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: get_vertex_constraint
     path: ../Assets/geometry3Sharp/mesh/MeshRefinerBase.cs
     startLine: 272

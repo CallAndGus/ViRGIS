@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Serializable
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 233
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Update
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 235
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToArray
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 236
@@ -130,7 +130,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: magnitude
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 237

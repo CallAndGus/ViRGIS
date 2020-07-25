@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DBlock
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 410
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: data
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 412
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: usedCount
     path: ../Assets/geometry3Sharp/core/DVector.cs
     startLine: 413

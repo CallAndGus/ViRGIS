@@ -32,7 +32,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: STLReader
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 29
@@ -69,7 +69,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RebuildStrategy
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 45
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WeldTolerance
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 50
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WantPerTriAttribs
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 58
@@ -168,7 +168,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerTriAttribMetadataName
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 63
@@ -203,7 +203,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: warningEvent
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 67
@@ -236,7 +236,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StrategyFlag
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 76
@@ -271,7 +271,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerTriAttribFlag
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 79
@@ -306,7 +306,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 124
@@ -347,7 +347,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 175
@@ -388,7 +388,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BuildMesh
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 262
@@ -425,7 +425,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BuildMesh_NoMerge
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 283
@@ -462,7 +462,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BuildMesh_Auto
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 303
@@ -499,7 +499,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: count_boundary_edges
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 324
@@ -534,7 +534,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: check_for_cracks
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 334
@@ -576,7 +576,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BuildMesh_IdenticalWeld
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 366
@@ -613,7 +613,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BuildMesh_TolerantWeld
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 395

@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshMeshCut
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 19
@@ -65,7 +65,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Target
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 21
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CutMesh
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 22
@@ -127,7 +127,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexSnapTol
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 27
@@ -158,7 +158,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CutVertices
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 32
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 35
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveContained
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 63
@@ -249,7 +249,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendSegments
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 84
@@ -282,7 +282,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ColorFaces
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 93
@@ -312,7 +312,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: on_edge
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 592
@@ -352,7 +352,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: on_edge_eid
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 605
@@ -389,7 +389,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: is_on_edge
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 617
@@ -426,7 +426,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: is_in_triangle
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 624
@@ -463,7 +463,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_existing_vertex
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 639
@@ -500,7 +500,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_nearest_vertex
     path: ../Assets/geometry3Sharp/mesh_ops/MeshMeshCut.cs
     startLine: 646

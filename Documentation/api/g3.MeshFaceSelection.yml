@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshFaceSelection
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 9
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 11
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 18
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 25
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bitmap
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 33
@@ -224,7 +224,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 44
@@ -261,7 +261,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 72
@@ -296,7 +296,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 78
@@ -328,7 +328,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 96
@@ -363,7 +363,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsSelected
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 103
@@ -398,7 +398,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Select
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 109
@@ -431,7 +431,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Select
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 115
@@ -467,7 +467,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Select
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 122
@@ -503,7 +503,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Select
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 129
@@ -539,7 +539,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Select
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 136
@@ -575,7 +575,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SelectVertexOneRing
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 148
@@ -608,7 +608,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SelectVertexOneRings
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 152
@@ -644,7 +644,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SelectVertexOneRings
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 160
@@ -680,7 +680,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SelectEdgeTris
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 169
@@ -713,7 +713,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Deselect
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 178
@@ -746,7 +746,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Deselect
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 181
@@ -782,7 +782,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Deselect
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 185
@@ -818,7 +818,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DeselectAll
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 189
@@ -848,7 +848,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SelectGroup
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 196
@@ -881,7 +881,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SelectGroupInverse
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 204
@@ -914,7 +914,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DeselectGroup
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 212
@@ -947,7 +947,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToArray
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 223
@@ -979,7 +979,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNeighbourTris
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 238
@@ -1013,7 +1013,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindBorderTris
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 255
@@ -1047,7 +1047,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExpandToFaceNeighbours
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 269
@@ -1083,7 +1083,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExpandToFaceNeighbours
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 286
@@ -1121,7 +1121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExpandToOneRingNeighbours
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 300
@@ -1159,7 +1159,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExpandToOneRingNeighbours
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 329
@@ -1199,7 +1199,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ContractBorderByOneRingNeighbours
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 381
@@ -1231,7 +1231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FloodFill
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 416
@@ -1273,7 +1273,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FloodFill
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 424
@@ -1315,7 +1315,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClipFins
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 452
@@ -1350,7 +1350,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FillEars
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 468
@@ -1385,7 +1385,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LocalOptimize
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 490
@@ -1428,7 +1428,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LocalOptimize
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 513
@@ -1463,7 +1463,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveBowties
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 525
@@ -1497,7 +1497,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: remove_bowties
     path: ../Assets/geometry3Sharp/mesh_selection/MeshFaceSelection.cs
     startLine: 528

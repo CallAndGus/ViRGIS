@@ -33,7 +33,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshMeasurements
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 7
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MassProperties
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 20
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MassProperties
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 138
@@ -161,7 +161,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VolumeArea
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 156
@@ -207,7 +207,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexOneRingArea
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 189
@@ -250,7 +250,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Centroid
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 200
@@ -290,7 +290,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Centroid
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 211
@@ -334,7 +334,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Centroid
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 223
@@ -373,7 +373,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 241
@@ -415,7 +415,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 255
@@ -457,7 +457,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundsV
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 271
@@ -501,7 +501,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundsT
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 286
@@ -545,7 +545,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AreaT
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 309
@@ -587,7 +587,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundsInFrame
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 321
@@ -633,7 +633,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtentsOnAxis
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 343
@@ -679,7 +679,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtentsOnAxis
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 362
@@ -725,7 +725,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtremeVertices
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 384
@@ -771,7 +771,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Genus
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 426

@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment2f
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 259
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 262
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Direction
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 263
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Extent
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 264
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 266
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 273
@@ -226,7 +226,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: P0
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 278
@@ -261,7 +261,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: P1
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 283
@@ -296,7 +296,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Length
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 288
@@ -331,7 +331,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointAt
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 294
@@ -366,7 +366,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointBetween
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 299
@@ -401,7 +401,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 303
@@ -436,7 +436,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearestPoint
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 314
@@ -471,7 +471,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Project
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 324
@@ -506,7 +506,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Segment2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastDistanceSquared
     path: ../Assets/geometry3Sharp/math/Segment2.cs
     startLine: 344

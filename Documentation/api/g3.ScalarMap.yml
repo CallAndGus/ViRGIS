@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/ScalarMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ScalarMap
     path: ../Assets/geometry3Sharp/math/ScalarMap.cs
     startLine: 9
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/ScalarMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/ScalarMap.cs
     startLine: 20
@@ -84,7 +84,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/ScalarMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddPoint
     path: ../Assets/geometry3Sharp/math/ScalarMap.cs
     startLine: 27
@@ -119,7 +119,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/ScalarMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Linear
     path: ../Assets/geometry3Sharp/math/ScalarMap.cs
     startLine: 54

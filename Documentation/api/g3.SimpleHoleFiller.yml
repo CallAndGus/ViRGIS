@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SimpleHoleFiller
     path: ../Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
     startLine: 7
@@ -56,7 +56,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
     startLine: 9
@@ -87,7 +87,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Loop
     path: ../Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
     startLine: 10
@@ -118,7 +118,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NewVertex
     path: ../Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
     startLine: 12
@@ -149,7 +149,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NewTriangles
     path: ../Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
     startLine: 13
@@ -180,7 +180,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
     startLine: 16
@@ -215,7 +215,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Validate
     path: ../Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
     startLine: 27
@@ -249,7 +249,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Fill
     path: ../Assets/geometry3Sharp/mesh_ops/SimpleHoleFiller.cs
     startLine: 34

@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CurveUtils2
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 5
@@ -65,7 +65,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Convert
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 9
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampledDistance
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 21
@@ -143,7 +143,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LeafCurvesIteration
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 40
@@ -182,7 +182,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Flatten
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 53
@@ -222,7 +222,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Flatten
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 62
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetMaxOriginDistances
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 68
@@ -299,7 +299,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestVertex
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 81
@@ -341,7 +341,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CentroidVtx
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 97
@@ -381,7 +381,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LaplacianSmooth
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 113
@@ -427,7 +427,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LaplacianSmoothConstrained
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 160
@@ -476,7 +476,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LaplacianSmoothConstrained
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 218
@@ -521,7 +521,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Filter
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 231
@@ -567,7 +567,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Split
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 245
@@ -615,7 +615,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SplitToTargetLength
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 259
@@ -654,7 +654,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveUtils2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FilterDegenerate
     path: ../Assets/geometry3Sharp/curve/CurveUtils2.cs
     startLine: 293

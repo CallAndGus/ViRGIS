@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: matrix_entry
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 7
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: r
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 9
@@ -81,7 +81,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: c
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 10
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: value
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 11

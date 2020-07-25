@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnspecifiedCRS
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
     startLine: 8
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
     startLine: 13
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
     startLine: 24
@@ -140,7 +140,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
     startLine: 32
@@ -177,7 +177,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
     startLine: 48
@@ -218,7 +218,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
     startLine: 64
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/UnspecifiedCRS.cs
     startLine: 72

@@ -29,7 +29,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RegionOperator
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 16
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseMesh
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 18
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Region
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 19
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReinsertSubToBaseMapV
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 22
@@ -157,7 +157,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReinsertSubToBaseMapT
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 25
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReinsertDuplicateTriBehavior
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 28
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 32
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 44
@@ -299,7 +299,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CurrentBaseTriangles
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 62
@@ -336,7 +336,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CurrentBaseInteriorVertices
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 70
@@ -370,7 +370,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RepairPossibleNonManifoldEdges
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 95
@@ -400,7 +400,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetSubmeshGroupID
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 134
@@ -435,7 +435,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BackPropropagate
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 149
@@ -470,7 +470,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BackPropropagateVertices
     path: ../Assets/geometry3Sharp/mesh_ops/RegionOperator.cs
     startLine: 186

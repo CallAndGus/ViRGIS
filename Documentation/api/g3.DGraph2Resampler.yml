@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Resampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DGraph2Resampler
     path: ../Assets/geometry3Sharp/curve/DGraph2Resampler.cs
     startLine: 10
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Resampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Graph
     path: ../Assets/geometry3Sharp/curve/DGraph2Resampler.cs
     startLine: 12
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Resampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FixedEdgeFilterF
     path: ../Assets/geometry3Sharp/curve/DGraph2Resampler.cs
     startLine: 15
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Resampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/DGraph2Resampler.cs
     startLine: 18
@@ -153,7 +153,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Resampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SplitToMaxEdgeLength
     path: ../Assets/geometry3Sharp/curve/DGraph2Resampler.cs
     startLine: 24
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Resampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CollapseFlatVertices
     path: ../Assets/geometry3Sharp/curve/DGraph2Resampler.cs
     startLine: 67
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Resampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CollapseDegenerateEdges
     path: ../Assets/geometry3Sharp/curve/DGraph2Resampler.cs
     startLine: 120
@@ -254,7 +254,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/DGraph2Resampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CollapseToMinEdgeLength
     path: ../Assets/geometry3Sharp/curve/DGraph2Resampler.cs
     startLine: 158

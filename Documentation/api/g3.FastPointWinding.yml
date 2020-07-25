@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/FastWindingMath.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastPointWinding
     path: ../Assets/geometry3Sharp/math/FastWindingMath.cs
     startLine: 166
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/FastWindingMath.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeCoeffs
     path: ../Assets/geometry3Sharp/math/FastWindingMath.cs
     startLine: 176
@@ -110,7 +110,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/FastWindingMath.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EvaluateOrder1Approx
     path: ../Assets/geometry3Sharp/math/FastWindingMath.cs
     startLine: 218
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/FastWindingMath.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EvaluateOrder2Approx
     path: ../Assets/geometry3Sharp/math/FastWindingMath.cs
     startLine: 231
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/FastWindingMath.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExactEval
     path: ../Assets/geometry3Sharp/math/FastWindingMath.cs
     startLine: 258
@@ -250,7 +250,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/FastWindingMath.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Order1Approx
     path: ../Assets/geometry3Sharp/math/FastWindingMath.cs
     startLine: 267
@@ -298,7 +298,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/FastWindingMath.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Order2Approx
     path: ../Assets/geometry3Sharp/math/FastWindingMath.cs
     startLine: 279

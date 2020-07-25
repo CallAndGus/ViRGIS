@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshNormals
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 7
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 9
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normals
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 10
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexF
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 16
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NormalType
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 24
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 27
@@ -220,7 +220,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 36
@@ -250,7 +250,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 42
@@ -290,7 +290,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CopyTo
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 47
@@ -323,7 +323,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: QuickCompute
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 101
@@ -358,7 +358,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshNormals.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: QuickCompute
     path: ../Assets/geometry3Sharp/mesh/MeshNormals.cs
     startLine: 109

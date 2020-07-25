@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ImplicitOperator2d
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 17
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/Implicit2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddChild
     path: ../Assets/geometry3Sharp/implicit/Implicit2d.cs
     startLine: 19

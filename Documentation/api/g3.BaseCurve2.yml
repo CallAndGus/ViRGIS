@@ -34,7 +34,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaseCurve2
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 6
@@ -72,7 +72,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mTMin
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 10
@@ -103,7 +103,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mTMax
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 10
@@ -134,7 +134,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 12
@@ -169,7 +169,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetMinTime
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 21
@@ -201,7 +201,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetMaxTime
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 24
@@ -233,7 +233,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetTimeInterval
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 27
@@ -268,7 +268,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetPosition
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 35
@@ -305,7 +305,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFirstDerivative
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 36
@@ -342,7 +342,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSecondDerivative
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 37
@@ -379,7 +379,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetThirdDerivative
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 38
@@ -416,7 +416,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSpeed
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 41
@@ -451,7 +451,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetLength
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 51
@@ -490,7 +490,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTotalLength
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 63
@@ -522,7 +522,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTangent
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 68
@@ -557,7 +557,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetNormal
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 72
@@ -592,7 +592,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFrame
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 76
@@ -634,7 +634,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetCurvature
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 82
@@ -669,7 +669,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/BaseCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTime
     path: ../Assets/geometry3Sharp/curve/BaseCurve2.cs
     startLine: 99

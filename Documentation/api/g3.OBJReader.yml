@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OBJReader
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 77
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 100
@@ -94,7 +94,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MTLFileSearchPaths
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 108
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: warningEvent
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 111
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasPerVertexColors
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 114
@@ -195,7 +195,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UVDimension
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 115
@@ -230,7 +230,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasTriangleGroups
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 117
@@ -265,7 +265,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasComplexVertices
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 122
@@ -300,7 +300,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 125
@@ -341,7 +341,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 130
@@ -382,7 +382,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParseInput
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 332
@@ -419,7 +419,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/OBJReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadMaterials
     path: ../Assets/geometry3Sharp/io/OBJReader.cs
     startLine: 591

@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveResampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CurveResampler
     path: ../Assets/geometry3Sharp/curve/CurveResampler.cs
     startLine: 7
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveResampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SplitResample
     path: ../Assets/geometry3Sharp/curve/CurveResampler.cs
     startLine: 13
@@ -88,7 +88,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveResampler.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SplitCollapseResample
     path: ../Assets/geometry3Sharp/curve/CurveResampler.cs
     startLine: 57

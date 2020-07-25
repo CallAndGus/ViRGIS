@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/Feature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Feature
     path: ../Assets/GeoJSON.Net/Feature/Feature.cs
     startLine: 104
@@ -79,7 +79,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/Feature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Feature/Feature.cs
     startLine: 106
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/Feature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Feature/Feature.cs
     startLine: 112

@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curve3Curve3RevolveGenerator
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 162
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curve
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 164
@@ -117,7 +117,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Axis
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 165
@@ -148,7 +148,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Capped
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 167
@@ -179,7 +179,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Slices
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 168
@@ -210,7 +210,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoSharedVertices
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 169
@@ -241,7 +241,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: startCapCenterIndex
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 171
@@ -272,7 +272,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: endCapCenterIndex
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 172
@@ -303,7 +303,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Generate
     path: ../Assets/geometry3Sharp/mesh_generators/RevolveGenerator.cs
     startLine: 174

@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshIterators
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 7
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FilteredVertices
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 10
@@ -104,7 +104,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FilteredEdges
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 22
@@ -146,7 +146,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FilteredTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 34
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundaryVertices
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 49
@@ -227,7 +227,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundaryEdgeVertices
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 64
@@ -266,7 +266,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InteriorVertices
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 77
@@ -303,7 +303,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GroupBoundaryVertices
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 90
@@ -340,7 +340,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GroupJunctionVertices
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 102
@@ -377,7 +377,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 114
@@ -414,7 +414,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InteriorEdges
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 126
@@ -451,7 +451,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GroupBoundaryEdges
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 138
@@ -488,7 +488,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BowtieVertices
     path: ../Assets/geometry3Sharp/mesh/MeshIterators.cs
     startLine: 152

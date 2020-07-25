@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshEdgeMidpoints
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 11
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 13
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 18
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 20
@@ -168,7 +168,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxVertexID
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 21
@@ -205,7 +205,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexNormals
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 23
@@ -242,7 +242,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexColors
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 24
@@ -279,7 +279,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 26
@@ -316,7 +316,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexNormal
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 27
@@ -353,7 +353,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexColor
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 28
@@ -390,7 +390,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsVertex
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 30
@@ -427,7 +427,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexIndices
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 33
@@ -461,7 +461,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshPointSets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Timestamp
     path: ../Assets/geometry3Sharp/mesh/MeshPointSets.cs
     startLine: 41

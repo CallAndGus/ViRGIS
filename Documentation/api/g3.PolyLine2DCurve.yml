@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolyLine2DCurve
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 386
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polyline
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 388
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 390
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParamLength
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 393
@@ -172,7 +172,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 394
@@ -209,7 +209,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TangentT
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 404
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 409
@@ -283,7 +283,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 410
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLength
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 414
@@ -357,7 +357,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 419
@@ -389,7 +389,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 424
@@ -423,7 +423,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTransformable
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 429
@@ -460,7 +460,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 430

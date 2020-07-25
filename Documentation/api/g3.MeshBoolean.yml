@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshBoolean
     path: ../Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
     startLine: 10
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Target
     path: ../Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
     startLine: 12
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Tool
     path: ../Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
     startLine: 13
@@ -116,7 +116,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexSnapTol
     path: ../Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
     startLine: 16
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Result
     path: ../Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
     startLine: 18
@@ -178,7 +178,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/mesh_ops/MeshBoolean.cs
     startLine: 26

@@ -13,6 +13,7 @@ items:
   - Virgis.VertexLookup.Id
   - Virgis.VertexLookup.isVertex
   - Virgis.VertexLookup.Line
+  - Virgis.VertexLookup.pVertex
   - Virgis.VertexLookup.Vertex
   langs:
   - csharp
@@ -25,10 +26,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexLookup
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 295
+    startLine: 338
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -60,10 +61,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Id
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 297
+    startLine: 340
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -91,10 +92,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertex
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 298
+    startLine: 341
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -122,10 +123,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: isVertex
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 299
+    startLine: 342
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -153,10 +154,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Com
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 300
+    startLine: 343
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -184,10 +185,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Line
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 301
+    startLine: 344
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -196,6 +197,37 @@ items:
     return:
       type: Virgis.LineSegment
     content.vb: Public Line As LineSegment
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+- uid: Virgis.VertexLookup.pVertex
+  commentId: F:Virgis.VertexLookup.pVertex
+  id: pVertex
+  parent: Virgis.VertexLookup
+  langs:
+  - csharp
+  - vb
+  name: pVertex
+  nameWithType: VertexLookup.pVertex
+  fullName: Virgis.VertexLookup.pVertex
+  type: Field
+  source:
+    remote:
+      path: Assets/Scripts/Basic Types/typings.cs
+      branch: gh-pages
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
+    id: pVertex
+    path: ../Assets/Scripts/Basic Types/typings.cs
+    startLine: 345
+  assemblies:
+  - Assembly-CSharp
+  namespace: Virgis
+  syntax:
+    content: public int pVertex
+    return:
+      type: System.Int32
+    content.vb: Public pVertex As Integer
   modifiers.csharp:
   - public
   modifiers.vb:
@@ -215,10 +247,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 303
+    startLine: 347
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -253,10 +285,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 310
+    startLine: 354
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -288,10 +320,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 314
+    startLine: 358
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -323,10 +355,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CompareTo
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 320
+    startLine: 364
   assemblies:
   - Assembly-CSharp
   namespace: Virgis

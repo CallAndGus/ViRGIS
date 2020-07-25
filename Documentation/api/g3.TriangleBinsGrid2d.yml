@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleBinsGrid2d
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 22
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 36
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 51
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertTriangle
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 58
@@ -175,7 +175,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertTriangleUnsafe
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 66
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTriangle
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 75
@@ -263,7 +263,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTriangleUnsafe
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 83
@@ -307,7 +307,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindContainingTriangle
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 94
@@ -351,7 +351,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindTrianglesInRange
     path: ../Assets/geometry3Sharp/spatial/TriangleBinsGrid2d.cs
     startLine: 122

@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FaceGroupUtil
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 5
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetGroupID
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 11
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetGroupID
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 23
@@ -142,7 +142,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetGroupToGroup
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 35
@@ -183,7 +183,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindAllGroups
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 54
@@ -222,7 +222,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CountAllGroups
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 75
@@ -261,7 +261,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindTriangleSetsByGroup
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 96
@@ -302,7 +302,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindTrianglesByGroup
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 142
@@ -343,7 +343,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SeparateMeshByGroups
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 159
@@ -387,7 +387,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SeparateMeshByGroups
     path: ../Assets/geometry3Sharp/mesh/FaceGroupUtil.cs
     startLine: 183

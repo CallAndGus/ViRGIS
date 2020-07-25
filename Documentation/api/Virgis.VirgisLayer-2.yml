@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VirgisLayer
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 27
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: layer
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 33
@@ -145,7 +145,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: features
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 34
@@ -178,7 +178,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: changed
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 35
@@ -211,7 +211,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _id
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 37
@@ -244,7 +244,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _editable
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 38
@@ -277,7 +277,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Init
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 61
@@ -318,7 +318,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _init
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 73
@@ -361,7 +361,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddFeature
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 79
@@ -403,7 +403,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _addFeature
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 90
@@ -443,7 +443,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Draw
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 95
@@ -479,7 +479,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _draw
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 118
@@ -515,7 +515,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CheckPoint
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 125
@@ -551,7 +551,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _checkpoint
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 135
@@ -587,7 +587,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Save
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 141
@@ -597,19 +597,21 @@ items:
   summary: "\nCalled to save the current layer data to source\n"
   example: []
   syntax:
-    content: public RecordSet Save()
+    content: public virtual Task<RecordSet> Save()
     return:
-      type: Project.RecordSet
+      type: System.Threading.Tasks.Task{Project.RecordSet}
       description: A copy of the data save dot the source
-    content.vb: Public Function Save As RecordSet
+    content.vb: Public Overridable Function Save As Task(Of RecordSet)
   overload: Virgis.VirgisLayer`2.Save*
   implements:
   - Virgis.IVirgisLayer.Save
   nameWithType.vb: VirgisLayer(Of T, S).Save()
   modifiers.csharp:
   - public
+  - virtual
   modifiers.vb:
   - Public
+  - Overridable
   fullName.vb: Virgis.VirgisLayer(Of T, S).Save()
 - uid: Virgis.VirgisLayer`2._save
   commentId: M:Virgis.VirgisLayer`2._save
@@ -626,7 +628,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _save
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 152
@@ -636,8 +638,11 @@ items:
   summary: "\nImplment the layer specific draw code in this method\n"
   example: []
   syntax:
-    content: protected abstract void _save()
-    content.vb: Protected MustOverride Sub _save
+    content: protected abstract Task _save()
+    return:
+      type: System.Threading.Tasks.Task
+      description: ''
+    content.vb: Protected MustOverride Function _save As Task
   overload: Virgis.VirgisLayer`2._save*
   nameWithType.vb: VirgisLayer(Of T, S)._save()
   modifiers.csharp:
@@ -662,7 +667,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 158
@@ -704,7 +709,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 166
@@ -746,7 +751,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveTo
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 170
@@ -785,7 +790,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexMove
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 174
@@ -824,7 +829,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StartEditSession
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 181
@@ -862,7 +867,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExitEditSession
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 189
@@ -904,7 +909,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Selected
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 197
@@ -946,7 +951,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnSelected
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 205
@@ -988,7 +993,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetClosest
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 214
@@ -1034,7 +1039,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFeature
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 227
@@ -1077,7 +1082,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetId
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 235
@@ -1116,7 +1121,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetMetadata
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 243
@@ -1155,7 +1160,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFeatureShape
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
     startLine: 248
@@ -1163,20 +1168,20 @@ items:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: public abstract GameObject GetFeatureShape()
+    content: public virtual GameObject GetFeatureShape()
     return:
       type: UnityEngine.GameObject
-    content.vb: Public MustOverride Function GetFeatureShape As GameObject
+    content.vb: Public Overridable Function GetFeatureShape As GameObject
   overload: Virgis.VirgisLayer`2.GetFeatureShape*
   implements:
   - Virgis.IVirgisLayer.GetFeatureShape
   nameWithType.vb: VirgisLayer(Of T, S).GetFeatureShape()
   modifiers.csharp:
   - public
-  - abstract
+  - virtual
   modifiers.vb:
   - Public
-  - MustOverride
+  - Overridable
   fullName.vb: Virgis.VirgisLayer(Of T, S).GetFeatureShape()
 - uid: Virgis.VirgisLayer`2.SetVisible(System.Boolean)
   commentId: M:Virgis.VirgisLayer`2.SetVisible(System.Boolean)
@@ -1193,10 +1198,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetVisible
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
-    startLine: 250
+    startLine: 252
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -1230,10 +1235,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsVisible
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
-    startLine: 261
+    startLine: 263
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -1269,10 +1274,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetEditable
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
-    startLine: 273
+    startLine: 275
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -1309,10 +1314,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsEditable
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
-    startLine: 281
+    startLine: 283
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -1348,10 +1353,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
-    startLine: 285
+    startLine: 287
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -1388,10 +1393,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
-    startLine: 295
+    startLine: 297
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -1425,10 +1430,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/Scripts/Basic Types/VirgisLayer.cs
-    startLine: 298
+    startLine: 300
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -1899,17 +1904,48 @@ references:
   - name: )
     nameWithType: )
     fullName: )
-- uid: Project.RecordSet
-  commentId: T:Project.RecordSet
-  parent: Project
-  name: RecordSet
-  nameWithType: RecordSet
-  fullName: Project.RecordSet
-- uid: Project
-  commentId: N:Project
-  name: Project
-  nameWithType: Project
-  fullName: Project
+- uid: System.Threading.Tasks.Task{Project.RecordSet}
+  commentId: T:System.Threading.Tasks.Task{Project.RecordSet}
+  parent: System.Threading.Tasks
+  definition: System.Threading.Tasks.Task`1
+  name: Task<RecordSet>
+  nameWithType: Task<RecordSet>
+  fullName: System.Threading.Tasks.Task<Project.RecordSet>
+  nameWithType.vb: Task(Of RecordSet)
+  fullName.vb: System.Threading.Tasks.Task(Of Project.RecordSet)
+  name.vb: Task(Of RecordSet)
+  spec.csharp:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: Project.RecordSet
+    name: RecordSet
+    nameWithType: RecordSet
+    fullName: Project.RecordSet
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Threading.Tasks.Task`1
+    name: Task
+    nameWithType: Task
+    fullName: System.Threading.Tasks.Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: Project.RecordSet
+    name: RecordSet
+    nameWithType: RecordSet
+    fullName: Project.RecordSet
+  - name: )
+    nameWithType: )
+    fullName: )
 - uid: Virgis.VirgisLayer`2._save*
   commentId: Overload:Virgis.VirgisLayer`2._save
   name: _save
@@ -2488,6 +2524,17 @@ references:
   - name: )
     nameWithType: )
     fullName: )
+- uid: Project.RecordSet
+  commentId: T:Project.RecordSet
+  parent: Project
+  name: RecordSet
+  nameWithType: RecordSet
+  fullName: Project.RecordSet
+- uid: Project
+  commentId: N:Project
+  name: Project
+  nameWithType: Project
+  fullName: Project
 - uid: Virgis.VirgisLayer`2.GetFeatureShape*
   commentId: Overload:Virgis.VirgisLayer`2.GetFeatureShape
   name: GetFeatureShape

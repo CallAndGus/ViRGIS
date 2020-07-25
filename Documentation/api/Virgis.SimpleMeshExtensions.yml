@@ -17,10 +17,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SimpleMeshExtensions
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 233
+    startLine: 276
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -52,10 +52,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToMesh
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 240
+    startLine: 283
   assemblies:
   - Assembly-CSharp
   namespace: Virgis

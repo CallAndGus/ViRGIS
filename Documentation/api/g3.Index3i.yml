@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Index3i
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 5
@@ -84,7 +84,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: a
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 7
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: b
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 8
@@ -146,7 +146,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: c
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 9
@@ -177,7 +177,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 11
@@ -210,7 +210,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 12
@@ -247,7 +247,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 13
@@ -283,7 +283,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 14
@@ -316,7 +316,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 17
@@ -355,7 +355,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Zero
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 23
@@ -390,7 +390,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: One
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 24
@@ -425,7 +425,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Max
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 25
@@ -460,7 +460,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Min
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 26
@@ -495,7 +495,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 29
@@ -535,7 +535,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: array
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 35
@@ -570,7 +570,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LengthSquared
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 40
@@ -605,7 +605,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Length
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 44
@@ -640,7 +640,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 50
@@ -673,7 +673,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 54
@@ -710,7 +710,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_UnaryNegation
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 60
@@ -747,7 +747,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 65
@@ -786,7 +786,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 69
@@ -825,7 +825,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Division
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 73
@@ -864,7 +864,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 79
@@ -903,7 +903,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Division
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 83
@@ -942,7 +942,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 89
@@ -981,7 +981,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 93
@@ -1020,7 +1020,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 98
@@ -1059,7 +1059,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 102
@@ -1098,7 +1098,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 108
@@ -1137,7 +1137,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 112
@@ -1176,7 +1176,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 116
@@ -1214,7 +1214,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 120
@@ -1249,7 +1249,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CompareTo
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 132
@@ -1284,7 +1284,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 142
@@ -1319,7 +1319,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexTypes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/math/IndexTypes.cs
     startLine: 148

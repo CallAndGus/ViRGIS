@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EditMode
     path: ../Assets/Scripts/EditSession.cs
     startLine: 23
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: None
     path: ../Assets/Scripts/EditSession.cs
     startLine: 24
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SnapGrid
     path: ../Assets/Scripts/EditSession.cs
     startLine: 24
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/Scripts/EditSession.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SnapAnchor
     path: ../Assets/Scripts/EditSession.cs
     startLine: 24

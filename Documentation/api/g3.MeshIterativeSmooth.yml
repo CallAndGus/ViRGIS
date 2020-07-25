@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshIterativeSmooth
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 5
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 7
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 8
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Alpha
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 10
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rounds
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 11
@@ -182,7 +182,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmoothType
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 16
@@ -213,7 +213,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ProjectF
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 19
@@ -244,7 +244,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 23
@@ -284,7 +284,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Validate
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 34
@@ -318,7 +318,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Smooth
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs
     startLine: 40

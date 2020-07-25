@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DSubmesh3Set
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 16
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 18
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleSetKeys
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 20
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleSetF
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 21
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Submeshes
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 26
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: KeyToMesh
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 29
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 35
@@ -263,7 +263,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 48
@@ -300,7 +300,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 64
@@ -332,7 +332,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeSubMeshes
     path: ../Assets/geometry3Sharp/mesh/DSubmesh3Set.cs
     startLine: 73

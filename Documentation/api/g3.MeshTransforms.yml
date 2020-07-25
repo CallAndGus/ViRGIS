@@ -49,7 +49,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshTransforms
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 7
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 10
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 13
@@ -161,7 +161,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rotate
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 26
@@ -202,7 +202,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rotate
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 33
@@ -243,7 +243,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rotate
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 39
@@ -284,7 +284,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rotate
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 45
@@ -323,7 +323,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rotate
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 60
@@ -364,7 +364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rotate
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 63
@@ -403,7 +403,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Scale
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 78
@@ -442,7 +442,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Scale
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 91
@@ -483,7 +483,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Scale
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 95
@@ -520,7 +520,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToFrame
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 101
@@ -559,7 +559,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromFrame
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 120
@@ -598,7 +598,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertZUpToYUp
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 139
@@ -635,7 +635,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertZUpToYUp
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 143
@@ -672,7 +672,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertZUpToYUp
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 147
@@ -709,7 +709,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertZUpToYUp
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 155
@@ -744,7 +744,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertYUpToZUp
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 171
@@ -781,7 +781,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertYUpToZUp
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 175
@@ -818,7 +818,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertYUpToZUp
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 179
@@ -855,7 +855,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertYUpToZUp
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 187
@@ -890,7 +890,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FlipLeftRightCoordSystems
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 204
@@ -927,7 +927,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FlipLeftRightCoordSystems
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 208
@@ -964,7 +964,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FlipLeftRightCoordSystems
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 212
@@ -1001,7 +1001,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FlipLeftRightCoordSystems
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 222
@@ -1036,7 +1036,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexNormalOffset
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 250
@@ -1073,7 +1073,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerVertexTransform
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 265
@@ -1115,7 +1115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerVertexTransform
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 275
@@ -1155,7 +1155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerVertexTransform
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 290
@@ -1197,7 +1197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerVertexTransform
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 306
@@ -1236,7 +1236,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerVertexTransform
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 329
@@ -1280,7 +1280,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerVertexTransform
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 342
@@ -1326,7 +1326,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshTransforms.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PerVertexTransform
     path: ../Assets/geometry3Sharp/mesh/MeshTransforms.cs
     startLine: 357

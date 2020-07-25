@@ -45,7 +45,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PackedSparseMatrix
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 20
@@ -80,7 +80,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rows
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 27
@@ -111,7 +111,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Columns
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 29
@@ -142,7 +142,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sorted
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 30
@@ -173,7 +173,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NumNonZeros
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 31
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StorageMode
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 37
@@ -235,7 +235,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsSymmetric
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 40
@@ -266,7 +266,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 43
@@ -299,7 +299,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 59
@@ -334,7 +334,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 107
@@ -376,7 +376,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromDense
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 150
@@ -415,7 +415,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 167
@@ -457,7 +457,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sort
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 194
@@ -492,7 +492,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonZerosRange
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 213
@@ -529,7 +529,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonZeroIndicesByRow
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 229
@@ -564,7 +564,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonZeroIndicesForRow
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 243
@@ -601,7 +601,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Multiply
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 254
@@ -639,7 +639,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Multiply_Parallel
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 268
@@ -677,7 +677,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Multiply_Parallel_3
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 286
@@ -717,7 +717,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DotRowColumn
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 310
@@ -758,7 +758,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DotRowSelf
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 352
@@ -795,7 +795,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DotRowAllColumns
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 370
@@ -839,7 +839,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DotRows
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 412
@@ -880,7 +880,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DotRowVector
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 458
@@ -924,7 +924,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DotColumnVector
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 483
@@ -970,7 +970,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Square
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 520
@@ -1002,7 +1002,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FrobeniusNorm
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 567
@@ -1037,7 +1037,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxNorm
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 580
@@ -1072,7 +1072,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Trace
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 595
@@ -1107,7 +1107,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MatrixInfo
     path: ../Assets/geometry3Sharp/solvers/PackedSparseMatrix.cs
     startLine: 612

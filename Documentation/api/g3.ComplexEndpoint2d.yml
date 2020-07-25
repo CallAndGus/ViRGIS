@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComplexEndpoint2d
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 13
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: v
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 15
@@ -81,7 +81,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: isStart
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 16
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: element
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 17

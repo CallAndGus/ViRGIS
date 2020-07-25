@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ITransform2
     path: ../Assets/geometry3Sharp/math/TransformSequence2.cs
     startLine: 6
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransformP
     path: ../Assets/geometry3Sharp/math/TransformSequence2.cs
     startLine: 8
@@ -81,7 +81,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransformN
     path: ../Assets/geometry3Sharp/math/TransformSequence2.cs
     startLine: 9
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/TransformSequence2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransformScalar
     path: ../Assets/geometry3Sharp/math/TransformSequence2.cs
     startLine: 10

@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SphericalFibonacciPointSet
     path: ../Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
     startLine: 17
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: N
     path: ../Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
     startLine: 19
@@ -88,7 +88,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
     startLine: 21
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
     startLine: 26
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point
     path: ../Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
     startLine: 32
@@ -193,7 +193,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
     startLine: 45
@@ -233,7 +233,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearestPoint
     path: ../Assets/geometry3Sharp/comp_geom/SphericalFibonacciPointSet.cs
     startLine: 53

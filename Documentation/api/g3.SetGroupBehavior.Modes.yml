@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Modes
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 7
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ignore
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 9
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AutoGenerate
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 10
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshOps.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UseConstant
     path: ../Assets/geometry3Sharp/mesh_ops/MeshOps.cs
     startLine: 11

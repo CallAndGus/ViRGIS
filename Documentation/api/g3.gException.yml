@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: gException
     path: ../Assets/geometry3Sharp/core/Util.cs
     startLine: 274
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Util.cs
     startLine: 276
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Util.cs
     startLine: 280
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Util.cs
     startLine: 284
@@ -162,7 +162,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Util.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Util.cs
     startLine: 288

@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IndexRangeEnumerator
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 10
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 14
@@ -87,7 +87,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 15
@@ -122,7 +122,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Indexing.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/core/Indexing.cs
     startLine: 16

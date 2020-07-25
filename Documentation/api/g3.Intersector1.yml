@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersector1
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 13
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: U
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 16
@@ -88,7 +88,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: V
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 17
@@ -119,7 +119,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NumIntersections
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 23
@@ -150,7 +150,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 28
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 33
@@ -224,7 +224,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Test
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 38
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetIntersection
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 43
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/Intersector1.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Find
     path: ../Assets/geometry3Sharp/intersection/Intersector1.cs
     startLine: 47

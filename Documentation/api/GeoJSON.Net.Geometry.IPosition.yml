@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/IPosition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IPosition
     path: ../Assets/GeoJSON.Net/Geometry/IPosition.cs
     startLine: 9
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/IPosition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Altitude
     path: ../Assets/GeoJSON.Net/Geometry/IPosition.cs
     startLine: 14
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/IPosition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Latitude
     path: ../Assets/GeoJSON.Net/Geometry/IPosition.cs
     startLine: 20
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/IPosition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Longitude
     path: ../Assets/GeoJSON.Net/Geometry/IPosition.cs
     startLine: 26

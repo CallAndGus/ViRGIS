@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersection
     path: ../Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
     startLine: 296
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: eid
     path: ../Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
     startLine: 298
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: sidex
     path: ../Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
     startLine: 299
@@ -113,7 +113,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: sidey
     path: ../Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
     startLine: 300
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: intr
     path: ../Assets/geometry3Sharp/comp_geom/Arrangement2d.cs
     startLine: 301

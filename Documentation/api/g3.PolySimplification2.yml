@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolySimplification2
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 27
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StraightLineDeviationThreshold
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 36
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PreserveStraightSegLen
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 42
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SimplifyDeviationThreshold
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 48
@@ -158,7 +158,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Result
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 50
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 53
@@ -222,7 +222,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 59
@@ -255,7 +255,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Simplify
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 70
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolySimplification2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Simplify
     path: ../Assets/geometry3Sharp/curve/PolySimplification2.cs
     startLine: 87

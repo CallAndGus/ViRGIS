@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Triangle3f
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 59
@@ -55,7 +55,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: V0
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 61
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: V1
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 61
@@ -117,7 +117,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: V2
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 61
@@ -148,7 +148,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 63
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 68
@@ -225,7 +225,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointAt
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 75
@@ -264,7 +264,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointAt
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 79
@@ -299,7 +299,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BarycentricCoords
     path: ../Assets/geometry3Sharp/math/Triangle3.cs
     startLine: 84

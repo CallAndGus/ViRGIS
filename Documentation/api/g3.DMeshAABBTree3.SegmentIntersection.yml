@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentIntersection
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 658
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: t0
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 660
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: t1
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 660
@@ -113,7 +113,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: point0
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 661
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: point1
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 661

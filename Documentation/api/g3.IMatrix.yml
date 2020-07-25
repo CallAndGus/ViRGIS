@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/IMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IMatrix
     path: ../Assets/geometry3Sharp/solvers/IMatrix.cs
     startLine: 5
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/IMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rows
     path: ../Assets/geometry3Sharp/solvers/IMatrix.cs
     startLine: 7
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/IMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Columns
     path: ../Assets/geometry3Sharp/solvers/IMatrix.cs
     startLine: 8
@@ -118,7 +118,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/IMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Size
     path: ../Assets/geometry3Sharp/solvers/IMatrix.cs
     startLine: 9
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/IMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/solvers/IMatrix.cs
     startLine: 11
@@ -184,7 +184,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/IMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/solvers/IMatrix.cs
     startLine: 13

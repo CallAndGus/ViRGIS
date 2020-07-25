@@ -40,7 +40,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RefCountVector
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 16
@@ -77,7 +77,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: invalid
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 18
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 24
@@ -142,7 +142,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 31
@@ -175,7 +175,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 38
@@ -213,7 +213,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RawRefCounts
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 47
@@ -248,7 +248,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: empty
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 51
@@ -283,7 +283,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: count
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 54
@@ -318,7 +318,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: max_index
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 57
@@ -353,7 +353,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: is_dense
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 60
@@ -388,7 +388,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: isValid
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 65
@@ -423,7 +423,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: isValidUnsafe
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 68
@@ -458,7 +458,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: refCount
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 73
@@ -493,7 +493,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: rawRefCount
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 77
@@ -528,7 +528,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: allocate
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 82
@@ -560,7 +560,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: increment
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 106
@@ -597,7 +597,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: decrement
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 114
@@ -632,7 +632,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: allocate_at
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 134
@@ -669,7 +669,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: allocate_at_unsafe
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 170
@@ -706,7 +706,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: set_Unsafe
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 194
@@ -741,7 +741,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: rebuild_free_list
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 204
@@ -771,7 +771,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: trim
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 219
@@ -804,7 +804,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 229
@@ -836,7 +836,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UsageStats
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 249
@@ -871,7 +871,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/RefCountVector.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: debug_print
     path: ../Assets/geometry3Sharp/core/RefCountVector.cs
     startLine: 255

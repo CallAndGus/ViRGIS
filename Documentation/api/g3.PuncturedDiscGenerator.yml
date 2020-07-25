@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PuncturedDiscGenerator
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 58
@@ -84,7 +84,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OuterRadius
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 60
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InnerRadius
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 61
@@ -146,7 +146,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StartAngleDeg
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 62
@@ -177,7 +177,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EndAngleDeg
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 63
@@ -208,7 +208,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Slices
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 64
@@ -239,7 +239,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Generate
     path: ../Assets/geometry3Sharp/mesh_generators/DiscGenerators.cs
     startLine: 66

@@ -29,7 +29,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MarchingCubes
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 19
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Implicit
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 24
@@ -97,7 +97,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsoValue
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 30
@@ -130,7 +130,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 35
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CubeSize
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 41
@@ -196,7 +196,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParallelCompute
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 48
@@ -229,7 +229,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RootMode
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 56
@@ -262,7 +262,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RootModeSteps
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 61
@@ -295,7 +295,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CancelF
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 65
@@ -328,7 +328,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CellDimensions
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 72
@@ -359,7 +359,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 75
@@ -390,7 +390,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexHash
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 79
@@ -421,7 +421,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 83
@@ -451,7 +451,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Generate
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 96

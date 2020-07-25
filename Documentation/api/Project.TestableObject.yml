@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TestableObject
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 251
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ContainsKey
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 253

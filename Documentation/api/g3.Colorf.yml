@@ -105,7 +105,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Colorf
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 10
@@ -138,7 +138,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: r
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 12
@@ -169,7 +169,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: g
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 13
@@ -200,7 +200,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: b
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 14
@@ -231,7 +231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: a
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 15
@@ -262,7 +262,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 17
@@ -297,7 +297,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 18
@@ -336,7 +336,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 19
@@ -375,7 +375,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 25
@@ -411,7 +411,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 26
@@ -444,7 +444,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 27
@@ -479,7 +479,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 30
@@ -514,7 +514,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 35
@@ -554,7 +554,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SqrDistance
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 41
@@ -589,7 +589,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToRGB
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 48
@@ -621,7 +621,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToBytes
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 51
@@ -653,7 +653,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 55
@@ -686,7 +686,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 59
@@ -725,7 +725,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetAlpha
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 63
@@ -760,7 +760,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 67
@@ -793,7 +793,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Subtract
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 71
@@ -826,7 +826,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WithAlpha
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 75
@@ -861,7 +861,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_UnaryNegation
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 81
@@ -898,7 +898,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 86
@@ -937,7 +937,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 90
@@ -976,7 +976,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 95
@@ -1015,7 +1015,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 99
@@ -1054,7 +1054,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 104
@@ -1093,7 +1093,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 108
@@ -1132,7 +1132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 114
@@ -1171,7 +1171,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 118
@@ -1210,7 +1210,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 122
@@ -1248,7 +1248,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 126
@@ -1283,7 +1283,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CompareTo
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 130
@@ -1318,7 +1318,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 142
@@ -1353,7 +1353,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Lerp
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 148
@@ -1394,7 +1394,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 155
@@ -1429,7 +1429,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 159
@@ -1464,7 +1464,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransparentWhite
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 165
@@ -1499,7 +1499,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TransparentBlack
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 166
@@ -1534,7 +1534,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: White
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 169
@@ -1569,7 +1569,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Black
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 170
@@ -1604,7 +1604,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Blue
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 171
@@ -1639,7 +1639,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Green
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 172
@@ -1674,7 +1674,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Red
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 173
@@ -1709,7 +1709,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Yellow
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 174
@@ -1744,7 +1744,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cyan
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 175
@@ -1779,7 +1779,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Magenta
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 176
@@ -1814,7 +1814,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VideoWhite
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 178
@@ -1849,7 +1849,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VideoBlack
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 179
@@ -1884,7 +1884,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VideoBlue
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 180
@@ -1919,7 +1919,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VideoGreen
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 181
@@ -1954,7 +1954,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VideoRed
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 182
@@ -1989,7 +1989,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VideoYellow
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 183
@@ -2024,7 +2024,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VideoCyan
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 184
@@ -2059,7 +2059,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VideoMagenta
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 185
@@ -2094,7 +2094,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Purple
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 188
@@ -2129,7 +2129,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DarkRed
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 189
@@ -2164,7 +2164,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FireBrick
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 190
@@ -2199,7 +2199,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HotPink
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 191
@@ -2234,7 +2234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LightPink
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 192
@@ -2269,7 +2269,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DarkBlue
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 194
@@ -2304,7 +2304,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BlueMetal
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 195
@@ -2339,7 +2339,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Navy
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 196
@@ -2374,7 +2374,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CornflowerBlue
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 197
@@ -2409,7 +2409,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LightSteelBlue
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 198
@@ -2444,7 +2444,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DarkSlateBlue
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 199
@@ -2479,7 +2479,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Teal
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 201
@@ -2514,7 +2514,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ForestGreen
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 202
@@ -2549,7 +2549,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LightGreen
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 203
@@ -2584,7 +2584,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Orange
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 205
@@ -2619,7 +2619,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Gold
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 206
@@ -2654,7 +2654,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DarkYellow
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 207
@@ -2689,7 +2689,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SiennaBrown
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 209
@@ -2724,7 +2724,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SaddleBrown
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 210
@@ -2759,7 +2759,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Goldenrod
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 211
@@ -2794,7 +2794,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Wheat
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 212
@@ -2829,7 +2829,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LightGrey
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 216
@@ -2864,7 +2864,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Silver
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 217
@@ -2899,7 +2899,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LightSlateGrey
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 218
@@ -2934,7 +2934,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Grey
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 219
@@ -2969,7 +2969,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DarkGrey
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 220
@@ -3004,7 +3004,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SlateGrey
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 221
@@ -3039,7 +3039,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DimGrey
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 222
@@ -3074,7 +3074,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DarkSlateGrey
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 223
@@ -3109,7 +3109,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StandardBeige
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 228
@@ -3144,7 +3144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SelectionGold
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 229
@@ -3179,7 +3179,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PivotYellow
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 230
@@ -3214,7 +3214,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Implicit
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 235
@@ -3254,7 +3254,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorf.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Implicit
     path: ../Assets/geometry3Sharp/color/Colorf.cs
     startLine: 239

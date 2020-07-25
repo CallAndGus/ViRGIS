@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MarchingQuads
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 11
@@ -60,7 +60,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 76
@@ -97,7 +97,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Subdivisions
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 94
@@ -132,7 +132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 99
@@ -167,7 +167,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Stroke
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 104
@@ -202,7 +202,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBounds
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 109
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddSeedPoint
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 114
@@ -269,7 +269,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClearSeedPoints
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 118
@@ -299,7 +299,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClearStroke
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 122
@@ -329,7 +329,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/MarchingQuads.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygonize
     path: ../Assets/geometry3Sharp/implicit/MarchingQuads.cs
     startLine: 126

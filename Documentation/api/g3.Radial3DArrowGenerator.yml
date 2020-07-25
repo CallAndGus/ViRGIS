@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Radial3DArrowGenerator
     path: ../Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
     startLine: 8
@@ -91,7 +91,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StickRadius
     path: ../Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
     startLine: 10
@@ -122,7 +122,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StickLength
     path: ../Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
     startLine: 11
@@ -153,7 +153,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HeadBaseRadius
     path: ../Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
     startLine: 12
@@ -184,7 +184,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TipRadius
     path: ../Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
     startLine: 13
@@ -215,7 +215,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HeadLength
     path: ../Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
     startLine: 14
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Generate
     path: ../Assets/geometry3Sharp/mesh_generators/ArrowGenerators.cs
     startLine: 16

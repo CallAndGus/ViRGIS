@@ -18,10 +18,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vector3ExtebnsionMethods
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 58
+    startLine: 59
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -53,10 +53,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToPosition
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 64
+    startLine: 65
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -98,10 +98,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToPoint
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 75
+    startLine: 76
   assemblies:
   - Assembly-CSharp
   namespace: Virgis

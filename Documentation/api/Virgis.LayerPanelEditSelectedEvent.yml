@@ -16,7 +16,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayerUIPanel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LayerPanelEditSelectedEvent
     path: ../Assets/Scripts/Layers/LayerUIPanel.cs
     startLine: 9

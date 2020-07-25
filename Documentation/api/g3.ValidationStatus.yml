@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ValidationStatus
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 6
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ok
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 8
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NotAVertex
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 10
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NotBoundaryVertex
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 11
@@ -153,7 +153,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NotBoundaryEdge
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 12
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NotATriangle
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 14
@@ -217,7 +217,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VerticesNotConnectedByEdge
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 16
@@ -249,7 +249,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IncorrectLoopOrientation
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 17
@@ -281,7 +281,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DuplicateTriangles
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 19
@@ -313,7 +313,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearDegenerateMeshEdges
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 21
@@ -345,7 +345,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearDenegerateInputGeometry
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 22

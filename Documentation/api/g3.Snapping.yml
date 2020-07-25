@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Snapping.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Snapping
     path: ../Assets/geometry3Sharp/core/Snapping.cs
     startLine: 4
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Snapping.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SnapToIncrement
     path: ../Assets/geometry3Sharp/core/Snapping.cs
     startLine: 7
@@ -94,7 +94,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Snapping.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SnapToNearbyIncrement
     path: ../Assets/geometry3Sharp/core/Snapping.cs
     startLine: 24
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Snapping.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SnapToIncrementLow
     path: ../Assets/geometry3Sharp/core/Snapping.cs
     startLine: 49
@@ -176,7 +176,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Snapping.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SnapToIncrementHigh
     path: ../Assets/geometry3Sharp/core/Snapping.cs
     startLine: 54

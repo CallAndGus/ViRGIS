@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GenusResult
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 418
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Valid
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 420
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Genus
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 421
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasBoundary
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 422
@@ -145,7 +145,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultipleConnectedComponents
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 423
@@ -176,7 +176,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshMeasurements.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasBowtieVertices
     path: ../Assets/geometry3Sharp/mesh/MeshMeasurements.cs
     startLine: 424

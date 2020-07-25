@@ -37,7 +37,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Circle3d
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 5
@@ -70,7 +70,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 13
@@ -101,7 +101,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normal
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 14
@@ -132,7 +132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneX
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 15
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneY
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 15
@@ -194,7 +194,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Radius
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 16
@@ -225,7 +225,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsReversed
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 17
@@ -256,7 +256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 19
@@ -297,7 +297,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 28
@@ -334,7 +334,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 37
@@ -369,7 +369,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 47
@@ -404,7 +404,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 51
@@ -434,7 +434,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleDeg
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 57
@@ -469,7 +469,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleRad
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 65
@@ -504,7 +504,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParamLength
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 73
@@ -539,7 +539,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 78
@@ -574,7 +574,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 84
@@ -609,7 +609,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 86
@@ -644,7 +644,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLength
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 92
@@ -679,7 +679,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Circumference
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 100
@@ -714,7 +714,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Diameter
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 103
@@ -749,7 +749,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/shapes3/Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Area
     path: ../Assets/geometry3Sharp/shapes3/Circle3.cs
     startLine: 106

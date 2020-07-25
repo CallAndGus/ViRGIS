@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshComponents
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 40
@@ -63,7 +63,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: None
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 43
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexNormals
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 44
@@ -127,7 +127,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexColors
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 45
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexUVs
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 46
@@ -191,7 +191,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FaceGroups
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 47
@@ -223,7 +223,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: All
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 48

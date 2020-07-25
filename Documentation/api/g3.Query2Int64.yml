@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2Integer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Query2Int64
     path: ../Assets/geometry3Sharp/math/Query2Integer.cs
     startLine: 14
@@ -74,7 +74,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2Integer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Query2Integer.cs
     startLine: 17
@@ -110,7 +110,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2Integer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToLine
     path: ../Assets/geometry3Sharp/math/Query2Integer.cs
     startLine: 22
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2Integer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToCircumcircle
     path: ../Assets/geometry3Sharp/math/Query2Integer.cs
     startLine: 37

@@ -34,7 +34,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshQueries
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 7
@@ -68,7 +68,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleDistance
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 13
@@ -111,7 +111,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearestPointFrame
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 28
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NearestPointDistance
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 43
@@ -201,7 +201,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleTriangleDistance
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 61
@@ -251,7 +251,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleIntersection
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 83
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglesIntersection
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 98
@@ -344,7 +344,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglesDistance
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 119
@@ -394,7 +394,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RayHitPointFrame
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 143
@@ -444,7 +444,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SurfaceFrame
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 165
@@ -489,7 +489,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BaryCoords
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 184
@@ -532,7 +532,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriDistanceSqr
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 197
@@ -575,7 +575,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestVertex_LinearSearch
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 365
@@ -614,7 +614,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestTriangle_LinearSearch
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 382
@@ -653,7 +653,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindHitTriangle_LinearSearch
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 396
@@ -692,7 +692,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindIntersectingTriangles_LinearSearch
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 422
@@ -733,7 +733,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestTriangles_LinearSearch
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 443
@@ -779,7 +779,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeLengthStats
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 467
@@ -825,7 +825,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshQueries.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeLengthStatsFromEdges
     path: ../Assets/geometry3Sharp/queries/MeshQueries.cs
     startLine: 499

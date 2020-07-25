@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Quaterniond
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 10
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: x
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 13
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: y
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 13
@@ -157,7 +157,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: z
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 13
@@ -188,7 +188,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: w
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 13
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 15
@@ -258,7 +258,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 16
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 17
@@ -327,7 +327,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 19
@@ -362,7 +362,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 23
@@ -397,7 +397,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 27
@@ -434,7 +434,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 31
@@ -467,7 +467,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Zero
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 36
@@ -502,7 +502,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Identity
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 37
@@ -537,7 +537,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 39
@@ -577,7 +577,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LengthSquared
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 46
@@ -612,7 +612,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Length
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 49
@@ -647,7 +647,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normalize
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 53
@@ -682,7 +682,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normalized
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 67
@@ -717,7 +717,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 71
@@ -752,7 +752,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_UnaryNegation
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 76
@@ -789,7 +789,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 80
@@ -828,7 +828,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 87
@@ -867,7 +867,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 90
@@ -906,7 +906,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 94
@@ -945,7 +945,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 97
@@ -984,7 +984,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 101
@@ -1023,7 +1023,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisX
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 117
@@ -1058,7 +1058,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisY
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 126
@@ -1093,7 +1093,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisZ
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 134
@@ -1128,7 +1128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Inverse
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 145
@@ -1160,7 +1160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Inverse
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 154
@@ -1197,7 +1197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Conjugate
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 162
@@ -1231,7 +1231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToRotationMatrix
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 167
@@ -1263,7 +1263,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetAxisAngleD
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 181
@@ -1298,7 +1298,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisAngleD
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 190
@@ -1337,7 +1337,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AxisAngleR
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 193
@@ -1376,7 +1376,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetFromTo
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 198
@@ -1411,7 +1411,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromTo
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 231
@@ -1450,7 +1450,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromToConstrained
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 234
@@ -1491,7 +1491,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetToSlerp
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 241
@@ -1528,7 +1528,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Slerp
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 262
@@ -1569,7 +1569,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetFromRotationMatrix
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 267
@@ -1602,7 +1602,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetFromRotationMatrix
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 270
@@ -1638,7 +1638,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EpsilonEqual
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 317
@@ -1675,7 +1675,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Implicit
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 326
@@ -1715,7 +1715,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Explicit
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 329
@@ -1755,7 +1755,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 334
@@ -1790,7 +1790,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Quaterniond.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/math/Quaterniond.cs
     startLine: 337

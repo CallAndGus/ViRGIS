@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshTrimLoop
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 27
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 29
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Spatial
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 30
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrimLine
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 31
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemeshBorderRings
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 33
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmoothingAlpha
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 34
@@ -217,7 +217,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TargetEdgeLength
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 35
@@ -248,7 +248,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemeshRounds
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 36
@@ -279,7 +279,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 44
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 56
@@ -359,7 +359,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Validate
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 68
@@ -393,7 +393,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Trim
     path: ../Assets/geometry3Sharp/mesh_ops/MeshTrimLoop.cs
     startLine: 75

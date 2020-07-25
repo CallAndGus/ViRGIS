@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DCurveProjection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DCurveProjectionTarget
     path: ../Assets/geometry3Sharp/spatial/DCurveProjection.cs
     startLine: 7
@@ -56,7 +56,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DCurveProjection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curve
     path: ../Assets/geometry3Sharp/spatial/DCurveProjection.cs
     startLine: 9
@@ -87,7 +87,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DCurveProjection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/DCurveProjection.cs
     startLine: 12
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DCurveProjection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Project
     path: ../Assets/geometry3Sharp/spatial/DCurveProjection.cs
     startLine: 17

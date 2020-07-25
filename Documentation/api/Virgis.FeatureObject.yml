@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/FeatureObject.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FeatureObject
     path: ../Assets/Scripts/Basic Types/FeatureObject.cs
     startLine: 11
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/FeatureObject.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: coords
     path: ../Assets/Scripts/Basic Types/FeatureObject.cs
     startLine: 19

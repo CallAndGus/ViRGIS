@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CRSType
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSType.cs
     startLine: 13
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Unspecified
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSType.cs
     startLine: 18
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Name
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSType.cs
     startLine: 24
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSType.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Link
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/CRSType.cs
     startLine: 30

@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygon2DCurve
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 795
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygon
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 797
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 799
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParamLength
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 802
@@ -172,7 +172,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 803
@@ -209,7 +209,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TangentT
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 813
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 818
@@ -283,7 +283,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 819
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLength
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 820
@@ -357,7 +357,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 825
@@ -389,7 +389,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 830
@@ -423,7 +423,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTransformable
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 835
@@ -460,7 +460,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/Polygon2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/Polygon2d.cs
     startLine: 836

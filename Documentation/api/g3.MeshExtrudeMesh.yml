@@ -32,7 +32,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshExtrudeMesh
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 12
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 14
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OffsetGroup
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 18
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StitchGroups
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 19
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtrudedPositionF
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 22
@@ -191,7 +191,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsPositiveOffset
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 25
@@ -222,7 +222,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitialLoops
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 28
@@ -253,7 +253,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitialTriangles
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 29
@@ -284,7 +284,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitialVertices
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 30
@@ -315,7 +315,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitialToOffsetMapV
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 31
@@ -346,7 +346,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OffsetGroupID
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 33
@@ -377,7 +377,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NewLoops
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 34
@@ -408,7 +408,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StitchTriangles
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 35
@@ -439,7 +439,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StitchGroupIDs
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 36
@@ -470,7 +470,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 40
@@ -503,7 +503,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Validate
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 50
@@ -537,7 +537,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Extrude
     path: ../Assets/geometry3Sharp/mesh_ops/MeshExtrudeMesh.cs
     startLine: 58

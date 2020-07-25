@@ -6,22 +6,18 @@ items:
   parent: Virgis
   children:
   - Virgis.Datapolygon.AddVertex(UnityEngine.Vector3)
-  - Virgis.Datapolygon.Centroid
-  - Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.VertexLookup},UnityEngine.Material)
+  - Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.Dataline},UnityEngine.Material)
   - Virgis.Datapolygon.GetVertexes
-  - Virgis.Datapolygon.GetVertexPositions
   - Virgis.Datapolygon.MoveAxis(Virgis.MoveArgs)
   - Virgis.Datapolygon.MoveTo(Virgis.MoveArgs)
+  - Virgis.Datapolygon.Polygon
   - Virgis.Datapolygon.RemoveVertex(Virgis.VirgisFeature)
-  - Virgis.Datapolygon.ResetCenter
   - Virgis.Datapolygon.Selected(Virgis.SelectionTypes)
   - Virgis.Datapolygon.ShapeMoveVertex(Virgis.MoveArgs)
   - Virgis.Datapolygon.Translate(Virgis.MoveArgs)
-  - Virgis.Datapolygon.Triangles(System.Int32)
   - Virgis.Datapolygon.UnSelected(Virgis.SelectionTypes)
   - Virgis.Datapolygon.VertexMove(Virgis.MoveArgs)
   - Virgis.Datapolygon.VertexTable
-  - Virgis.Datapolygon.Vertices
   langs:
   - csharp
   - vb
@@ -33,10 +29,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Datapolygon
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 14
+    startLine: 16
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -80,37 +76,6 @@ items:
   modifiers.vb:
   - Public
   - Class
-- uid: Virgis.Datapolygon.Centroid
-  commentId: F:Virgis.Datapolygon.Centroid
-  id: Centroid
-  parent: Virgis.Datapolygon
-  langs:
-  - csharp
-  - vb
-  name: Centroid
-  nameWithType: Datapolygon.Centroid
-  fullName: Virgis.Datapolygon.Centroid
-  type: Field
-  source:
-    remote:
-      path: Assets/Scripts/Geometries/Datapolygon.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: Centroid
-    path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 19
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  syntax:
-    content: public Datapoint Centroid
-    return:
-      type: Virgis.Datapoint
-    content.vb: Public Centroid As Datapoint
-  modifiers.csharp:
-  - public
-  modifiers.vb:
-  - Public
 - uid: Virgis.Datapolygon.VertexTable
   commentId: F:Virgis.Datapolygon.VertexTable
   id: VertexTable
@@ -126,7 +91,7 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexTable
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
     startLine: 20
@@ -138,6 +103,37 @@ items:
     return:
       type: System.Collections.Generic.List{Virgis.VertexLookup}
     content.vb: Public VertexTable As List(Of VertexLookup)
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+- uid: Virgis.Datapolygon.Polygon
+  commentId: F:Virgis.Datapolygon.Polygon
+  id: Polygon
+  parent: Virgis.Datapolygon
+  langs:
+  - csharp
+  - vb
+  name: Polygon
+  nameWithType: Datapolygon.Polygon
+  fullName: Virgis.Datapolygon.Polygon
+  type: Field
+  source:
+    remote:
+      path: Assets/Scripts/Geometries/Datapolygon.cs
+      branch: gh-pages
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
+    id: Polygon
+    path: ../Assets/Scripts/Geometries/Datapolygon.cs
+    startLine: 21
+  assemblies:
+  - Assembly-CSharp
+  namespace: Virgis
+  syntax:
+    content: public List<Dataline> Polygon
+    return:
+      type: System.Collections.Generic.List{Virgis.Dataline}
+    content.vb: Public Polygon As List(Of Dataline)
   modifiers.csharp:
   - public
   modifiers.vb:
@@ -157,10 +153,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Selected
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 23
+    startLine: 24
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -193,10 +189,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnSelected
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 34
+    startLine: 32
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -229,10 +225,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexMove
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 43
+    startLine: 39
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -265,10 +261,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 51
+    startLine: 45
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -301,10 +297,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 62
+    startLine: 53
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -337,10 +333,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveTo
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 82
+    startLine: 70
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -358,50 +354,50 @@ items:
   modifiers.vb:
   - Public
   - Overrides
-- uid: Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.VertexLookup},UnityEngine.Material)
-  commentId: M:Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.VertexLookup},UnityEngine.Material)
-  id: Draw(System.Collections.Generic.List{Virgis.VertexLookup},UnityEngine.Material)
+- uid: Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.Dataline},UnityEngine.Material)
+  commentId: M:Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.Dataline},UnityEngine.Material)
+  id: Draw(System.Collections.Generic.List{Virgis.Dataline},UnityEngine.Material)
   parent: Virgis.Datapolygon
   langs:
   - csharp
   - vb
-  name: Draw(List<VertexLookup>, Material)
-  nameWithType: Datapolygon.Draw(List<VertexLookup>, Material)
-  fullName: Virgis.Datapolygon.Draw(System.Collections.Generic.List<Virgis.VertexLookup>, UnityEngine.Material)
+  name: Draw(List<Dataline>, Material)
+  nameWithType: Datapolygon.Draw(List<Dataline>, Material)
+  fullName: Virgis.Datapolygon.Draw(System.Collections.Generic.List<Virgis.Dataline>, UnityEngine.Material)
   type: Method
   source:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Draw
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 95
+    startLine: 82
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
   summary: "\nCalled to draw the Polygon based upon the \n"
   example: []
   syntax:
-    content: public GameObject Draw(List<VertexLookup> verteces, Material mat = null)
+    content: public GameObject Draw(List<Dataline> polygon, Material mat = null)
     parameters:
-    - id: verteces
-      type: System.Collections.Generic.List{Virgis.VertexLookup}
+    - id: polygon
+      type: System.Collections.Generic.List{Virgis.Dataline}
     - id: mat
       type: UnityEngine.Material
       description: Material to be used
     return:
       type: UnityEngine.GameObject
       description: ''
-    content.vb: Public Function Draw(verteces As List(Of VertexLookup), mat As Material = Nothing) As GameObject
+    content.vb: Public Function Draw(polygon As List(Of Dataline), mat As Material = Nothing) As GameObject
   overload: Virgis.Datapolygon.Draw*
-  nameWithType.vb: Datapolygon.Draw(List(Of VertexLookup), Material)
+  nameWithType.vb: Datapolygon.Draw(List(Of Dataline), Material)
   modifiers.csharp:
   - public
   modifiers.vb:
   - Public
-  fullName.vb: Virgis.Datapolygon.Draw(System.Collections.Generic.List(Of Virgis.VertexLookup), UnityEngine.Material)
-  name.vb: Draw(List(Of VertexLookup), Material)
+  fullName.vb: Virgis.Datapolygon.Draw(System.Collections.Generic.List(Of Virgis.Dataline), UnityEngine.Material)
+  name.vb: Draw(List(Of Dataline), Material)
 - uid: Virgis.Datapolygon.ShapeMoveVertex(Virgis.MoveArgs)
   commentId: M:Virgis.Datapolygon.ShapeMoveVertex(Virgis.MoveArgs)
   id: ShapeMoveVertex(Virgis.MoveArgs)
@@ -417,10 +413,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ShapeMoveVertex
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 144
+    startLine: 160
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -453,10 +449,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddVertex
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 155
+    startLine: 170
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -491,10 +487,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveVertex
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 160
+    startLine: 175
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -512,114 +508,6 @@ items:
   modifiers.vb:
   - Public
   - Overrides
-- uid: Virgis.Datapolygon.Vertices
-  commentId: M:Virgis.Datapolygon.Vertices
-  id: Vertices
-  parent: Virgis.Datapolygon
-  langs:
-  - csharp
-  - vb
-  name: Vertices()
-  nameWithType: Datapolygon.Vertices()
-  fullName: Virgis.Datapolygon.Vertices()
-  type: Method
-  source:
-    remote:
-      path: Assets/Scripts/Geometries/Datapolygon.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: Vertices
-    path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 180
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  summary: "\nCalculate the verteces of the polygon from the LineSString\n"
-  example: []
-  syntax:
-    content: public Vector3[] Vertices()
-    return:
-      type: UnityEngine.Vector3[]
-      description: ''
-    content.vb: Public Function Vertices As Vector3()
-  overload: Virgis.Datapolygon.Vertices*
-  modifiers.csharp:
-  - public
-  modifiers.vb:
-  - Public
-- uid: Virgis.Datapolygon.Triangles(System.Int32)
-  commentId: M:Virgis.Datapolygon.Triangles(System.Int32)
-  id: Triangles(System.Int32)
-  parent: Virgis.Datapolygon
-  langs:
-  - csharp
-  - vb
-  name: Triangles(Int32)
-  nameWithType: Datapolygon.Triangles(Int32)
-  fullName: Virgis.Datapolygon.Triangles(System.Int32)
-  type: Method
-  source:
-    remote:
-      path: Assets/Scripts/Geometries/Datapolygon.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: Triangles
-    path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 201
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  summary: "\ncalculate the Triangles for a Polyhrderon with length verteces\n"
-  example: []
-  syntax:
-    content: public static int[] Triangles(int length)
-    parameters:
-    - id: length
-      type: System.Int32
-      description: number of verteces not including the centroid
-    return:
-      type: System.Int32[]
-      description: ''
-    content.vb: Public Shared Function Triangles(length As Integer) As Integer()
-  overload: Virgis.Datapolygon.Triangles*
-  modifiers.csharp:
-  - public
-  - static
-  modifiers.vb:
-  - Public
-  - Shared
-- uid: Virgis.Datapolygon.ResetCenter
-  commentId: M:Virgis.Datapolygon.ResetCenter
-  id: ResetCenter
-  parent: Virgis.Datapolygon
-  langs:
-  - csharp
-  - vb
-  name: ResetCenter()
-  nameWithType: Datapolygon.ResetCenter()
-  fullName: Virgis.Datapolygon.ResetCenter()
-  type: Method
-  source:
-    remote:
-      path: Assets/Scripts/Geometries/Datapolygon.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: ResetCenter
-    path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 224
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  summary: "\nReset the center vertex to be the center of the Linear Ring vertexes\n"
-  example: []
-  syntax:
-    content: public void ResetCenter()
-    content.vb: Public Sub ResetCenter
-  overload: Virgis.Datapolygon.ResetCenter*
-  modifiers.csharp:
-  - public
-  modifiers.vb:
-  - Public
 - uid: Virgis.Datapolygon.GetVertexes
   commentId: M:Virgis.Datapolygon.GetVertexes
   id: GetVertexes
@@ -635,10 +523,10 @@ items:
     remote:
       path: Assets/Scripts/Geometries/Datapolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexes
     path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 297
+    startLine: 260
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -651,38 +539,6 @@ items:
       description: Datapoint[]
     content.vb: Public Function GetVertexes As Datapoint()
   overload: Virgis.Datapolygon.GetVertexes*
-  modifiers.csharp:
-  - public
-  modifiers.vb:
-  - Public
-- uid: Virgis.Datapolygon.GetVertexPositions
-  commentId: M:Virgis.Datapolygon.GetVertexPositions
-  id: GetVertexPositions
-  parent: Virgis.Datapolygon
-  langs:
-  - csharp
-  - vb
-  name: GetVertexPositions()
-  nameWithType: Datapolygon.GetVertexPositions()
-  fullName: Virgis.Datapolygon.GetVertexPositions()
-  type: Method
-  source:
-    remote:
-      path: Assets/Scripts/Geometries/Datapolygon.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: GetVertexPositions
-    path: ../Assets/Scripts/Geometries/Datapolygon.cs
-    startLine: 306
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  syntax:
-    content: public Vector3[] GetVertexPositions()
-    return:
-      type: UnityEngine.Vector3[]
-    content.vb: Public Function GetVertexPositions As Vector3()
-  overload: Virgis.Datapolygon.GetVertexPositions*
   modifiers.csharp:
   - public
   modifiers.vb:
@@ -1164,12 +1020,6 @@ references:
   name: UnityEngine
   nameWithType: UnityEngine
   fullName: UnityEngine
-- uid: Virgis.Datapoint
-  commentId: T:Virgis.Datapoint
-  parent: Virgis
-  name: Datapoint
-  nameWithType: Datapoint
-  fullName: Virgis.Datapoint
 - uid: System.Collections.Generic.List{Virgis.VertexLookup}
   commentId: T:System.Collections.Generic.List{Virgis.VertexLookup}
   parent: System.Collections.Generic
@@ -1257,6 +1107,48 @@ references:
   name: System.Collections.Generic
   nameWithType: System.Collections.Generic
   fullName: System.Collections.Generic
+- uid: System.Collections.Generic.List{Virgis.Dataline}
+  commentId: T:System.Collections.Generic.List{Virgis.Dataline}
+  parent: System.Collections.Generic
+  definition: System.Collections.Generic.List`1
+  name: List<Dataline>
+  nameWithType: List<Dataline>
+  fullName: System.Collections.Generic.List<Virgis.Dataline>
+  nameWithType.vb: List(Of Dataline)
+  fullName.vb: System.Collections.Generic.List(Of Virgis.Dataline)
+  name.vb: List(Of Dataline)
+  spec.csharp:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    nameWithType: List
+    fullName: System.Collections.Generic.List
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: Virgis.Dataline
+    name: Dataline
+    nameWithType: Dataline
+    fullName: Virgis.Dataline
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    nameWithType: List
+    fullName: System.Collections.Generic.List
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: Virgis.Dataline
+    name: Dataline
+    nameWithType: Dataline
+    fullName: Virgis.Dataline
+  - name: )
+    nameWithType: )
+    fullName: )
 - uid: Virgis.VirgisFeature.Selected(Virgis.SelectionTypes)
   commentId: M:Virgis.VirgisFeature.Selected(Virgis.SelectionTypes)
   parent: Virgis.VirgisFeature
@@ -1631,80 +1523,6 @@ references:
   name: RemoveVertex
   nameWithType: Datapolygon.RemoveVertex
   fullName: Virgis.Datapolygon.RemoveVertex
-- uid: Virgis.Datapolygon.Vertices*
-  commentId: Overload:Virgis.Datapolygon.Vertices
-  name: Vertices
-  nameWithType: Datapolygon.Vertices
-  fullName: Virgis.Datapolygon.Vertices
-- uid: UnityEngine.Vector3[]
-  isExternal: true
-  name: Vector3[]
-  nameWithType: Vector3[]
-  fullName: UnityEngine.Vector3[]
-  nameWithType.vb: Vector3()
-  fullName.vb: UnityEngine.Vector3()
-  name.vb: Vector3()
-  spec.csharp:
-  - uid: UnityEngine.Vector3
-    name: Vector3
-    nameWithType: Vector3
-    fullName: UnityEngine.Vector3
-    isExternal: true
-  - name: '[]'
-    nameWithType: '[]'
-    fullName: '[]'
-  spec.vb:
-  - uid: UnityEngine.Vector3
-    name: Vector3
-    nameWithType: Vector3
-    fullName: UnityEngine.Vector3
-    isExternal: true
-  - name: ()
-    nameWithType: ()
-    fullName: ()
-- uid: Virgis.Datapolygon.Triangles*
-  commentId: Overload:Virgis.Datapolygon.Triangles
-  name: Triangles
-  nameWithType: Datapolygon.Triangles
-  fullName: Virgis.Datapolygon.Triangles
-- uid: System.Int32
-  commentId: T:System.Int32
-  parent: System
-  isExternal: true
-  name: Int32
-  nameWithType: Int32
-  fullName: System.Int32
-- uid: System.Int32[]
-  isExternal: true
-  name: Int32[]
-  nameWithType: Int32[]
-  fullName: System.Int32[]
-  nameWithType.vb: Int32()
-  fullName.vb: System.Int32()
-  name.vb: Int32()
-  spec.csharp:
-  - uid: System.Int32
-    name: Int32
-    nameWithType: Int32
-    fullName: System.Int32
-    isExternal: true
-  - name: '[]'
-    nameWithType: '[]'
-    fullName: '[]'
-  spec.vb:
-  - uid: System.Int32
-    name: Int32
-    nameWithType: Int32
-    fullName: System.Int32
-    isExternal: true
-  - name: ()
-    nameWithType: ()
-    fullName: ()
-- uid: Virgis.Datapolygon.ResetCenter*
-  commentId: Overload:Virgis.Datapolygon.ResetCenter
-  name: ResetCenter
-  nameWithType: Datapolygon.ResetCenter
-  fullName: Virgis.Datapolygon.ResetCenter
 - uid: Virgis.Datapolygon.GetVertexes*
   commentId: Overload:Virgis.Datapolygon.GetVertexes
   name: GetVertexes
@@ -1734,8 +1552,3 @@ references:
   - name: ()
     nameWithType: ()
     fullName: ()
-- uid: Virgis.Datapolygon.GetVertexPositions*
-  commentId: Overload:Virgis.Datapolygon.GetVertexPositions
-  name: GetVertexPositions
-  nameWithType: Datapolygon.GetVertexPositions
-  fullName: Virgis.Datapolygon.GetVertexPositions

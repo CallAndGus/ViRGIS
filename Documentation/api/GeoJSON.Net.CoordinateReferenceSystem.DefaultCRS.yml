@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/DefaultCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DefaultCRS
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/DefaultCRS.cs
     startLine: 14
@@ -68,7 +68,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/CoordinateReferenceSystem/DefaultCRS.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Instance
     path: ../Assets/GeoJSON.Net/CoordinateReferenceSystem/DefaultCRS.cs
     startLine: 30

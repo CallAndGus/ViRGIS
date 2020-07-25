@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeConstraint
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 22
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Target
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 25
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrackingSetID
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 29
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 33
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 40
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CanFlip
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 47
@@ -224,7 +224,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CanSplit
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 50
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CanCollapse
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 53
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoModifications
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 56
@@ -329,7 +329,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsUnconstrained
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 60
@@ -364,7 +364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Unconstrained
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 64
@@ -399,7 +399,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoFlips
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 65
@@ -434,7 +434,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshConstraints.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FullyConstrained
     path: ../Assets/geometry3Sharp/mesh/MeshConstraints.cs
     startLine: 66

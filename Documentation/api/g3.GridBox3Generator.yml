@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GridBox3Generator
     path: ../Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
     startLine: 70
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Box
     path: ../Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
     startLine: 72
@@ -117,7 +117,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeVertices
     path: ../Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
     startLine: 73
@@ -148,7 +148,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoSharedVertices
     path: ../Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
     startLine: 74
@@ -179,7 +179,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Generate
     path: ../Assets/geometry3Sharp/mesh_generators/BoxGenerators.cs
     startLine: 76

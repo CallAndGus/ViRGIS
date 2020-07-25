@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeographyCollection
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 174
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Properties
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 177

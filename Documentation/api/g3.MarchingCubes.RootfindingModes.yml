@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RootfindingModes
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 51
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SingleLerp
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 51
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LerpSteps
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 51
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bisection
     path: ../Assets/geometry3Sharp/mesh_generators/MarchingCubes.cs
     startLine: 51

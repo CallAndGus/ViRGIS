@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ImplicitFieldSampler3d
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 10
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Grid
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 12
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CellSize
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 13
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GridOrigin
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 14
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Indexer
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 15
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GridBounds
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 16
@@ -217,7 +217,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BackgroundValue
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 18
@@ -248,7 +248,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CombineMode
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 25
@@ -279,7 +279,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 28
@@ -314,7 +314,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToImplicit
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 47
@@ -346,7 +346,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clear
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 53
@@ -379,7 +379,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Sample
     path: ../Assets/geometry3Sharp/implicit/ImplicitFieldSampler3d.cs
     startLine: 61

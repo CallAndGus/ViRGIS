@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshWeights.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshWeights
     path: ../Assets/geometry3Sharp/mesh/MeshWeights.cs
     startLine: 4
@@ -55,7 +55,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshWeights.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OneRingCentroid
     path: ../Assets/geometry3Sharp/mesh/MeshWeights.cs
     startLine: 6
@@ -94,7 +94,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshWeights.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CotanCentroid
     path: ../Assets/geometry3Sharp/mesh/MeshWeights.cs
     startLine: 26
@@ -133,7 +133,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshWeights.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VoronoiArea
     path: ../Assets/geometry3Sharp/mesh/MeshWeights.cs
     startLine: 70
@@ -172,7 +172,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshWeights.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeanValueCentroid
     path: ../Assets/geometry3Sharp/mesh/MeshWeights.cs
     startLine: 111
@@ -211,7 +211,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshWeights.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VectorTanHalfAngle
     path: ../Assets/geometry3Sharp/mesh/MeshWeights.cs
     startLine: 149

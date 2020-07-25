@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/SVGWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Style
     path: ../Assets/geometry3Sharp/io/SVGWriter.cs
     startLine: 14
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/SVGWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: fill
     path: ../Assets/geometry3Sharp/io/SVGWriter.cs
     startLine: 15
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/SVGWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: stroke
     path: ../Assets/geometry3Sharp/io/SVGWriter.cs
     startLine: 16
@@ -116,7 +116,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/SVGWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: stroke_width
     path: ../Assets/geometry3Sharp/io/SVGWriter.cs
     startLine: 17
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/SVGWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Default
     path: ../Assets/geometry3Sharp/io/SVGWriter.cs
     startLine: 19
@@ -182,7 +182,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/SVGWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Filled
     path: ../Assets/geometry3Sharp/io/SVGWriter.cs
     startLine: 21
@@ -223,7 +223,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/SVGWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Outline
     path: ../Assets/geometry3Sharp/io/SVGWriter.cs
     startLine: 24
@@ -262,7 +262,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/SVGWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/geometry3Sharp/io/SVGWriter.cs
     startLine: 28

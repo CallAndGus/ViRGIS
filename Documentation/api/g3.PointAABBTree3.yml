@@ -41,7 +41,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointAABBTree3
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 15
@@ -76,7 +76,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 20
@@ -111,7 +111,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Points
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 28
@@ -146,7 +146,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointFilterF
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 32
@@ -177,7 +177,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LeafMaxPointCount
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 37
@@ -208,7 +208,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Build
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 52
@@ -241,7 +241,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestPoint
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 69
@@ -282,7 +282,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_nearest_point
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 79
@@ -324,7 +324,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DoTraversal
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 151
@@ -361,7 +361,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: tree_traversal
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 160
@@ -400,7 +400,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FWNBeta
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 207
@@ -433,7 +433,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FWNApproxOrder
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 212
@@ -466,7 +466,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FWNAreaEstimateF
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 217
@@ -499,7 +499,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastWindingNumber
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 223
@@ -538,7 +538,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: branch_fast_winding_num
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 238
@@ -575,7 +575,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: build_fast_winding_cache
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 300
@@ -605,7 +605,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: build_fast_winding_cache
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 314
@@ -649,7 +649,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: can_use_fast_winding_cache
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 372
@@ -689,7 +689,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: make_box_fast_winding_cache
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 387
@@ -727,7 +727,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: evaluate_box_fast_winding_cache
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 400
@@ -767,7 +767,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: collect_points
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 412
@@ -805,7 +805,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TotalVolume
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 440
@@ -839,7 +839,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TotalExtentSum
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 456
@@ -873,7 +873,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 473
@@ -910,7 +910,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: box_contains
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 758
@@ -947,7 +947,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/PointAABBTree3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TestCoverage
     path: ../Assets/geometry3Sharp/spatial/PointAABBTree3.cs
     startLine: 771

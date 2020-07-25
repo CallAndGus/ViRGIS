@@ -17,10 +17,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VirgisVectorExtensions
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 274
+    startLine: 317
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -52,10 +52,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Round
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 282
+    startLine: 325
   assemblies:
   - Assembly-CSharp
   namespace: Virgis

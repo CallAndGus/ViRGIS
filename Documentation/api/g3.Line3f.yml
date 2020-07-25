@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Line3f
     path: ../Assets/geometry3Sharp/math/Line3.cs
     startLine: 55
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Origin
     path: ../Assets/geometry3Sharp/math/Line3.cs
     startLine: 57
@@ -85,7 +85,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Direction
     path: ../Assets/geometry3Sharp/math/Line3.cs
     startLine: 58
@@ -116,7 +116,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Line3.cs
     startLine: 60
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointAt
     path: ../Assets/geometry3Sharp/math/Line3.cs
     startLine: 67
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Project
     path: ../Assets/geometry3Sharp/math/Line3.cs
     startLine: 72
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/math/Line3.cs
     startLine: 77
@@ -256,7 +256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Line3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClosestPoint
     path: ../Assets/geometry3Sharp/math/Line3.cs
     startLine: 84

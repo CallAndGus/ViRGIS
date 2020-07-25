@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshInsertPolygon
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 11
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 13
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Polygon
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 14
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SimplifyInsertion
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 17
@@ -152,7 +152,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OuterInsert
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 19
@@ -183,7 +183,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HoleInserts
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 20
@@ -214,7 +214,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsertedPolygonEdges
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 21
@@ -245,7 +245,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InteriorTriangles
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 22
@@ -276,7 +276,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Insert
     path: ../Assets/geometry3Sharp/mesh_ops/MeshInsertPolygon.cs
     startLine: 24

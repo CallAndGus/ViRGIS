@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CachingDenseGridTrilinearImplicit
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 17
@@ -66,7 +66,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Grid
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 19
@@ -97,7 +97,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CellSize
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 20
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GridOrigin
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 21
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AnalyticF
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 23
@@ -190,7 +190,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Outside
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 28
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Invalid
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 30
@@ -252,7 +252,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 32
@@ -289,7 +289,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 39
@@ -323,7 +323,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Value
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 49
@@ -363,7 +363,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Gradient
     path: ../Assets/geometry3Sharp/implicit/CachingGridImplicit3d.cs
     startLine: 139

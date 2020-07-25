@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reducer
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 12
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: target
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 14
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinimizeQuadricPositionError
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 23
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PreserveBoundaryShape
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 26
@@ -216,7 +216,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DebugEdges
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 29
@@ -247,7 +247,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ProjectionMode
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 39
@@ -278,7 +278,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ENABLE_PROFILING
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 45
@@ -309,7 +309,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 48
@@ -342,7 +342,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 51
@@ -372,7 +372,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetProjectionTarget
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 56
@@ -405,7 +405,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinEdgeLength
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 64
@@ -436,7 +436,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TargetCount
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 65
@@ -467,7 +467,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReduceMode
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 70
@@ -498,7 +498,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DoReduce
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 74
@@ -530,7 +530,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReduceToTriangleCount
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 134
@@ -565,7 +565,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReduceToVertexCount
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 142
@@ -600,7 +600,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReduceToEdgeLength
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 150
@@ -635,7 +635,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastCollapsePass
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 168
@@ -674,7 +674,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertQuadrics
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 243
@@ -705,7 +705,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitializeVertexQuadrics
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 244
@@ -737,7 +737,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeQuadrics
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 291
@@ -768,7 +768,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeQueue
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 292
@@ -799,7 +799,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InitializeQueue
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 294
@@ -831,7 +831,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OptimalPoint
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 350
@@ -875,7 +875,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UpdateNeighbours
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 400
@@ -910,7 +910,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reproject
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 417
@@ -942,7 +942,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HaveBoundary
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 428
@@ -973,7 +973,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBoundaryVtxCache
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 429
@@ -1004,7 +1004,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Precompute
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 430
@@ -1039,7 +1039,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBoundaryV
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 443
@@ -1074,7 +1074,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnEdgeCollapse
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 454
@@ -1115,7 +1115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: start_edges
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 470
@@ -1149,7 +1149,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: next_edge
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 475
@@ -1191,7 +1191,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: project_vertices
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 483
@@ -1225,7 +1225,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CollapseEdge
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 502
@@ -1269,7 +1269,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: project_vertex
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 609
@@ -1304,7 +1304,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: get_projected_collapse_position
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 617
@@ -1341,7 +1341,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FullProjectionPass
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 637
@@ -1373,7 +1373,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RuntimeDebugCheck
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 653
@@ -1420,7 +1420,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ENABLE_DEBUG_CHECKS
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 661
@@ -1451,7 +1451,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DoDebugChecks
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 662
@@ -1483,7 +1483,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DebugCheckVertexConstraints
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 684
@@ -1515,7 +1515,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: begin_pass
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 710
@@ -1547,7 +1547,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: end_pass
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 721
@@ -1579,7 +1579,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: begin_ops
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 732
@@ -1611,7 +1611,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: end_ops
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 735
@@ -1643,7 +1643,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: begin_setup
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 738
@@ -1675,7 +1675,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: end_setup
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 741
@@ -1707,7 +1707,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: begin_project
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 745
@@ -1739,7 +1739,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: end_project
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 748
@@ -1771,7 +1771,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: begin_collapse
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 752
@@ -1803,7 +1803,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Reducer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: end_collapse
     path: ../Assets/geometry3Sharp/mesh/Reducer.cs
     startLine: 755

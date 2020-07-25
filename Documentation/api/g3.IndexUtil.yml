@@ -56,7 +56,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IndexUtil
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 5
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: same_pair_unordered
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 8
@@ -132,7 +132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_shared_edge_v
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 16
@@ -174,7 +174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_edge_other_v
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 27
@@ -216,7 +216,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_edge_other_v
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 33
@@ -255,7 +255,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_index
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 42
@@ -297,7 +297,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_index
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 49
@@ -336,7 +336,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_index
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 56
@@ -378,7 +378,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_edge_index_in_tri
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 65
@@ -422,7 +422,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_edge_index_in_tri
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 72
@@ -466,7 +466,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_ordered_edge
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 81
@@ -510,7 +510,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_ordered_edge
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 92
@@ -556,7 +556,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_ordered_edge
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 99
@@ -597,7 +597,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_other_vtx
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 105
@@ -641,7 +641,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_other_vtx
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 113
@@ -682,7 +682,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_other_vtx
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 121
@@ -728,7 +728,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_other_verts
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 135
@@ -772,7 +772,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: find_tri_other_index
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 147
@@ -816,7 +816,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: orient_tri_edge
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 159
@@ -860,7 +860,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: orient_tri_edge
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 179
@@ -904,7 +904,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: orient_tri_edge_and_find_other_vtx
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 184
@@ -948,7 +948,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: orient_tri_edge_and_find_other_vtx
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 198
@@ -992,7 +992,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: is_ordered
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 211
@@ -1036,7 +1036,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: is_same_triangle
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 219
@@ -1082,7 +1082,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: cycle_indices_minfirst
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 228
@@ -1120,7 +1120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: sort_indices
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 244
@@ -1158,7 +1158,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToGrid3Index
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 270
@@ -1199,7 +1199,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToGrid3Linear
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 278
@@ -1244,7 +1244,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToGrid3Linear
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 281
@@ -1285,7 +1285,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToGrid3Linear
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 284
@@ -1329,7 +1329,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FilterValid
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 294
@@ -1375,7 +1375,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IndicesCheck
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 317
@@ -1419,7 +1419,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Apply
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 331
@@ -1461,7 +1461,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Apply
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 338
@@ -1501,7 +1501,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Apply
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 345
@@ -1541,7 +1541,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglesToVertices
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 354
@@ -1583,7 +1583,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglesToVertices
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 360
@@ -1625,7 +1625,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglesToEdges
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 368
@@ -1667,7 +1667,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglesToEdges
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 374
@@ -1709,7 +1709,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgesToVertices
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 383
@@ -1751,7 +1751,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/IndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgesToVertices
     path: ../Assets/geometry3Sharp/math/IndexUtil.cs
     startLine: 389

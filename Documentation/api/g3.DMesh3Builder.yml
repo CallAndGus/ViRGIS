@@ -35,7 +35,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DMesh3Builder
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 7
@@ -72,7 +72,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonManifoldTriBehavior
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 18
@@ -105,7 +105,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DuplicateTriBehavior
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 23
@@ -138,7 +138,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Meshes
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 28
@@ -169,7 +169,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Materials
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 29
@@ -200,7 +200,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaterialAssignment
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 33
@@ -231,7 +231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Metadata
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 35
@@ -262,7 +262,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 39
@@ -292,7 +292,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendNewMesh
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 48
@@ -335,7 +335,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendNewMesh
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 59
@@ -372,7 +372,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetActiveMesh
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 70
@@ -407,7 +407,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangle
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 78
@@ -448,7 +448,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendTriangle
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 83
@@ -491,7 +491,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 118
@@ -532,7 +532,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 122
@@ -569,7 +569,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SupportsMetaData
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 127
@@ -606,7 +606,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendMetaData
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 128
@@ -643,7 +643,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BuildMaterial
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 135
@@ -680,7 +680,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AssignMaterial
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 143
@@ -717,7 +717,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3Builder.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Build
     path: ../Assets/geometry3Sharp/mesh/DMesh3Builder.cs
     startLine: 162

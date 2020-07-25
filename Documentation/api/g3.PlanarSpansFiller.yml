@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlanarSpansFiller
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 22
@@ -60,7 +60,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 24
@@ -91,7 +91,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneOrigin
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 26
@@ -122,7 +122,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneNormal
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 27
@@ -153,7 +153,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FillTargetEdgeLen
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 33
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MergeFillBoundary
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 39
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 49
@@ -257,7 +257,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetPlane
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 56
@@ -292,7 +292,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetPlane
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 62
@@ -331,7 +331,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Fill
     path: ../Assets/geometry3Sharp/mesh_ops/PlanarSpansFiller.cs
     startLine: 71

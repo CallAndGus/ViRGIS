@@ -20,10 +20,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnityLayers
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 35
+    startLine: 36
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -54,10 +54,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: POINT
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 36
+    startLine: 37
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -91,10 +91,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LINE
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 41
+    startLine: 42
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -128,10 +128,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SHAPE
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 46
+    startLine: 47
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -165,10 +165,10 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/typings.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MESH
     path: ../Assets/Scripts/Basic Types/typings.cs
-    startLine: 51
+    startLine: 52
   assemblies:
   - Assembly-CSharp
   namespace: Virgis

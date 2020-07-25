@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IOReadResult
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 52
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: code
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 54
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: message
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 55
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 56
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ok
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 64

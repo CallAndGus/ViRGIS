@@ -37,7 +37,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshResult
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 9
@@ -68,7 +68,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Ok
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 11
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_NotAVertex
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 12
@@ -132,7 +132,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_NotATriangle
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 13
@@ -164,7 +164,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_NotAnEdge
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 14
@@ -196,7 +196,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_BrokenTopology
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 16
@@ -228,7 +228,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_HitValenceLimit
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 17
@@ -260,7 +260,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_IsBoundaryEdge
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 19
@@ -292,7 +292,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_FlippedEdgeExists
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 20
@@ -324,7 +324,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_IsBowtieVertex
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 21
@@ -356,7 +356,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_InvalidNeighbourhood
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 22
@@ -388,7 +388,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_FoundDuplicateTriangle
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 23
@@ -420,7 +420,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_CollapseTetrahedron
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 24
@@ -452,7 +452,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_CollapseTriangle
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 25
@@ -484,7 +484,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_NotABoundaryEdge
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 26
@@ -516,7 +516,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_SameOrientation
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 27
@@ -548,7 +548,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_WouldCreateBowtie
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 29
@@ -580,7 +580,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_VertexAlreadyExists
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 30
@@ -612,7 +612,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_CannotAllocateVertex
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 31
@@ -644,7 +644,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_WouldCreateNonmanifoldEdge
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 33
@@ -676,7 +676,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_TriangleAlreadyExists
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 34
@@ -708,7 +708,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Failed_CannotAllocateTriangle
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 35

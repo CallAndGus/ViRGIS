@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeoData
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 194
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Units
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 197
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Lines
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 199
@@ -143,7 +143,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: xSect
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 201

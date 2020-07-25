@@ -8,7 +8,7 @@ items:
   - Virgis.PolygonLayer._addFeature(UnityEngine.Vector3[])
   - Virgis.PolygonLayer._checkpoint
   - Virgis.PolygonLayer._draw
-  - Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3[],UnityEngine.Vector3,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
+  - Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString},System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
   - Virgis.PolygonLayer._init(Project.GeographyCollection)
   - Virgis.PolygonLayer._save
   - Virgis.PolygonLayer.BodyBaseMaterial
@@ -35,7 +35,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolygonLayer
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 20
@@ -117,7 +117,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CylinderLinePrefab
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 24
@@ -148,7 +148,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CuboidLinePrefab
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 25
@@ -179,7 +179,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SpherePrefab
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 26
@@ -210,7 +210,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CubePrefab
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 27
@@ -241,7 +241,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CylinderPrefab
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 28
@@ -272,7 +272,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolygonPrefab
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 29
@@ -303,7 +303,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LabelPrefab
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 30
@@ -334,7 +334,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PointBaseMaterial
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 31
@@ -365,7 +365,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineBaseMaterial
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 32
@@ -396,7 +396,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BodyBaseMaterial
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 33
@@ -427,7 +427,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _init
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 48
@@ -465,7 +465,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _addFeature
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 118
@@ -506,7 +506,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _draw
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
     startLine: 125
@@ -524,50 +524,48 @@ items:
   modifiers.vb:
   - Protected
   - Overrides
-- uid: Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3[],UnityEngine.Vector3,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
-  commentId: M:Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3[],UnityEngine.Vector3,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
-  id: _drawFeature(UnityEngine.Vector3[],UnityEngine.Vector3,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
+- uid: Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString},System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
+  commentId: M:Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString},System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
+  id: _drawFeature(System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString},System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
   parent: Virgis.PolygonLayer
   langs:
   - csharp
   - vb
-  name: _drawFeature(Vector3[], Vector3, String, Dictionary<String, Object>)
-  nameWithType: PolygonLayer._drawFeature(Vector3[], Vector3, String, Dictionary<String, Object>)
-  fullName: Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3[], UnityEngine.Vector3, System.String, System.Collections.Generic.Dictionary<System.String, System.Object>)
+  name: _drawFeature(IEnumerable<LineString>, String, Dictionary<String, Object>)
+  nameWithType: PolygonLayer._drawFeature(IEnumerable<LineString>, String, Dictionary<String, Object>)
+  fullName: Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable<GeoJSON.Net.Geometry.LineString>, System.String, System.Collections.Generic.Dictionary<System.String, System.Object>)
   type: Method
   source:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _drawFeature
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
-    startLine: 177
+    startLine: 153
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: protected VirgisFeature _drawFeature(Vector3[] perimeter, Vector3 center, string gisId = null, Dictionary<string, object> properties = null)
+    content: protected VirgisFeature _drawFeature(IEnumerable<LineString> LinearRings, string gisId = null, Dictionary<string, object> properties = null)
     parameters:
-    - id: perimeter
-      type: UnityEngine.Vector3[]
-    - id: center
-      type: UnityEngine.Vector3
+    - id: LinearRings
+      type: System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString}
     - id: gisId
       type: System.String
     - id: properties
       type: System.Collections.Generic.Dictionary{System.String,System.Object}
     return:
       type: Virgis.VirgisFeature
-    content.vb: Protected Function _drawFeature(perimeter As Vector3(), center As Vector3, gisId As String = Nothing, properties As Dictionary(Of String, Object) = Nothing) As VirgisFeature
+    content.vb: Protected Function _drawFeature(LinearRings As IEnumerable(Of LineString), gisId As String = Nothing, properties As Dictionary(Of String, Object) = Nothing) As VirgisFeature
   overload: Virgis.PolygonLayer._drawFeature*
-  nameWithType.vb: PolygonLayer._drawFeature(Vector3(), Vector3, String, Dictionary(Of String, Object))
+  nameWithType.vb: PolygonLayer._drawFeature(IEnumerable(Of LineString), String, Dictionary(Of String, Object))
   modifiers.csharp:
   - protected
   modifiers.vb:
   - Protected
-  fullName.vb: Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3(), UnityEngine.Vector3, System.String, System.Collections.Generic.Dictionary(Of System.String, System.Object))
-  name.vb: _drawFeature(Vector3(), Vector3, String, Dictionary(Of String, Object))
+  fullName.vb: Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable(Of GeoJSON.Net.Geometry.LineString), System.String, System.Collections.Generic.Dictionary(Of System.String, System.Object))
+  name.vb: _drawFeature(IEnumerable(Of LineString), String, Dictionary(Of String, Object))
 - uid: Virgis.PolygonLayer._checkpoint
   commentId: M:Virgis.PolygonLayer._checkpoint
   id: _checkpoint
@@ -583,10 +581,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _checkpoint
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
-    startLine: 215
+    startLine: 198
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -616,16 +614,18 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _save
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
-    startLine: 218
+    startLine: 201
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: protected override void _save()
-    content.vb: Protected Overrides Sub _save
+    content: protected override Task _save()
+    return:
+      type: System.Threading.Tasks.Task
+    content.vb: Protected Overrides Function _save As Task
   overridden: Virgis.VirgisLayer{Project.GeographyCollection,GeoJSON.Net.Feature.FeatureCollection}._save
   overload: Virgis.PolygonLayer._save*
   modifiers.csharp:
@@ -649,10 +649,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFeatureShape
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
-    startLine: 251
+    startLine: 232
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -684,10 +684,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
-    startLine: 259
+    startLine: 240
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -720,10 +720,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/PolygonLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Layers/PolygonLayer.cs
-    startLine: 264
+    startLine: 245
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -3327,13 +3327,48 @@ references:
   name: _drawFeature
   nameWithType: PolygonLayer._drawFeature
   fullName: Virgis.PolygonLayer._drawFeature
-- uid: UnityEngine.Vector3
-  commentId: T:UnityEngine.Vector3
-  parent: UnityEngine
-  isExternal: true
-  name: Vector3
-  nameWithType: Vector3
-  fullName: UnityEngine.Vector3
+- uid: System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString}
+  commentId: T:System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString}
+  parent: System.Collections.Generic
+  definition: System.Collections.Generic.IEnumerable`1
+  name: IEnumerable<LineString>
+  nameWithType: IEnumerable<LineString>
+  fullName: System.Collections.Generic.IEnumerable<GeoJSON.Net.Geometry.LineString>
+  nameWithType.vb: IEnumerable(Of LineString)
+  fullName.vb: System.Collections.Generic.IEnumerable(Of GeoJSON.Net.Geometry.LineString)
+  name.vb: IEnumerable(Of LineString)
+  spec.csharp:
+  - uid: System.Collections.Generic.IEnumerable`1
+    name: IEnumerable
+    nameWithType: IEnumerable
+    fullName: System.Collections.Generic.IEnumerable
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: GeoJSON.Net.Geometry.LineString
+    name: LineString
+    nameWithType: LineString
+    fullName: GeoJSON.Net.Geometry.LineString
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.IEnumerable`1
+    name: IEnumerable
+    nameWithType: IEnumerable
+    fullName: System.Collections.Generic.IEnumerable
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: GeoJSON.Net.Geometry.LineString
+    name: LineString
+    nameWithType: LineString
+    fullName: GeoJSON.Net.Geometry.LineString
+  - name: )
+    nameWithType: )
+    fullName: )
 - uid: System.String
   commentId: T:System.String
   parent: System
@@ -3401,6 +3436,51 @@ references:
   - name: )
     nameWithType: )
     fullName: )
+- uid: System.Collections.Generic.IEnumerable`1
+  commentId: T:System.Collections.Generic.IEnumerable`1
+  isExternal: true
+  name: IEnumerable<T>
+  nameWithType: IEnumerable<T>
+  fullName: System.Collections.Generic.IEnumerable<T>
+  nameWithType.vb: IEnumerable(Of T)
+  fullName.vb: System.Collections.Generic.IEnumerable(Of T)
+  name.vb: IEnumerable(Of T)
+  spec.csharp:
+  - uid: System.Collections.Generic.IEnumerable`1
+    name: IEnumerable
+    nameWithType: IEnumerable
+    fullName: System.Collections.Generic.IEnumerable
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.IEnumerable`1
+    name: IEnumerable
+    nameWithType: IEnumerable
+    fullName: System.Collections.Generic.IEnumerable
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Collections.Generic
+  commentId: N:System.Collections.Generic
+  isExternal: true
+  name: System.Collections.Generic
+  nameWithType: System.Collections.Generic
+  fullName: System.Collections.Generic
 - uid: System.Collections.Generic.Dictionary`2
   commentId: T:System.Collections.Generic.Dictionary`2
   isExternal: true
@@ -3452,12 +3532,6 @@ references:
   - name: )
     nameWithType: )
     fullName: )
-- uid: System.Collections.Generic
-  commentId: N:System.Collections.Generic
-  isExternal: true
-  name: System.Collections.Generic
-  nameWithType: System.Collections.Generic
-  fullName: System.Collections.Generic
 - uid: Virgis.PolygonLayer._checkpoint*
   commentId: Overload:Virgis.PolygonLayer._checkpoint
   name: _checkpoint

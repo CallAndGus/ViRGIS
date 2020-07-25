@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MultigridIndexer2
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 133
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OuterShift
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 135
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BlockSize
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 136
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BlockShift
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 137
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 139
@@ -187,7 +187,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToBlockIndex
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 145
@@ -224,7 +224,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToBlockLocal
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 153
@@ -261,7 +261,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToBlock
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 159
@@ -298,7 +298,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/GridIndexing2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromBlock
     path: ../Assets/geometry3Sharp/spatial/GridIndexing2.cs
     startLine: 172

@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BuildStrategy
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 65
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Default
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 67
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TopDownMidpoint
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 69
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BottomUpFromOneRings
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 72
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TopDownMedian
     path: ../Assets/geometry3Sharp/spatial/DMeshAABBTree.cs
     startLine: 76

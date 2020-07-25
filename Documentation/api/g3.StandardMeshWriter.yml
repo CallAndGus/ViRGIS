@@ -24,7 +24,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StandardMeshWriter
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 18
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteInvariantCulture
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 26
@@ -94,7 +94,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OpenStreamF
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 36
@@ -127,7 +127,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CloseStreamF
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 43
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dispose
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 51
@@ -190,7 +190,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteMeshes
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 56
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteFile
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 64
@@ -278,7 +278,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteMesh
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 69
@@ -319,7 +319,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/StandardMeshWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Write
     path: ../Assets/geometry3Sharp/io/StandardMeshWriter.cs
     startLine: 76

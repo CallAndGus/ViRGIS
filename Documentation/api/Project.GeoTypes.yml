@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeoTypes
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 219
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Fault
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 221
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Fract
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 222
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vein
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 223

@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindSolidsOptions
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 461
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SimplifyDeviationTolerance
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 463
@@ -84,7 +84,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WantCurveSolids
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 464
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrustOrientations
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 465
@@ -146,7 +146,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllowOverlappingHoles
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 466
@@ -177,7 +177,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Default
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 468
@@ -212,7 +212,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PlanarComplex.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SortPolygons
     path: ../Assets/geometry3Sharp/curve/PlanarComplex.cs
     startLine: 475

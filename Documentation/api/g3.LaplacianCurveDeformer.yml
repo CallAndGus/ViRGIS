@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LaplacianCurveDeformer
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 14
@@ -66,7 +66,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Curve
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 16
@@ -97,7 +97,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveX
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 19
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveY
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 20
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveZ
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 21
@@ -190,7 +190,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvergeFailed
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 25
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UseSoftConstraintNormalEquations
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 56
@@ -252,7 +252,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 63
@@ -285,7 +285,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetConstraint
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 69
@@ -324,7 +324,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsConstrained
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 76
@@ -359,7 +359,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClearConstraints
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 80
@@ -389,7 +389,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Initialize
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 88
@@ -419,7 +419,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveMultipleCG
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 218
@@ -457,7 +457,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveMultipleRHS
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 294
@@ -495,7 +495,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solve
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 345
@@ -533,7 +533,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveAndUpdateCurve
     path: ../Assets/geometry3Sharp/curve/LaplacianCurveDeformer.cs
     startLine: 356

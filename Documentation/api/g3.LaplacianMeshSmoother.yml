@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LaplacianMeshSmoother
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 6
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 8
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UseSoftConstraintNormalEquations
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 38
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 45
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetConstraint
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 52
@@ -195,7 +195,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsConstrained
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 59
@@ -230,7 +230,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClearConstraints
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 63
@@ -260,7 +260,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Initialize
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 71
@@ -290,7 +290,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveMultipleCG
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 200
@@ -328,7 +328,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveMultipleRHS
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 263
@@ -366,7 +366,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solve
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 319
@@ -404,7 +404,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveAndUpdateMesh
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 331
@@ -436,7 +436,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RegionSmooth
     path: ../Assets/geometry3Sharp/mesh_ops/LaplacianMeshSmoother.cs
     startLine: 355

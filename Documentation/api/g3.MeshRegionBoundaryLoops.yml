@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshRegionBoundaryLoops
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 13
@@ -63,7 +63,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 15
@@ -94,7 +94,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Loops
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 16
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 23
@@ -165,7 +165,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 54
@@ -200,7 +200,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 58
@@ -240,7 +240,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 62
@@ -272,7 +272,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxVerticesLoopIndex
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 73
@@ -309,7 +309,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertex_boundary_edges
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 130
@@ -351,7 +351,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: all_vertex_boundary_edges
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 148
@@ -391,7 +391,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/mesh_selection/MeshRegionBoundaryLoops.cs
     startLine: 166

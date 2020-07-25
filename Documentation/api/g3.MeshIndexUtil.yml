@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshIndexUtil
     path: ../Assets/geometry3Sharp/mesh/MeshIndexUtil.cs
     startLine: 9
@@ -54,7 +54,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapEdgesViaVertexMap
     path: ../Assets/geometry3Sharp/mesh/MeshIndexUtil.cs
     startLine: 15
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshIndexUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MapLoopViaVertexMap
     path: ../Assets/geometry3Sharp/mesh/MeshIndexUtil.cs
     startLine: 36

@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DSparseGrid3
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 47
@@ -71,7 +71,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 58
@@ -108,7 +108,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Has
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 66
@@ -145,7 +145,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 72
@@ -184,7 +184,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Free
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 84
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FreeAll
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 94
@@ -253,7 +253,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 101
@@ -290,7 +290,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Density
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 106
@@ -327,7 +327,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundsInclusive
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 115
@@ -368,7 +368,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dimensions
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 121
@@ -405,7 +405,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllocatedIndices
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 127
@@ -439,7 +439,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Allocated
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 133

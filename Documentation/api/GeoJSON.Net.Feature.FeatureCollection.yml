@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FeatureCollection
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 12
@@ -74,7 +74,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 17
@@ -106,7 +106,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 25
@@ -145,7 +145,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 35
@@ -183,7 +183,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Features
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 41
@@ -238,7 +238,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 49
@@ -278,7 +278,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 57
@@ -315,7 +315,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 65
@@ -354,7 +354,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 77
@@ -395,7 +395,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 93
@@ -436,7 +436,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 101
@@ -473,7 +473,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Feature/FeatureCollection.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Feature/FeatureCollection.cs
     startLine: 114

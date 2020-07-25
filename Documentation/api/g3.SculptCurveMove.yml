@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SculptCurveMove
     path: ../Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
     startLine: 201
@@ -70,7 +70,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
     startLine: 204
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Apply
     path: ../Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
     startLine: 212

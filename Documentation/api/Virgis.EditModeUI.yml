@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/Scripts/EditModeUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EditModeUI
     path: ../Assets/Scripts/EditModeUI.cs
     startLine: 4
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/Scripts/EditModeUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: snapGridToggle
     path: ../Assets/Scripts/EditModeUI.cs
     startLine: 5
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/Scripts/EditModeUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: snapAnchorToggle
     path: ../Assets/Scripts/EditModeUI.cs
     startLine: 6
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/Scripts/EditModeUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnSnapGridToggleValueChanged
     path: ../Assets/Scripts/EditModeUI.cs
     startLine: 24
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/Scripts/EditModeUI.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OnSnapAnchorToggleValueChanged
     path: ../Assets/Scripts/EditModeUI.cs
     startLine: 40

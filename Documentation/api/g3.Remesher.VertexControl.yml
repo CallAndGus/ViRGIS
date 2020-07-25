@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexControl
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 35
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllowAll
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 37
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoSmooth
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 38
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoProject
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 39
@@ -157,7 +157,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoMovement
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 40

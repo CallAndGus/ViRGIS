@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bitmap2
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 7
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bits
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 9
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dimensions
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 12
@@ -130,7 +130,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 18
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 21
@@ -198,7 +198,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Resize
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 26
@@ -231,7 +231,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GridBounds
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 34
@@ -266,7 +266,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 38
@@ -306,7 +306,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 43
@@ -348,7 +348,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 48
@@ -388,7 +388,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 60
@@ -423,7 +423,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 66
@@ -458,7 +458,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToIndex
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 73
@@ -493,7 +493,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToLinear
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 78
@@ -528,7 +528,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Indices
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 84
@@ -560,7 +560,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/Bitmap2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonZeros
     path: ../Assets/geometry3Sharp/spatial/Bitmap2.cs
     startLine: 93

@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/Scripts/Adapters/CSVReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CSVReader
     path: ../Assets/Scripts/Adapters/CSVReader.cs
     startLine: 18
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/Scripts/Adapters/CSVReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Payload
     path: ../Assets/Scripts/Adapters/CSVReader.cs
     startLine: 24
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/Scripts/Adapters/CSVReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Load
     path: ../Assets/Scripts/Adapters/CSVReader.cs
     startLine: 26
@@ -118,7 +118,7 @@ items:
     remote:
       path: Assets/Scripts/Adapters/CSVReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/Scripts/Adapters/CSVReader.cs
     startLine: 51

@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: STLSolid
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 95
@@ -52,7 +52,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Name
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 97
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 98
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/STLReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriAttribs
     path: ../Assets/geometry3Sharp/io/STLReader.cs
     startLine: 99

@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/BinaryG3ReaderWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BinaryG3Reader
     path: ../Assets/geometry3Sharp/io/BinaryG3ReaderWriter.cs
     startLine: 36
@@ -55,7 +55,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/BinaryG3ReaderWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/geometry3Sharp/io/BinaryG3ReaderWriter.cs
     startLine: 38
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/BinaryG3ReaderWriter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Read
     path: ../Assets/geometry3Sharp/io/BinaryG3ReaderWriter.cs
     startLine: 50

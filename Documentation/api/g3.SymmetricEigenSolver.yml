@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SymmetricEigenSolver
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 40
@@ -60,7 +60,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 47
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NO_CONVERGENCE
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 78
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solve
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 79
@@ -168,7 +168,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEigenvalues
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 127
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEigenvalues
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 142
@@ -236,7 +236,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEigenvalue
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 148
@@ -271,7 +271,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEigenvectors
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 166
@@ -307,7 +307,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEigenvectors
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 249
@@ -339,7 +339,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsRotation
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 262
@@ -371,7 +371,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEigenvector
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 294
@@ -409,7 +409,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEigenvector
     path: ../Assets/geometry3Sharp/solvers/SymmetricEigenSolver.cs
     startLine: 358

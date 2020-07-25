@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RecordSetType
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 168
@@ -49,7 +49,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeologyCollection
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 170
@@ -81,7 +81,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Project.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GeographyCollection
     path: ../Assets/Scripts/Basic Types/Project.cs
     startLine: 171

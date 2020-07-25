@@ -107,7 +107,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MathUtil
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 7
@@ -141,7 +141,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Deg2Rad
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 10
@@ -174,7 +174,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rad2Deg
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 11
@@ -207,7 +207,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TwoPI
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 12
@@ -240,7 +240,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FourPI
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 13
@@ -273,7 +273,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HalfPI
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 14
@@ -306,7 +306,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ZeroTolerance
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 15
@@ -339,7 +339,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Epsilon
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 16
@@ -372,7 +372,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SqrtTwo
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 17
@@ -405,7 +405,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SqrtTwoInv
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 18
@@ -438,7 +438,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SqrtThree
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 19
@@ -471,7 +471,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Deg2Radf
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 21
@@ -504,7 +504,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rad2Degf
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 22
@@ -537,7 +537,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PIf
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 23
@@ -570,7 +570,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TwoPIf
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 24
@@ -603,7 +603,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HalfPIf
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 25
@@ -636,7 +636,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SqrtTwof
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 26
@@ -669,7 +669,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ZeroTolerancef
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 28
@@ -702,7 +702,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Epsilonf
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 29
@@ -735,7 +735,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsFinite
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 32
@@ -772,7 +772,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsFinite
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 35
@@ -809,7 +809,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EpsilonEqual
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 40
@@ -850,7 +850,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EpsilonEqual
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 43
@@ -891,7 +891,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 48
@@ -939,7 +939,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 54
@@ -980,7 +980,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 57
@@ -1021,7 +1021,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 60
@@ -1062,7 +1062,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ModuloClamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 64
@@ -1101,7 +1101,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RangeClamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 71
@@ -1140,7 +1140,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RangeClamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 75
@@ -1179,7 +1179,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SignedClamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 81
@@ -1218,7 +1218,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SignedClamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 84
@@ -1257,7 +1257,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SignedClamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 88
@@ -1298,7 +1298,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SignedClamp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 91
@@ -1339,7 +1339,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InRange
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 96
@@ -1380,7 +1380,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InRange
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 99
@@ -1421,7 +1421,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InRange
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 102
@@ -1462,7 +1462,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClampAngleDeg
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 110
@@ -1503,7 +1503,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ClampAngleRad
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 141
@@ -1544,7 +1544,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WrapSignedIndex
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 170
@@ -1583,7 +1583,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MinMax
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 179
@@ -1629,7 +1629,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Min
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 197
@@ -1670,7 +1670,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Min
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 200
@@ -1711,7 +1711,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Min
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 203
@@ -1752,7 +1752,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Max
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 206
@@ -1793,7 +1793,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Max
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 209
@@ -1834,7 +1834,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Max
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 212
@@ -1875,7 +1875,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvSqrt
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 219
@@ -1912,7 +1912,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Atan2Positive
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 226
@@ -1951,7 +1951,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneAngleD
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 235
@@ -1992,7 +1992,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneAngleD
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 242
@@ -2033,7 +2033,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneAngleSignedD
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 251
@@ -2074,7 +2074,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneAngleSignedD
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 264
@@ -2115,7 +2115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneAngleSignedD
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 278
@@ -2156,7 +2156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneAngleSignedD
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 292
@@ -2197,7 +2197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneAngleSignedD
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 308
@@ -2236,7 +2236,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneAngleSignedD
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 316
@@ -2275,7 +2275,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MostParallelAxis
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 327
@@ -2314,7 +2314,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Lerp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 337
@@ -2355,7 +2355,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Lerp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 340
@@ -2396,7 +2396,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmoothStep
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 344
@@ -2437,7 +2437,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmoothStep
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 348
@@ -2478,7 +2478,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmoothInterp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 354
@@ -2519,7 +2519,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmoothInterp
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 358
@@ -2560,7 +2560,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmoothRise0To1
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 366
@@ -2603,7 +2603,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WyvillRise01
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 373
@@ -2640,7 +2640,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WyvillRise01
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 377
@@ -2677,7 +2677,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WyvillFalloff01
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 382
@@ -2714,7 +2714,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WyvillFalloff01
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 386
@@ -2751,7 +2751,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WyvillFalloff
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 392
@@ -2792,7 +2792,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WyvillFalloff
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 405
@@ -2833,7 +2833,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LinearRampT
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 422
@@ -2874,7 +2874,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Area
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 439
@@ -2918,7 +2918,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Area
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 442
@@ -2959,7 +2959,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normal
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 447
@@ -3003,7 +3003,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Normal
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 456
@@ -3044,7 +3044,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastNormalDirection
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 465
@@ -3091,7 +3091,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FastNormalArea
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 477
@@ -3139,7 +3139,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AspectRatio
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 490
@@ -3185,7 +3185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AspectRatio
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 496
@@ -3226,7 +3226,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VectorCot
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 505
@@ -3265,7 +3265,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VectorTan
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 517
@@ -3304,7 +3304,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsObtuse
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 529
@@ -3345,7 +3345,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsLeft
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 541
@@ -3386,7 +3386,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsLeft
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 545
@@ -3430,7 +3430,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BarycentricCoords
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 556
@@ -3478,7 +3478,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BarycentricCoords
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 573
@@ -3521,7 +3521,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BarycentricCoords
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 582
@@ -3566,7 +3566,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriSolidAngle
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 605
@@ -3614,7 +3614,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolveQuadratic
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 616
@@ -3662,7 +3662,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PowerOf10
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 641
@@ -3699,7 +3699,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MathUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ModuloIteration
     path: ../Assets/geometry3Sharp/math/MathUtil.cs
     startLine: 649

@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SerializableQuaternion
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 99
@@ -74,7 +74,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: x
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 105
@@ -107,7 +107,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: y
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 110
@@ -140,7 +140,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: z
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 115
@@ -173,7 +173,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: w
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 120
@@ -206,7 +206,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 129
@@ -251,7 +251,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 137
@@ -281,7 +281,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Update
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 139
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToString
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 151
@@ -358,7 +358,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToArray
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 156
@@ -393,7 +393,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Implicit
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 166
@@ -437,7 +437,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/Serializeables.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Implicit
     path: ../Assets/Scripts/Basic Types/Serializeables.cs
     startLine: 176

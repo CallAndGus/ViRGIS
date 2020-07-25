@@ -23,7 +23,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntersectionUtil
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 32
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersects
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 38
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineSphereTest
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 91
@@ -150,7 +150,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineSphere
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 114
@@ -200,7 +200,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineSphere
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 146
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RaySphereTest
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 158
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RaySphere
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 186
@@ -344,7 +344,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RaySphere
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 206

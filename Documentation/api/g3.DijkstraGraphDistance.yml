@@ -40,7 +40,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DijkstraGraphDistance
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 19
@@ -75,7 +75,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidValue
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 21
@@ -108,7 +108,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrackOrder
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 26
@@ -141,7 +141,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 90
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshVertices
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 123
@@ -230,7 +230,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshTriangles
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 141
@@ -271,7 +271,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reset
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 161
@@ -303,7 +303,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddSeed
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 181
@@ -340,7 +340,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsSeed
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 193
@@ -375,7 +375,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 202
@@ -407,7 +407,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute_Sparse
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 212
@@ -437,7 +437,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute_Dense
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 223
@@ -467,7 +467,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToMaxDistance
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 244
@@ -502,7 +502,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToMaxDistance_Sparse
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 254
@@ -535,7 +535,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToMaxDistance_Dense
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 267
@@ -568,7 +568,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToNode
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 293
@@ -605,7 +605,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToNode_Sparse
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 303
@@ -640,7 +640,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToNode_Dense
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 318
@@ -675,7 +675,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToNode
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 348
@@ -717,7 +717,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToNode_Sparse
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 358
@@ -757,7 +757,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeToNode_Dense
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 374
@@ -797,7 +797,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxDistance
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 404
@@ -834,7 +834,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetDistance
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 412
@@ -871,7 +871,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetOrder
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 431
@@ -905,7 +905,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetPathToSeed
     path: ../Assets/geometry3Sharp/core/DijkstraGraphDistance.cs
     startLine: 443

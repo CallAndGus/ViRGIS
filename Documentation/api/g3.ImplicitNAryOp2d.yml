@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ImplicitNAryOp2d
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 7
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: m_vChildren
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 9
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 11
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddChild
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 16
@@ -163,7 +163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Value
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 21
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Gradient
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 26
@@ -250,7 +250,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/implicit/ImplicitOperators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/implicit/ImplicitOperators.cs
     startLine: 34

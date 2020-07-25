@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IVirgisEntity
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 11
@@ -60,7 +60,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Selected
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 13
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnSelected
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 14
@@ -118,7 +118,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StartEditSession
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 15
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExitEditSession
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 16
@@ -173,7 +173,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetId
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 17
@@ -201,7 +201,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetMetadata
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 18
@@ -229,7 +229,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetClosest
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 19
@@ -265,7 +265,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 20
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 21
@@ -323,7 +323,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveTo
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 22
@@ -352,7 +352,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/VirgisFeature.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexMove
     path: ../Assets/Scripts/Basic Types/VirgisFeature.cs
     startLine: 23

@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistSegment3Triangle3
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 10
@@ -60,7 +60,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 13
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Triangle
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 20
@@ -130,7 +130,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 26
@@ -161,7 +161,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentClosest
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 28
@@ -192,7 +192,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentParam
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 29
@@ -223,7 +223,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleClosest
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 30
@@ -254,7 +254,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TriangleBaryCoords
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 31
@@ -285,7 +285,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 33
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 39
@@ -352,7 +352,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 45
@@ -384,7 +384,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSquared
     path: ../Assets/geometry3Sharp/distance/DistSegment3Triangle3.cs
     startLine: 51

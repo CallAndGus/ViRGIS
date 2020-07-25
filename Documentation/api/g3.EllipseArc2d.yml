@@ -36,7 +36,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EllipseArc2d
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 24
@@ -73,7 +73,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Center
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 26
@@ -104,7 +104,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Axis0
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 27
@@ -135,7 +135,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Axis1
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 27
@@ -166,7 +166,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Extent
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 28
@@ -197,7 +197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleStartDeg
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 29
@@ -228,7 +228,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AngleEndDeg
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 30
@@ -259,7 +259,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsReversed
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 31
@@ -290,7 +290,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 33
@@ -333,7 +333,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 47
@@ -376,7 +376,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 61
@@ -413,7 +413,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParamLength
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 66
@@ -450,7 +450,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 72
@@ -487,7 +487,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TangentT
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 95
@@ -524,7 +524,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 129
@@ -561,7 +561,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 131
@@ -598,7 +598,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLength
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 135
@@ -635,7 +635,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 140
@@ -667,7 +667,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 144
@@ -701,7 +701,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTransformable
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 150
@@ -738,7 +738,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/EllipseArc2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/EllipseArc2.cs
     startLine: 151

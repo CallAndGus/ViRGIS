@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DeformInfo
     path: ../Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
     startLine: 54
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bNoChange
     path: ../Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
     startLine: 56
@@ -81,7 +81,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: maxEdgeLenSqr
     path: ../Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
     startLine: 57
@@ -112,7 +112,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: minEdgeLenSqr
     path: ../Assets/geometry3Sharp/curve/SculptCurveDeformers.cs
     startLine: 58

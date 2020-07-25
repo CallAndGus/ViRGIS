@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PolyLine2d
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 8
@@ -86,7 +86,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vertices
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 10
@@ -117,7 +117,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Timestamp
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 11
@@ -148,7 +148,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 13
@@ -178,7 +178,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 18
@@ -211,7 +211,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 24
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 30
@@ -282,7 +282,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 36
@@ -318,7 +318,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 42
@@ -354,7 +354,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 47
@@ -387,7 +387,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 54
@@ -427,7 +427,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Start
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 60
@@ -462,7 +462,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: End
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 63
@@ -497,7 +497,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 68
@@ -532,7 +532,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 72
@@ -567,7 +567,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertex
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 77
@@ -602,7 +602,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendVertices
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 83
@@ -640,7 +640,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 90
@@ -672,7 +672,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetTangent
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 97
@@ -707,7 +707,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetNormal
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 107
@@ -742,7 +742,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBounds
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 113
@@ -774,7 +774,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 121
@@ -809,7 +809,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 126
@@ -844,7 +844,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 139
@@ -879,7 +879,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentItr
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 144
@@ -911,7 +911,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 149
@@ -943,7 +943,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Length
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 157
@@ -990,7 +990,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 159
@@ -1025,7 +1025,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexOffset
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 173
@@ -1060,7 +1060,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrimStart
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 186
@@ -1097,7 +1097,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrimEnd
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 210
@@ -1134,7 +1134,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Trim
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 234
@@ -1171,7 +1171,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: simplifyDP
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 254
@@ -1217,7 +1217,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Simplify
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 288
@@ -1256,7 +1256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 333
@@ -1291,7 +1291,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/PolyLine2d.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MakeBoxSpiral
     path: ../Assets/geometry3Sharp/curve/PolyLine2d.cs
     startLine: 343

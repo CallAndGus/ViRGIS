@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundsUtil
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 6
@@ -65,7 +65,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 9
@@ -105,7 +105,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 17
@@ -142,7 +142,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 25
@@ -182,7 +182,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 29
@@ -226,7 +226,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 38
@@ -270,7 +270,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 47
@@ -312,7 +312,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 59
@@ -352,7 +352,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 66
@@ -392,7 +392,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 75
@@ -432,7 +432,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 82
@@ -472,7 +472,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 91
@@ -516,7 +516,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 98
@@ -560,7 +560,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 110
@@ -604,7 +604,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BoundsInFrame
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 122
@@ -648,7 +648,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/BoundsUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TrianglesContained
     path: ../Assets/geometry3Sharp/math/BoundsUtil.cs
     startLine: 135

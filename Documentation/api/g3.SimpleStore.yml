@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SimpleStore
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 575
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Meshes
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 578
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Points
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 579
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Strings
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 580
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntLists
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 581
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 583
@@ -215,7 +215,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 587
@@ -251,7 +251,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Add
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 592
@@ -287,7 +287,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Store
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 611
@@ -327,7 +327,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Store
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 617
@@ -364,7 +364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/gSerialization.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Restore
     path: ../Assets/geometry3Sharp/io/gSerialization.cs
     startLine: 639

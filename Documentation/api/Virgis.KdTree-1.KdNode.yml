@@ -16,7 +16,7 @@ items:
     remote:
       path: Assets/Scripts/Basic Types/KdTree.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: KdNode
     path: ../Assets/Scripts/Basic Types/KdTree.cs
     startLine: 389

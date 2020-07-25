@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ColorHSV
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 7
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: h
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 9
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: s
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 10
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: v
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 11
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: a
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 12
@@ -182,7 +182,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 14
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 15
@@ -254,7 +254,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RGBA
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 21
@@ -289,7 +289,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertToRGB
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 30
@@ -321,7 +321,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorHSV.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ConvertFromRGB
     path: ../Assets/geometry3Sharp/color/ColorHSV.cs
     startLine: 94

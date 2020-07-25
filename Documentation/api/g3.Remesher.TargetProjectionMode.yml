@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TargetProjectionMode
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 51
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoProjection
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 53
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AfterRefinement
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 54
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/Remesher.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Inline
     path: ../Assets/geometry3Sharp/mesh/Remesher.cs
     startLine: 55

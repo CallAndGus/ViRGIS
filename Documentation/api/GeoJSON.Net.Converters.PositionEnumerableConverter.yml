@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/PositionEnumerableConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PositionEnumerableConverter
     path: ../Assets/GeoJSON.Net/Converters/PositionEnumerableConverter.cs
     startLine: 14
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/PositionEnumerableConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CanConvert
     path: ../Assets/GeoJSON.Net/Converters/PositionEnumerableConverter.cs
     startLine: 25
@@ -99,7 +99,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/PositionEnumerableConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReadJson
     path: ../Assets/GeoJSON.Net/Converters/PositionEnumerableConverter.cs
     startLine: 40
@@ -150,7 +150,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Converters/PositionEnumerableConverter.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteJson
     path: ../Assets/GeoJSON.Net/Converters/PositionEnumerableConverter.cs
     startLine: 56

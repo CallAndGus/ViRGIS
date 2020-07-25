@@ -55,7 +55,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NURBSCurve2
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 8
@@ -108,7 +108,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 41
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 78
@@ -202,7 +202,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 100
@@ -232,7 +232,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetNumCtrlPoints
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 107
@@ -264,7 +264,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetDegree
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 110
@@ -296,7 +296,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsUniform
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 121
@@ -328,7 +328,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetControlPoint
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 135
@@ -363,7 +363,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetControlPoint
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 144
@@ -398,7 +398,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetControlWeight
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 149
@@ -433,7 +433,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetControlWeight
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 158
@@ -468,7 +468,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetKnot
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 167
@@ -503,7 +503,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetKnot
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 170
@@ -538,7 +538,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetPosition
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 178
@@ -576,7 +576,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetFirstDerivative
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 202
@@ -614,7 +614,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSecondDerivative
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 235
@@ -652,7 +652,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetThirdDerivative
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 243
@@ -690,7 +690,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 264
@@ -728,7 +728,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBasis
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 348
@@ -760,7 +760,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CreateControl
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 355
@@ -798,7 +798,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mNumCtrlPoints
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 373
@@ -829,7 +829,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mCtrlPoint
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 374
@@ -860,7 +860,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mCtrlWeight
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 375
@@ -891,7 +891,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mLoop
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 376
@@ -922,7 +922,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mBasis
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 377
@@ -953,7 +953,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mReplicate
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 378
@@ -984,7 +984,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: is_closed
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 380
@@ -1015,7 +1015,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 392
@@ -1052,7 +1052,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParamLength
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 398
@@ -1089,7 +1089,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 401
@@ -1126,7 +1126,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TangentT
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 405
@@ -1163,7 +1163,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 409
@@ -1200,7 +1200,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 412
@@ -1237,7 +1237,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLength
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 415
@@ -1274,7 +1274,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 421
@@ -1306,7 +1306,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 425
@@ -1340,7 +1340,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTransformable
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 438
@@ -1377,7 +1377,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 439
@@ -1412,7 +1412,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetParamIntervals
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 448
@@ -1444,7 +1444,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/NURBSCurve2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetContinuousParamIntervals
     path: ../Assets/geometry3Sharp/curve/NURBSCurve2.cs
     startLine: 469

@@ -1,0 +1,212 @@
+### YamlMime:ManagedReference
+items:
+- uid: Virgis.PolygonExtensions
+  commentId: T:Virgis.PolygonExtensions
+  id: PolygonExtensions
+  parent: Virgis
+  children:
+  - Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List{Virgis.Dataline},g3.Frame3f@)
+  langs:
+  - csharp
+  - vb
+  name: PolygonExtensions
+  nameWithType: PolygonExtensions
+  fullName: Virgis.PolygonExtensions
+  type: Class
+  source:
+    remote:
+      path: Assets/Scripts/Basic Types/typings.cs
+      branch: gh-pages
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
+    id: PolygonExtensions
+    path: ../Assets/Scripts/Basic Types/typings.cs
+    startLine: 235
+  assemblies:
+  - Assembly-CSharp
+  namespace: Virgis
+  syntax:
+    content: public static class PolygonExtensions
+    content.vb: Public Module PolygonExtensions
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - static
+  - class
+  modifiers.vb:
+  - Public
+  - Module
+- uid: Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List{Virgis.Dataline},g3.Frame3f@)
+  commentId: M:Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List{Virgis.Dataline},g3.Frame3f@)
+  id: ToPolygon(System.Collections.Generic.List{Virgis.Dataline},g3.Frame3f@)
+  isExtensionMethod: true
+  parent: Virgis.PolygonExtensions
+  langs:
+  - csharp
+  - vb
+  name: ToPolygon(List<Dataline>, ref Frame3f)
+  nameWithType: PolygonExtensions.ToPolygon(List<Dataline>, ref Frame3f)
+  fullName: Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List<Virgis.Dataline>, ref g3.Frame3f)
+  type: Method
+  source:
+    remote:
+      path: Assets/Scripts/Basic Types/typings.cs
+      branch: gh-pages
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
+    id: ToPolygon
+    path: ../Assets/Scripts/Basic Types/typings.cs
+    startLine: 237
+  assemblies:
+  - Assembly-CSharp
+  namespace: Virgis
+  syntax:
+    content: public static GeneralPolygon2d ToPolygon(this List<Dataline> list, ref Frame3f frame)
+    parameters:
+    - id: list
+      type: System.Collections.Generic.List{Virgis.Dataline}
+    - id: frame
+      type: g3.Frame3f
+    return:
+      type: g3.GeneralPolygon2d
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function ToPolygon(list As List(Of Dataline), ByRef frame As Frame3f) As GeneralPolygon2d
+  overload: Virgis.PolygonExtensions.ToPolygon*
+  nameWithType.vb: PolygonExtensions.ToPolygon(List(Of Dataline), ByRef Frame3f)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List(Of Virgis.Dataline), ByRef g3.Frame3f)
+  name.vb: ToPolygon(List(Of Dataline), ByRef Frame3f)
+references:
+- uid: Virgis
+  commentId: N:Virgis
+  name: Virgis
+  nameWithType: Virgis
+  fullName: Virgis
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: System
+  commentId: N:System
+  isExternal: true
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: Virgis.PolygonExtensions.ToPolygon*
+  commentId: Overload:Virgis.PolygonExtensions.ToPolygon
+  name: ToPolygon
+  nameWithType: PolygonExtensions.ToPolygon
+  fullName: Virgis.PolygonExtensions.ToPolygon
+- uid: System.Collections.Generic.List{Virgis.Dataline}
+  commentId: T:System.Collections.Generic.List{Virgis.Dataline}
+  parent: System.Collections.Generic
+  definition: System.Collections.Generic.List`1
+  name: List<Dataline>
+  nameWithType: List<Dataline>
+  fullName: System.Collections.Generic.List<Virgis.Dataline>
+  nameWithType.vb: List(Of Dataline)
+  fullName.vb: System.Collections.Generic.List(Of Virgis.Dataline)
+  name.vb: List(Of Dataline)
+  spec.csharp:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    nameWithType: List
+    fullName: System.Collections.Generic.List
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: Virgis.Dataline
+    name: Dataline
+    nameWithType: Dataline
+    fullName: Virgis.Dataline
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    nameWithType: List
+    fullName: System.Collections.Generic.List
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: Virgis.Dataline
+    name: Dataline
+    nameWithType: Dataline
+    fullName: Virgis.Dataline
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: g3.Frame3f
+  commentId: T:g3.Frame3f
+  parent: g3
+  name: Frame3f
+  nameWithType: Frame3f
+  fullName: g3.Frame3f
+- uid: g3.GeneralPolygon2d
+  commentId: T:g3.GeneralPolygon2d
+  parent: g3
+  name: GeneralPolygon2d
+  nameWithType: GeneralPolygon2d
+  fullName: g3.GeneralPolygon2d
+- uid: System.Collections.Generic.List`1
+  commentId: T:System.Collections.Generic.List`1
+  isExternal: true
+  name: List<T>
+  nameWithType: List<T>
+  fullName: System.Collections.Generic.List<T>
+  nameWithType.vb: List(Of T)
+  fullName.vb: System.Collections.Generic.List(Of T)
+  name.vb: List(Of T)
+  spec.csharp:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    nameWithType: List
+    fullName: System.Collections.Generic.List
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.List`1
+    name: List
+    nameWithType: List
+    fullName: System.Collections.Generic.List
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Collections.Generic
+  commentId: N:System.Collections.Generic
+  isExternal: true
+  name: System.Collections.Generic
+  nameWithType: System.Collections.Generic
+  fullName: System.Collections.Generic
+- uid: g3
+  commentId: N:g3
+  name: g3
+  nameWithType: g3
+  fullName: g3

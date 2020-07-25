@@ -36,7 +36,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeSpan
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 10
@@ -71,7 +71,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 12
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Vertices
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 14
@@ -133,7 +133,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Edges
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 15
@@ -164,7 +164,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: BowtieVertices
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 17
@@ -195,7 +195,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 20
@@ -228,7 +228,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 25
@@ -270,7 +270,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromEdges
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 42
@@ -314,7 +314,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FromVertices
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 68
@@ -358,7 +358,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 86
@@ -393,7 +393,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeCount
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 89
@@ -428,7 +428,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 93
@@ -463,7 +463,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetBounds
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 98
@@ -495,7 +495,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToCurve
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 107
@@ -530,7 +530,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsInternalSpan
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 117
@@ -562,7 +562,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBoundarySpan
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 130
@@ -597,7 +597,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindNearestVertex
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 145
@@ -632,7 +632,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CountWithinTolerance
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 163
@@ -674,7 +674,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsSameSpan
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 181
@@ -713,7 +713,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CheckValidity
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 193
@@ -750,7 +750,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/EdgeSpan.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VerticesToEdges
     path: ../Assets/geometry3Sharp/mesh/EdgeSpan.cs
     startLine: 238

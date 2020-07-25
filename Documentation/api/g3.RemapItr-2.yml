@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/g3Iterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemapItr
     path: ../Assets/geometry3Sharp/core/g3Iterators.cs
     startLine: 33
@@ -63,7 +63,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/g3Iterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OtherItr
     path: ../Assets/geometry3Sharp/core/g3Iterators.cs
     startLine: 35
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/g3Iterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ValueF
     path: ../Assets/geometry3Sharp/core/g3Iterators.cs
     startLine: 36
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/g3Iterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/g3Iterators.cs
     startLine: 38
@@ -167,7 +167,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/g3Iterators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/core/g3Iterators.cs
     startLine: 42

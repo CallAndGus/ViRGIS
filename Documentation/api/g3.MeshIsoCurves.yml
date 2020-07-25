@@ -31,7 +31,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshIsoCurves
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 7
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 9
@@ -95,7 +95,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ValueF
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 10
@@ -126,7 +126,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexValueF
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 15
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PrecomputeVertexValues
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 21
@@ -192,7 +192,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RootMode
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 29
@@ -225,7 +225,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RootModeSteps
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 34
@@ -258,7 +258,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Graph
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 37
@@ -289,7 +289,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WantGraphEdgeInfo
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 46
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GraphEdges
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 60
@@ -351,7 +351,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 66
@@ -389,7 +389,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 72
@@ -419,7 +419,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 76
@@ -455,7 +455,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: compute_full
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 88
@@ -493,7 +493,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SplitAtIsoCrossings
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 328
@@ -528,7 +528,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ShouldReverseGraphEdge
     path: ../Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs
     startLine: 360

@@ -18,7 +18,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshHints
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 51
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: None
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 54
@@ -91,7 +91,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/DMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsCompact
     path: ../Assets/geometry3Sharp/mesh/DMesh3.cs
     startLine: 55

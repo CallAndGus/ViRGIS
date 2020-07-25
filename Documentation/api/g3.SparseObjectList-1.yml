@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SparseList.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SparseObjectList
     path: ../Assets/geometry3Sharp/core/SparseList.cs
     startLine: 117
@@ -64,7 +64,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SparseList.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/SparseList.cs
     startLine: 122
@@ -101,7 +101,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SparseList.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/core/SparseList.cs
     startLine: 137
@@ -141,7 +141,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SparseList.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/core/SparseList.cs
     startLine: 157
@@ -179,7 +179,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SparseList.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Values
     path: ../Assets/geometry3Sharp/core/SparseList.cs
     startLine: 177
@@ -215,7 +215,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SparseList.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonZeroValues
     path: ../Assets/geometry3Sharp/core/SparseList.cs
     startLine: 189
@@ -249,7 +249,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SparseList.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clear
     path: ../Assets/geometry3Sharp/core/SparseList.cs
     startLine: 203

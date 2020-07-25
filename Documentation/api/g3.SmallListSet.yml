@@ -33,7 +33,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SmallListSet
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 17
@@ -68,7 +68,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 38
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 48
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Size
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 61
@@ -168,7 +168,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Resize
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 68
@@ -203,7 +203,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllocateAt
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 82
@@ -238,7 +238,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Insert
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 102
@@ -275,7 +275,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Remove
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 143
@@ -314,7 +314,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Move
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 186
@@ -351,7 +351,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clear
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 204
@@ -386,7 +386,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 233
@@ -423,7 +423,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Contains
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 243
@@ -462,7 +462,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: First
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 276
@@ -499,7 +499,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ValueItr
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 286
@@ -536,7 +536,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Find
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 313
@@ -580,7 +580,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Replace
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 353
@@ -624,7 +624,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: allocate_block
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 394
@@ -656,7 +656,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/SmallListSet.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MemoryUsage
     path: ../Assets/geometry3Sharp/core/SmallListSet.cs
     startLine: 442

@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayerUIPanel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LayerUIPanel
     path: ../Assets/Scripts/Layers/LayerUIPanel.cs
     startLine: 12
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayerUIPanel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: editLayerToggle
     path: ../Assets/Scripts/Layers/LayerUIPanel.cs
     startLine: 13
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayerUIPanel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: viewLayerToggle
     path: ../Assets/Scripts/Layers/LayerUIPanel.cs
     startLine: 14
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayerUIPanel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: layer
     path: ../Assets/Scripts/Layers/LayerUIPanel.cs
     startLine: 25
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/LayerUIPanel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddEditSelectedListener
     path: ../Assets/Scripts/Layers/LayerUIPanel.cs
     startLine: 38

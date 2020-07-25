@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshProjectionTarget
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 11
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 13
@@ -102,7 +102,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Spatial
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 14
@@ -137,7 +137,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 16
@@ -167,7 +167,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 17
@@ -202,7 +202,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 25
@@ -235,7 +235,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Project
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 31
@@ -276,7 +276,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Project
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 41
@@ -322,7 +322,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Auto
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 55
@@ -363,7 +363,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Auto
     path: ../Assets/geometry3Sharp/spatial/BasicProjectionTargets.cs
     startLine: 67

@@ -10,7 +10,6 @@ items:
   - Virgis.MeshLayer._draw
   - Virgis.MeshLayer._init(Project.GeographyCollection)
   - Virgis.MeshLayer._save
-  - Virgis.MeshLayer.GetFeatureShape
   - Virgis.MeshLayer.handle
   - Virgis.MeshLayer.HandleMaterial
   - Virgis.MeshLayer.material
@@ -28,7 +27,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshLayer
     path: ../Assets/Scripts/Layers/MeshLayer.cs
     startLine: 12
@@ -108,7 +107,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: material
     path: ../Assets/Scripts/Layers/MeshLayer.cs
     startLine: 15
@@ -139,7 +138,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: handle
     path: ../Assets/Scripts/Layers/MeshLayer.cs
     startLine: 16
@@ -170,7 +169,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: meshes
     path: ../Assets/Scripts/Layers/MeshLayer.cs
     startLine: 17
@@ -201,7 +200,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HandleMaterial
     path: ../Assets/Scripts/Layers/MeshLayer.cs
     startLine: 18
@@ -232,7 +231,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _init
     path: ../Assets/Scripts/Layers/MeshLayer.cs
     startLine: 48
@@ -270,7 +269,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _addFeature
     path: ../Assets/Scripts/Layers/MeshLayer.cs
     startLine: 63
@@ -311,7 +310,7 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _draw
     path: ../Assets/Scripts/Layers/MeshLayer.cs
     startLine: 67
@@ -344,10 +343,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Translate
     path: ../Assets/Scripts/Layers/MeshLayer.cs
-    startLine: 94
+    startLine: 95
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -380,10 +379,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MoveAxis
     path: ../Assets/Scripts/Layers/MeshLayer.cs
-    startLine: 104
+    startLine: 105
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -417,10 +416,10 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _checkpoint
     path: ../Assets/Scripts/Layers/MeshLayer.cs
-    startLine: 130
+    startLine: 131
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
@@ -450,16 +449,18 @@ items:
     remote:
       path: Assets/Scripts/Layers/MeshLayer.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: _save
     path: ../Assets/Scripts/Layers/MeshLayer.cs
-    startLine: 132
+    startLine: 133
   assemblies:
   - Assembly-CSharp
   namespace: Virgis
   syntax:
-    content: protected override void _save()
-    content.vb: Protected Overrides Sub _save
+    content: protected override Task _save()
+    return:
+      type: System.Threading.Tasks.Task
+    content.vb: Protected Overrides Function _save As Task
   overridden: Virgis.VirgisLayer{Project.GeographyCollection,Virgis.MeshData}._save
   overload: Virgis.MeshLayer._save*
   modifiers.csharp:
@@ -467,41 +468,6 @@ items:
   - override
   modifiers.vb:
   - Protected
-  - Overrides
-- uid: Virgis.MeshLayer.GetFeatureShape
-  commentId: M:Virgis.MeshLayer.GetFeatureShape
-  id: GetFeatureShape
-  parent: Virgis.MeshLayer
-  langs:
-  - csharp
-  - vb
-  name: GetFeatureShape()
-  nameWithType: MeshLayer.GetFeatureShape()
-  fullName: Virgis.MeshLayer.GetFeatureShape()
-  type: Method
-  source:
-    remote:
-      path: Assets/Scripts/Layers/MeshLayer.cs
-      branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
-    id: GetFeatureShape
-    path: ../Assets/Scripts/Layers/MeshLayer.cs
-    startLine: 140
-  assemblies:
-  - Assembly-CSharp
-  namespace: Virgis
-  syntax:
-    content: public override GameObject GetFeatureShape()
-    return:
-      type: UnityEngine.GameObject
-    content.vb: Public Overrides Function GetFeatureShape As GameObject
-  overridden: Virgis.VirgisLayer{Project.GeographyCollection,Virgis.MeshData}.GetFeatureShape
-  overload: Virgis.MeshLayer.GetFeatureShape*
-  modifiers.csharp:
-  - public
-  - override
-  modifiers.vb:
-  - Public
   - Overrides
 references:
 - uid: Virgis
@@ -3199,8 +3165,3 @@ references:
   name: _save
   nameWithType: MeshLayer._save
   fullName: Virgis.MeshLayer._save
-- uid: Virgis.MeshLayer.GetFeatureShape*
-  commentId: Overload:Virgis.MeshLayer.GetFeatureShape
-  name: GetFeatureShape
-  nameWithType: MeshLayer.GetFeatureShape
-  fullName: Virgis.MeshLayer.GetFeatureShape

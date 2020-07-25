@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Matrix2f
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 5
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: m00
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 7
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: m01
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 7
@@ -145,7 +145,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: m10
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 7
@@ -176,7 +176,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: m11
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 7
@@ -207,7 +207,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Identity
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 10
@@ -242,7 +242,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Zero
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 11
@@ -277,7 +277,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: One
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 12
@@ -312,7 +312,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 15
@@ -345,7 +345,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 22
@@ -384,7 +384,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 25
@@ -419,7 +419,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 30
@@ -452,7 +452,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 37
@@ -489,7 +489,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 47
@@ -524,7 +524,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetToDiagonal
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 55
@@ -559,7 +559,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetToRotationRad
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 60
@@ -592,7 +592,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetToRotationDeg
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 65
@@ -625,7 +625,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: QForm
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 71
@@ -662,7 +662,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transpose
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 76
@@ -694,7 +694,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Inverse
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 81
@@ -729,7 +729,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Adjoint
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 91
@@ -761,7 +761,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Determinant
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 94
@@ -796,7 +796,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtractAngle
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 99
@@ -828,7 +828,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Orthonormalize
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 105
@@ -858,7 +858,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EigenDecomposition
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 134
@@ -896,7 +896,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_UnaryNegation
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 178
@@ -933,7 +933,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 182
@@ -972,7 +972,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Addition
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 185
@@ -1011,7 +1011,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 189
@@ -1050,7 +1050,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Subtraction
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 192
@@ -1089,7 +1089,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 196
@@ -1128,7 +1128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 199
@@ -1167,7 +1167,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Division
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 202
@@ -1206,7 +1206,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 209
@@ -1245,7 +1245,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Matrix2f.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Multiply
     path: ../Assets/geometry3Sharp/math/Matrix2f.cs
     startLine: 215

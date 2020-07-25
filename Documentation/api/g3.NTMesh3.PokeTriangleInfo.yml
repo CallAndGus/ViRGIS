@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PokeTriangleInfo
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1387
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: new_vid
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1389
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: new_t1
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1390
@@ -113,7 +113,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: new_t2
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1390
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: new_edges
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1391

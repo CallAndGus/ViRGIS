@@ -22,7 +22,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CholeskyDecomposition
     path: ../Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
     startLine: 16
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: A
     path: ../Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
     startLine: 18
@@ -88,7 +88,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: L
     path: ../Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
     startLine: 20
@@ -119,7 +119,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
     startLine: 23
@@ -152,7 +152,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
     startLine: 29
@@ -184,7 +184,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ComputeParallel
     path: ../Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
     startLine: 73
@@ -218,7 +218,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solve
     path: ../Assets/geometry3Sharp/solvers/CholeskyDecomposition.cs
     startLine: 199

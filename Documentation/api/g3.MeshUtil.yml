@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshUtil
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 5
@@ -62,7 +62,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UniformSmooth
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 12
@@ -103,7 +103,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeanValueSmooth
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 27
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CotanSmooth
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 35
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ScaleMesh
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 43
@@ -224,7 +224,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: OpeningAngleD
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 59
@@ -265,7 +265,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DiscreteGaussCurvature
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 75
@@ -306,7 +306,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CheckIfCollapseCreatesFlip
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 92
@@ -349,7 +349,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CheckIfEdgeFlipCreatesFlip
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 138
@@ -392,7 +392,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEdgeFlipTris
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 174
@@ -442,7 +442,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEdgeFlipNormals
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 196
@@ -492,7 +492,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtractLoopV
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 218
@@ -534,7 +534,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExtractLoopV
     path: ../Assets/geometry3Sharp/mesh/MeshUtil.cs
     startLine: 225

@@ -30,7 +30,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: WriteOptions
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 92
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bWriteBinary
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 94
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bPerVertexNormals
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 96
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bPerVertexColors
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 97
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bPerVertexUVs
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 98
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bWriteGroups
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 100
@@ -216,7 +216,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bCombineMeshes
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 102
@@ -247,7 +247,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RealPrecisionDigits
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 105
@@ -278,7 +278,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bWriteMaterials
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 107
@@ -309,7 +309,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaterialFilePath
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 108
@@ -340,7 +340,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: groupNamePrefix
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 110
@@ -371,7 +371,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GroupNameF
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 111
@@ -402,7 +402,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ProgressFunc
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 114
@@ -433,7 +433,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AsciiHeaderFunc
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 116
@@ -464,7 +464,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/io/MeshIO.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Defaults
     path: ../Assets/geometry3Sharp/io/MeshIO.cs
     startLine: 118

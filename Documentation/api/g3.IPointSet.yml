@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IPointSet
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 8
@@ -57,7 +57,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexCount
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 10
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MaxVertexID
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 11
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexNormals
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 13
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasVertexColors
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 14
@@ -189,7 +189,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertex
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 16
@@ -220,7 +220,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexNormal
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 17
@@ -251,7 +251,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertexColor
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 18
@@ -282,7 +282,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsVertex
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 20
@@ -313,7 +313,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: VertexIndices
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 23
@@ -341,7 +341,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/IMesh.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Timestamp
     path: ../Assets/geometry3Sharp/mesh/IMesh.cs
     startLine: 25

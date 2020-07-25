@@ -33,7 +33,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntrSegment3Box3
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 8
@@ -66,7 +66,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Segment
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 11
@@ -101,7 +101,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Box
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 18
@@ -136,7 +136,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Solid
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 25
@@ -171,7 +171,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Quantity
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 30
@@ -202,7 +202,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Result
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 31
@@ -233,7 +233,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 32
@@ -264,7 +264,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsSimpleIntersection
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 34
@@ -299,7 +299,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentParam0
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 38
@@ -330,7 +330,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SegmentParam1
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 38
@@ -361,7 +361,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point0
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 39
@@ -392,7 +392,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point1
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 40
@@ -423,7 +423,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 43
@@ -460,7 +460,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 48
@@ -492,7 +492,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Find
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 55
@@ -524,7 +524,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Test
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 81
@@ -556,7 +556,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DoClipping
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 143
@@ -614,7 +614,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clip
     path: ../Assets/geometry3Sharp/intersection/IntrSegment3Box3.cs
     startLine: 193

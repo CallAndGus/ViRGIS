@@ -21,7 +21,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LineGenerator
     path: ../Assets/geometry3Sharp/curve/CurveGenerators.cs
     startLine: 25
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Start
     path: ../Assets/geometry3Sharp/curve/CurveGenerators.cs
     startLine: 27
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: End
     path: ../Assets/geometry3Sharp/curve/CurveGenerators.cs
     startLine: 28
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Subdivisions
     path: ../Assets/geometry3Sharp/curve/CurveGenerators.cs
     startLine: 31
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StepSize
     path: ../Assets/geometry3Sharp/curve/CurveGenerators.cs
     startLine: 32
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/CurveGenerators.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Generate
     path: ../Assets/geometry3Sharp/curve/CurveGenerators.cs
     startLine: 35

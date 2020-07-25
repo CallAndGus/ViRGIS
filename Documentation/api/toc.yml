@@ -1343,8 +1343,6 @@
     name: FeatureObject
   - uid: Virgis.FlyingCam
     name: FlyingCam
-  - uid: Virgis.GeoJsonReader
-    name: GeoJsonReader
   - uid: Virgis.IVirgisEntity
     name: IVirgisEntity
   - uid: Virgis.IVirgisFeature
@@ -1387,10 +1385,14 @@
     name: PointCloudLayer
   - uid: Virgis.PointLayer
     name: PointLayer
+  - uid: Virgis.PolygonExtensions
+    name: PolygonExtensions
   - uid: Virgis.PolygonLayer
     name: PolygonLayer
   - uid: Virgis.PositionExtensionMethods
     name: PositionExtensionMethods
+  - uid: Virgis.QuitButton
+    name: QuitButton
   - uid: Virgis.SelectionTypes
     name: SelectionTypes
   - uid: Virgis.SimpleMeshExtensions

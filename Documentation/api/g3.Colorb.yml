@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Colorb
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 8
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: r
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 10
@@ -89,7 +89,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: g
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 11
@@ -120,7 +120,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: b
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 12
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: a
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 13
@@ -182,7 +182,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 15
@@ -217,7 +217,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 16
@@ -256,7 +256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 17
@@ -295,7 +295,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 23
@@ -331,7 +331,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 24
@@ -364,7 +364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 25
@@ -399,7 +399,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/Colorb.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/color/Colorb.cs
     startLine: 28

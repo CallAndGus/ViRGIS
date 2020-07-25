@@ -80967,19 +80967,6 @@ references:
   isSpec: "True"
   fullName: Virgis.Datapoint.SetMaterial
   nameWithType: Datapoint.SetMaterial
-- uid: Virgis.Datapoint.Translate(Virgis.MoveArgs)
-  name: Translate(MoveArgs)
-  href: api/Virgis.Datapoint.html#Virgis_Datapoint_Translate_Virgis_MoveArgs_
-  commentId: M:Virgis.Datapoint.Translate(Virgis.MoveArgs)
-  fullName: Virgis.Datapoint.Translate(Virgis.MoveArgs)
-  nameWithType: Datapoint.Translate(MoveArgs)
-- uid: Virgis.Datapoint.Translate*
-  name: Translate
-  href: api/Virgis.Datapoint.html#Virgis_Datapoint_Translate_
-  commentId: Overload:Virgis.Datapoint.Translate
-  isSpec: "True"
-  fullName: Virgis.Datapoint.Translate
-  nameWithType: Datapoint.Translate
 - uid: Virgis.Datapoint.UnSelected(Virgis.SelectionTypes)
   name: UnSelected(SelectionTypes)
   href: api/Virgis.Datapoint.html#Virgis_Datapoint_UnSelected_Virgis_SelectionTypes_
@@ -80993,19 +80980,6 @@ references:
   isSpec: "True"
   fullName: Virgis.Datapoint.UnSelected
   nameWithType: Datapoint.UnSelected
-- uid: Virgis.Datapoint.VertexMove(Virgis.MoveArgs)
-  name: VertexMove(MoveArgs)
-  href: api/Virgis.Datapoint.html#Virgis_Datapoint_VertexMove_Virgis_MoveArgs_
-  commentId: M:Virgis.Datapoint.VertexMove(Virgis.MoveArgs)
-  fullName: Virgis.Datapoint.VertexMove(Virgis.MoveArgs)
-  nameWithType: Datapoint.VertexMove(MoveArgs)
-- uid: Virgis.Datapoint.VertexMove*
-  name: VertexMove
-  href: api/Virgis.Datapoint.html#Virgis_Datapoint_VertexMove_
-  commentId: Overload:Virgis.Datapoint.VertexMove
-  isSpec: "True"
-  fullName: Virgis.Datapoint.VertexMove
-  nameWithType: Datapoint.VertexMove
 - uid: Virgis.Datapolygon
   name: Datapolygon
   href: api/Virgis.Datapolygon.html
@@ -81025,21 +80999,15 @@ references:
   isSpec: "True"
   fullName: Virgis.Datapolygon.AddVertex
   nameWithType: Datapolygon.AddVertex
-- uid: Virgis.Datapolygon.Centroid
-  name: Centroid
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Centroid
-  commentId: F:Virgis.Datapolygon.Centroid
-  fullName: Virgis.Datapolygon.Centroid
-  nameWithType: Datapolygon.Centroid
-- uid: Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.VertexLookup},UnityEngine.Material)
-  name: Draw(List<VertexLookup>, Material)
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Draw_System_Collections_Generic_List_Virgis_VertexLookup__UnityEngine_Material_
-  commentId: M:Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.VertexLookup},UnityEngine.Material)
-  name.vb: Draw(List(Of VertexLookup), Material)
-  fullName: Virgis.Datapolygon.Draw(System.Collections.Generic.List<Virgis.VertexLookup>, UnityEngine.Material)
-  fullName.vb: Virgis.Datapolygon.Draw(System.Collections.Generic.List(Of Virgis.VertexLookup), UnityEngine.Material)
-  nameWithType: Datapolygon.Draw(List<VertexLookup>, Material)
-  nameWithType.vb: Datapolygon.Draw(List(Of VertexLookup), Material)
+- uid: Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.Dataline},UnityEngine.Material)
+  name: Draw(List<Dataline>, Material)
+  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Draw_System_Collections_Generic_List_Virgis_Dataline__UnityEngine_Material_
+  commentId: M:Virgis.Datapolygon.Draw(System.Collections.Generic.List{Virgis.Dataline},UnityEngine.Material)
+  name.vb: Draw(List(Of Dataline), Material)
+  fullName: Virgis.Datapolygon.Draw(System.Collections.Generic.List<Virgis.Dataline>, UnityEngine.Material)
+  fullName.vb: Virgis.Datapolygon.Draw(System.Collections.Generic.List(Of Virgis.Dataline), UnityEngine.Material)
+  nameWithType: Datapolygon.Draw(List<Dataline>, Material)
+  nameWithType.vb: Datapolygon.Draw(List(Of Dataline), Material)
 - uid: Virgis.Datapolygon.Draw*
   name: Draw
   href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Draw_
@@ -81060,19 +81028,6 @@ references:
   isSpec: "True"
   fullName: Virgis.Datapolygon.GetVertexes
   nameWithType: Datapolygon.GetVertexes
-- uid: Virgis.Datapolygon.GetVertexPositions
-  name: GetVertexPositions()
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_GetVertexPositions
-  commentId: M:Virgis.Datapolygon.GetVertexPositions
-  fullName: Virgis.Datapolygon.GetVertexPositions()
-  nameWithType: Datapolygon.GetVertexPositions()
-- uid: Virgis.Datapolygon.GetVertexPositions*
-  name: GetVertexPositions
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_GetVertexPositions_
-  commentId: Overload:Virgis.Datapolygon.GetVertexPositions
-  isSpec: "True"
-  fullName: Virgis.Datapolygon.GetVertexPositions
-  nameWithType: Datapolygon.GetVertexPositions
 - uid: Virgis.Datapolygon.MoveAxis(Virgis.MoveArgs)
   name: MoveAxis(MoveArgs)
   href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_MoveAxis_Virgis_MoveArgs_
@@ -81099,6 +81054,12 @@ references:
   isSpec: "True"
   fullName: Virgis.Datapolygon.MoveTo
   nameWithType: Datapolygon.MoveTo
+- uid: Virgis.Datapolygon.Polygon
+  name: Polygon
+  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Polygon
+  commentId: F:Virgis.Datapolygon.Polygon
+  fullName: Virgis.Datapolygon.Polygon
+  nameWithType: Datapolygon.Polygon
 - uid: Virgis.Datapolygon.RemoveVertex(Virgis.VirgisFeature)
   name: RemoveVertex(VirgisFeature)
   href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_RemoveVertex_Virgis_VirgisFeature_
@@ -81112,19 +81073,6 @@ references:
   isSpec: "True"
   fullName: Virgis.Datapolygon.RemoveVertex
   nameWithType: Datapolygon.RemoveVertex
-- uid: Virgis.Datapolygon.ResetCenter
-  name: ResetCenter()
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_ResetCenter
-  commentId: M:Virgis.Datapolygon.ResetCenter
-  fullName: Virgis.Datapolygon.ResetCenter()
-  nameWithType: Datapolygon.ResetCenter()
-- uid: Virgis.Datapolygon.ResetCenter*
-  name: ResetCenter
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_ResetCenter_
-  commentId: Overload:Virgis.Datapolygon.ResetCenter
-  isSpec: "True"
-  fullName: Virgis.Datapolygon.ResetCenter
-  nameWithType: Datapolygon.ResetCenter
 - uid: Virgis.Datapolygon.Selected(Virgis.SelectionTypes)
   name: Selected(SelectionTypes)
   href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Selected_Virgis_SelectionTypes_
@@ -81164,19 +81112,6 @@ references:
   isSpec: "True"
   fullName: Virgis.Datapolygon.Translate
   nameWithType: Datapolygon.Translate
-- uid: Virgis.Datapolygon.Triangles(System.Int32)
-  name: Triangles(Int32)
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Triangles_System_Int32_
-  commentId: M:Virgis.Datapolygon.Triangles(System.Int32)
-  fullName: Virgis.Datapolygon.Triangles(System.Int32)
-  nameWithType: Datapolygon.Triangles(Int32)
-- uid: Virgis.Datapolygon.Triangles*
-  name: Triangles
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Triangles_
-  commentId: Overload:Virgis.Datapolygon.Triangles
-  isSpec: "True"
-  fullName: Virgis.Datapolygon.Triangles
-  nameWithType: Datapolygon.Triangles
 - uid: Virgis.Datapolygon.UnSelected(Virgis.SelectionTypes)
   name: UnSelected(SelectionTypes)
   href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_UnSelected_Virgis_SelectionTypes_
@@ -81209,19 +81144,6 @@ references:
   commentId: F:Virgis.Datapolygon.VertexTable
   fullName: Virgis.Datapolygon.VertexTable
   nameWithType: Datapolygon.VertexTable
-- uid: Virgis.Datapolygon.Vertices
-  name: Vertices()
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Vertices
-  commentId: M:Virgis.Datapolygon.Vertices
-  fullName: Virgis.Datapolygon.Vertices()
-  nameWithType: Datapolygon.Vertices()
-- uid: Virgis.Datapolygon.Vertices*
-  name: Vertices
-  href: api/Virgis.Datapolygon.html#Virgis_Datapolygon_Vertices_
-  commentId: Overload:Virgis.Datapolygon.Vertices
-  isSpec: "True"
-  fullName: Virgis.Datapolygon.Vertices
-  nameWithType: Datapolygon.Vertices
 - uid: Virgis.DataRotator
   name: DataRotator
   href: api/Virgis.DataRotator.html
@@ -82028,102 +81950,6 @@ references:
   commentId: F:Virgis.FlyingCam.ZoomSensitivity
   fullName: Virgis.FlyingCam.ZoomSensitivity
   nameWithType: FlyingCam.ZoomSensitivity
-- uid: Virgis.GeoJsonReader
-  name: GeoJsonReader
-  href: api/Virgis.GeoJsonReader.html
-  commentId: T:Virgis.GeoJsonReader
-  fullName: Virgis.GeoJsonReader
-  nameWithType: GeoJsonReader
-- uid: Virgis.GeoJsonReader.fileName
-  name: fileName
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_fileName
-  commentId: F:Virgis.GeoJsonReader.fileName
-  fullName: Virgis.GeoJsonReader.fileName
-  nameWithType: GeoJsonReader.fileName
-- uid: Virgis.GeoJsonReader.getFeatureCollection
-  name: getFeatureCollection()
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_getFeatureCollection
-  commentId: M:Virgis.GeoJsonReader.getFeatureCollection
-  fullName: Virgis.GeoJsonReader.getFeatureCollection()
-  nameWithType: GeoJsonReader.getFeatureCollection()
-- uid: Virgis.GeoJsonReader.getFeatureCollection*
-  name: getFeatureCollection
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_getFeatureCollection_
-  commentId: Overload:Virgis.GeoJsonReader.getFeatureCollection
-  isSpec: "True"
-  fullName: Virgis.GeoJsonReader.getFeatureCollection
-  nameWithType: GeoJsonReader.getFeatureCollection
-- uid: Virgis.GeoJsonReader.GetProject
-  name: GetProject()
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_GetProject
-  commentId: M:Virgis.GeoJsonReader.GetProject
-  fullName: Virgis.GeoJsonReader.GetProject()
-  nameWithType: GeoJsonReader.GetProject()
-- uid: Virgis.GeoJsonReader.GetProject*
-  name: GetProject
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_GetProject_
-  commentId: Overload:Virgis.GeoJsonReader.GetProject
-  isSpec: "True"
-  fullName: Virgis.GeoJsonReader.GetProject
-  nameWithType: GeoJsonReader.GetProject
-- uid: Virgis.GeoJsonReader.Load(System.String)
-  name: Load(String)
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_Load_System_String_
-  commentId: M:Virgis.GeoJsonReader.Load(System.String)
-  fullName: Virgis.GeoJsonReader.Load(System.String)
-  nameWithType: GeoJsonReader.Load(String)
-- uid: Virgis.GeoJsonReader.Load*
-  name: Load
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_Load_
-  commentId: Overload:Virgis.GeoJsonReader.Load
-  isSpec: "True"
-  fullName: Virgis.GeoJsonReader.Load
-  nameWithType: GeoJsonReader.Load
-- uid: Virgis.GeoJsonReader.payload
-  name: payload
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_payload
-  commentId: F:Virgis.GeoJsonReader.payload
-  fullName: Virgis.GeoJsonReader.payload
-  nameWithType: GeoJsonReader.payload
-- uid: Virgis.GeoJsonReader.Save
-  name: Save()
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_Save
-  commentId: M:Virgis.GeoJsonReader.Save
-  fullName: Virgis.GeoJsonReader.Save()
-  nameWithType: GeoJsonReader.Save()
-- uid: Virgis.GeoJsonReader.Save*
-  name: Save
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_Save_
-  commentId: Overload:Virgis.GeoJsonReader.Save
-  isSpec: "True"
-  fullName: Virgis.GeoJsonReader.Save
-  nameWithType: GeoJsonReader.Save
-- uid: Virgis.GeoJsonReader.SetFeatureCollection(GeoJSON.Net.Feature.FeatureCollection)
-  name: SetFeatureCollection(FeatureCollection)
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_SetFeatureCollection_GeoJSON_Net_Feature_FeatureCollection_
-  commentId: M:Virgis.GeoJsonReader.SetFeatureCollection(GeoJSON.Net.Feature.FeatureCollection)
-  fullName: Virgis.GeoJsonReader.SetFeatureCollection(GeoJSON.Net.Feature.FeatureCollection)
-  nameWithType: GeoJsonReader.SetFeatureCollection(FeatureCollection)
-- uid: Virgis.GeoJsonReader.SetFeatureCollection*
-  name: SetFeatureCollection
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_SetFeatureCollection_
-  commentId: Overload:Virgis.GeoJsonReader.SetFeatureCollection
-  isSpec: "True"
-  fullName: Virgis.GeoJsonReader.SetFeatureCollection
-  nameWithType: GeoJsonReader.SetFeatureCollection
-- uid: Virgis.GeoJsonReader.SetProject(Project.GisProject)
-  name: SetProject(GisProject)
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_SetProject_Project_GisProject_
-  commentId: M:Virgis.GeoJsonReader.SetProject(Project.GisProject)
-  fullName: Virgis.GeoJsonReader.SetProject(Project.GisProject)
-  nameWithType: GeoJsonReader.SetProject(GisProject)
-- uid: Virgis.GeoJsonReader.SetProject*
-  name: SetProject
-  href: api/Virgis.GeoJsonReader.html#Virgis_GeoJsonReader_SetProject_
-  commentId: Overload:Virgis.GeoJsonReader.SetProject
-  isSpec: "True"
-  fullName: Virgis.GeoJsonReader.SetProject
-  nameWithType: GeoJsonReader.SetProject
 - uid: Virgis.IVirgisEntity
   name: IVirgisEntity
   href: api/Virgis.IVirgisEntity.html
@@ -83610,12 +83436,12 @@ references:
   commentId: F:Virgis.MapInitialize.PolygonLayer
   fullName: Virgis.MapInitialize.PolygonLayer
   nameWithType: MapInitialize.PolygonLayer
-- uid: Virgis.MapInitialize.Save
-  name: Save()
-  href: api/Virgis.MapInitialize.html#Virgis_MapInitialize_Save
-  commentId: M:Virgis.MapInitialize.Save
-  fullName: Virgis.MapInitialize.Save()
-  nameWithType: MapInitialize.Save()
+- uid: Virgis.MapInitialize.Save(System.Boolean)
+  name: Save(Boolean)
+  href: api/Virgis.MapInitialize.html#Virgis_MapInitialize_Save_System_Boolean_
+  commentId: M:Virgis.MapInitialize.Save(System.Boolean)
+  fullName: Virgis.MapInitialize.Save(System.Boolean)
+  nameWithType: MapInitialize.Save(Boolean)
 - uid: Virgis.MapInitialize.Save*
   name: Save
   href: api/Virgis.MapInitialize.html#Virgis_MapInitialize_Save_
@@ -83843,19 +83669,6 @@ references:
   isSpec: "True"
   fullName: Virgis.MeshLayer._save
   nameWithType: MeshLayer._save
-- uid: Virgis.MeshLayer.GetFeatureShape
-  name: GetFeatureShape()
-  href: api/Virgis.MeshLayer.html#Virgis_MeshLayer_GetFeatureShape
-  commentId: M:Virgis.MeshLayer.GetFeatureShape
-  fullName: Virgis.MeshLayer.GetFeatureShape()
-  nameWithType: MeshLayer.GetFeatureShape()
-- uid: Virgis.MeshLayer.GetFeatureShape*
-  name: GetFeatureShape
-  href: api/Virgis.MeshLayer.html#Virgis_MeshLayer_GetFeatureShape_
-  commentId: Overload:Virgis.MeshLayer.GetFeatureShape
-  isSpec: "True"
-  fullName: Virgis.MeshLayer.GetFeatureShape
-  nameWithType: MeshLayer.GetFeatureShape
 - uid: Virgis.MeshLayer.handle
   name: handle
   href: api/Virgis.MeshLayer.html#Virgis_MeshLayer_handle
@@ -84077,19 +83890,6 @@ references:
   isSpec: "True"
   fullName: Virgis.PointCloudLayer._save
   nameWithType: PointCloudLayer._save
-- uid: Virgis.PointCloudLayer.GetFeatureShape
-  name: GetFeatureShape()
-  href: api/Virgis.PointCloudLayer.html#Virgis_PointCloudLayer_GetFeatureShape
-  commentId: M:Virgis.PointCloudLayer.GetFeatureShape
-  fullName: Virgis.PointCloudLayer.GetFeatureShape()
-  nameWithType: PointCloudLayer.GetFeatureShape()
-- uid: Virgis.PointCloudLayer.GetFeatureShape*
-  name: GetFeatureShape
-  href: api/Virgis.PointCloudLayer.html#Virgis_PointCloudLayer_GetFeatureShape_
-  commentId: Overload:Virgis.PointCloudLayer.GetFeatureShape
-  isSpec: "True"
-  fullName: Virgis.PointCloudLayer.GetFeatureShape
-  nameWithType: PointCloudLayer.GetFeatureShape
 - uid: Virgis.PointCloudLayer.handle
   name: handle
   href: api/Virgis.PointCloudLayer.html#Virgis_PointCloudLayer_handle
@@ -84318,6 +84118,28 @@ references:
   isSpec: "True"
   fullName: Virgis.PointLayer.Translate
   nameWithType: PointLayer.Translate
+- uid: Virgis.PolygonExtensions
+  name: PolygonExtensions
+  href: api/Virgis.PolygonExtensions.html
+  commentId: T:Virgis.PolygonExtensions
+  fullName: Virgis.PolygonExtensions
+  nameWithType: PolygonExtensions
+- uid: Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List{Virgis.Dataline},g3.Frame3f@)
+  name: ToPolygon(List<Dataline>, ref Frame3f)
+  href: api/Virgis.PolygonExtensions.html#Virgis_PolygonExtensions_ToPolygon_System_Collections_Generic_List_Virgis_Dataline__g3_Frame3f__
+  commentId: M:Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List{Virgis.Dataline},g3.Frame3f@)
+  name.vb: ToPolygon(List(Of Dataline), ByRef Frame3f)
+  fullName: Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List<Virgis.Dataline>, ref g3.Frame3f)
+  fullName.vb: Virgis.PolygonExtensions.ToPolygon(System.Collections.Generic.List(Of Virgis.Dataline), ByRef g3.Frame3f)
+  nameWithType: PolygonExtensions.ToPolygon(List<Dataline>, ref Frame3f)
+  nameWithType.vb: PolygonExtensions.ToPolygon(List(Of Dataline), ByRef Frame3f)
+- uid: Virgis.PolygonExtensions.ToPolygon*
+  name: ToPolygon
+  href: api/Virgis.PolygonExtensions.html#Virgis_PolygonExtensions_ToPolygon_
+  commentId: Overload:Virgis.PolygonExtensions.ToPolygon
+  isSpec: "True"
+  fullName: Virgis.PolygonExtensions.ToPolygon
+  nameWithType: PolygonExtensions.ToPolygon
 - uid: Virgis.PolygonLayer
   name: PolygonLayer
   href: api/Virgis.PolygonLayer.html
@@ -84366,15 +84188,15 @@ references:
   isSpec: "True"
   fullName: Virgis.PolygonLayer._draw
   nameWithType: PolygonLayer._draw
-- uid: Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3[],UnityEngine.Vector3,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
-  name: _drawFeature(Vector3[], Vector3, String, Dictionary<String, Object>)
-  href: api/Virgis.PolygonLayer.html#Virgis_PolygonLayer__drawFeature_UnityEngine_Vector3___UnityEngine_Vector3_System_String_System_Collections_Generic_Dictionary_System_String_System_Object__
-  commentId: M:Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3[],UnityEngine.Vector3,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
-  name.vb: _drawFeature(Vector3(), Vector3, String, Dictionary(Of String, Object))
-  fullName: Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3[], UnityEngine.Vector3, System.String, System.Collections.Generic.Dictionary<System.String, System.Object>)
-  fullName.vb: Virgis.PolygonLayer._drawFeature(UnityEngine.Vector3(), UnityEngine.Vector3, System.String, System.Collections.Generic.Dictionary(Of System.String, System.Object))
-  nameWithType: PolygonLayer._drawFeature(Vector3[], Vector3, String, Dictionary<String, Object>)
-  nameWithType.vb: PolygonLayer._drawFeature(Vector3(), Vector3, String, Dictionary(Of String, Object))
+- uid: Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString},System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
+  name: _drawFeature(IEnumerable<LineString>, String, Dictionary<String, Object>)
+  href: api/Virgis.PolygonLayer.html#Virgis_PolygonLayer__drawFeature_System_Collections_Generic_IEnumerable_GeoJSON_Net_Geometry_LineString__System_String_System_Collections_Generic_Dictionary_System_String_System_Object__
+  commentId: M:Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable{GeoJSON.Net.Geometry.LineString},System.String,System.Collections.Generic.Dictionary{System.String,System.Object})
+  name.vb: _drawFeature(IEnumerable(Of LineString), String, Dictionary(Of String, Object))
+  fullName: Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable<GeoJSON.Net.Geometry.LineString>, System.String, System.Collections.Generic.Dictionary<System.String, System.Object>)
+  fullName.vb: Virgis.PolygonLayer._drawFeature(System.Collections.Generic.IEnumerable(Of GeoJSON.Net.Geometry.LineString), System.String, System.Collections.Generic.Dictionary(Of System.String, System.Object))
+  nameWithType: PolygonLayer._drawFeature(IEnumerable<LineString>, String, Dictionary<String, Object>)
+  nameWithType.vb: PolygonLayer._drawFeature(IEnumerable(Of LineString), String, Dictionary(Of String, Object))
 - uid: Virgis.PolygonLayer._drawFeature*
   name: _drawFeature
   href: api/Virgis.PolygonLayer.html#Virgis_PolygonLayer__drawFeature_
@@ -84565,6 +84387,25 @@ references:
   isSpec: "True"
   fullName: Virgis.PositionExtensionMethods.Vector3
   nameWithType: PositionExtensionMethods.Vector3
+- uid: Virgis.QuitButton
+  name: QuitButton
+  href: api/Virgis.QuitButton.html
+  commentId: T:Virgis.QuitButton
+  fullName: Virgis.QuitButton
+  nameWithType: QuitButton
+- uid: Virgis.QuitButton.OnClick
+  name: OnClick()
+  href: api/Virgis.QuitButton.html#Virgis_QuitButton_OnClick
+  commentId: M:Virgis.QuitButton.OnClick
+  fullName: Virgis.QuitButton.OnClick()
+  nameWithType: QuitButton.OnClick()
+- uid: Virgis.QuitButton.OnClick*
+  name: OnClick
+  href: api/Virgis.QuitButton.html#Virgis_QuitButton_OnClick_
+  commentId: Overload:Virgis.QuitButton.OnClick
+  isSpec: "True"
+  fullName: Virgis.QuitButton.OnClick
+  nameWithType: QuitButton.OnClick
 - uid: Virgis.SelectionTypes
   name: SelectionTypes
   href: api/Virgis.SelectionTypes.html
@@ -84773,6 +84614,12 @@ references:
   commentId: F:Virgis.VertexLookup.Line
   fullName: Virgis.VertexLookup.Line
   nameWithType: VertexLookup.Line
+- uid: Virgis.VertexLookup.pVertex
+  name: pVertex
+  href: api/Virgis.VertexLookup.html#Virgis_VertexLookup_pVertex
+  commentId: F:Virgis.VertexLookup.pVertex
+  fullName: Virgis.VertexLookup.pVertex
+  nameWithType: VertexLookup.pVertex
 - uid: Virgis.VertexLookup.Vertex
   name: Vertex
   href: api/Virgis.VertexLookup.html#Virgis_VertexLookup_Vertex

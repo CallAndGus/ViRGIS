@@ -32,7 +32,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshConnectedComponents
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 6
@@ -67,7 +67,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 8
@@ -98,7 +98,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FilterSet
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 12
@@ -129,7 +129,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FilterF
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 13
@@ -160,7 +160,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SeedFilterF
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 18
@@ -191,7 +191,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Components
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 25
@@ -222,7 +222,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 28
@@ -255,7 +255,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Count
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 35
@@ -290,7 +290,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 40
@@ -330,7 +330,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetEnumerator
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 45
@@ -362,7 +362,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LargestByCount
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 53
@@ -397,7 +397,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SortByCount
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 69
@@ -430,7 +430,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SortByValue
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 82
@@ -470,7 +470,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindConnectedT
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 96
@@ -500,7 +500,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Separate
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 196
@@ -539,7 +539,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: LargestT
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 217
@@ -578,7 +578,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: FindConnectedT
     path: ../Assets/geometry3Sharp/mesh_selection/MeshConnectedComponents.cs
     startLine: 232

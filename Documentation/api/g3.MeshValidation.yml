@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshValidation
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 26
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsEdgeLoop
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 29
@@ -92,7 +92,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsBoundaryLoop
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 49
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/MeshValidation.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasDuplicateTriangles
     path: ../Assets/geometry3Sharp/queries/MeshValidation.cs
     startLine: 79

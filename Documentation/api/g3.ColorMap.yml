@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ColorMap
     path: ../Assets/geometry3Sharp/color/ColorMap.cs
     startLine: 5
@@ -53,7 +53,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/ColorMap.cs
     startLine: 16
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/color/ColorMap.cs
     startLine: 21
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddPoint
     path: ../Assets/geometry3Sharp/color/ColorMap.cs
     startLine: 28
@@ -156,7 +156,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/color/ColorMap.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Linear
     path: ../Assets/geometry3Sharp/color/ColorMap.cs
     startLine: 55

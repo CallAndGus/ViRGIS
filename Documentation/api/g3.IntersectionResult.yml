@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IntersectionResult
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 7
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NotComputed
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 9
@@ -83,7 +83,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Intersects
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 10
@@ -115,7 +115,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NoIntersection
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 11
@@ -147,7 +147,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/queries/IntersectionUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InvalidQuery
     path: ../Assets/geometry3Sharp/queries/IntersectionUtil.cs
     startLine: 12

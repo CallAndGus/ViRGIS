@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Linear
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 15
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UnknownUnits
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 17
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Nanometers
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 20
@@ -122,7 +122,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Microns
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 21
@@ -154,7 +154,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Millimeters
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 22
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Centimeters
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 23
@@ -218,7 +218,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Meters
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 24
@@ -250,7 +250,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Kilometers
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 25
@@ -282,7 +282,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Inches
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 29
@@ -314,7 +314,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Feet
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 30
@@ -346,7 +346,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Yards
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 31
@@ -378,7 +378,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/Units.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Miles
     path: ../Assets/geometry3Sharp/core/Units.cs
     startLine: 32

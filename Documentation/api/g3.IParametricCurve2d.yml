@@ -27,7 +27,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IParametricCurve2d
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 46
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsClosed
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 48
@@ -91,7 +91,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ParamLength
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 51
@@ -124,7 +124,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleT
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 52
@@ -155,7 +155,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: TangentT
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 53
@@ -186,7 +186,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasArcLength
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 55
@@ -219,7 +219,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ArcLength
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 56
@@ -252,7 +252,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SampleArcLength
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 57
@@ -283,7 +283,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Reverse
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 59
@@ -309,7 +309,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsTransformable
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 61
@@ -342,7 +342,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transform
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 62
@@ -371,7 +371,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/curve/ICurve.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Clone
     path: ../Assets/geometry3Sharp/curve/ICurve.cs
     startLine: 64

@@ -16,7 +16,7 @@ items:
     remote:
       path: Assets/Scripts/Adapters/CSVReader.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CSVData
     path: ../Assets/Scripts/Adapters/CSVReader.cs
     startLine: 17

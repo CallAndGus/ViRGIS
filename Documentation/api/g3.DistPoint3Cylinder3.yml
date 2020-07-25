@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistPoint3Cylinder3
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 17
@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 20
@@ -96,7 +96,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cylinder
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 27
@@ -131,7 +131,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 33
@@ -162,7 +162,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SignedDistance
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 36
@@ -193,7 +193,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IsInside
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 38
@@ -228,7 +228,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SolidDistance
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 39
@@ -263,7 +263,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CylinderClosest
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 41
@@ -294,7 +294,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 43
@@ -329,7 +329,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 48
@@ -361,7 +361,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 54
@@ -393,7 +393,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSquared
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 60
@@ -425,7 +425,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: get_squared_infinite
     path: ../Assets/geometry3Sharp/distance/DistPoint3Cylinder3.cs
     startLine: 134

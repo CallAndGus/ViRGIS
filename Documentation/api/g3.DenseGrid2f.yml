@@ -39,7 +39,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DenseGrid2f
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 12
@@ -74,7 +74,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Buffer
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 14
@@ -105,7 +105,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ni
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 15
@@ -136,7 +136,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: nj
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 15
@@ -167,7 +167,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 17
@@ -197,7 +197,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 22
@@ -234,7 +234,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 28
@@ -267,7 +267,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: swap
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 35
@@ -300,7 +300,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: size
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 43
@@ -335,7 +335,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: resize
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 45
@@ -370,7 +370,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: assign
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 51
@@ -403,7 +403,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: assign_border
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 57
@@ -438,7 +438,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: clear
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 76
@@ -468,7 +468,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: copy
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 80
@@ -501,7 +501,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 85
@@ -541,7 +541,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 90
@@ -583,7 +583,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 95
@@ -623,7 +623,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: get_x_pair
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 100
@@ -665,7 +665,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: apply
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 107
@@ -701,7 +701,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: set_min
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 117
@@ -734,7 +734,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: set_max
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 122
@@ -767,7 +767,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Bounds
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 128
@@ -802,7 +802,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Indices
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 133
@@ -834,7 +834,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DenseGrid2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: InsetIndices
     path: ../Assets/geometry3Sharp/spatial/DenseGrid2.cs
     startLine: 142

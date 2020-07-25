@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MatrixUtil
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 5
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MakeIdentity3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 8
@@ -100,7 +100,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetIdentity3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 12
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MakeDiagonal3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 19
@@ -185,7 +185,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SetDiagonal3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 23
@@ -229,7 +229,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Determinant3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 30
@@ -269,7 +269,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transpose3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 40
@@ -307,7 +307,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Transpose3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 46
@@ -347,7 +347,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Multiply3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 59
@@ -389,7 +389,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/MatrixUtil.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Multiply3x3
     path: ../Assets/geometry3Sharp/math/MatrixUtil.cs
     startLine: 73

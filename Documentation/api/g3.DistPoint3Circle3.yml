@@ -25,7 +25,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistPoint3Circle3
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 10
@@ -58,7 +58,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 13
@@ -93,7 +93,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Circle
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 20
@@ -128,7 +128,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DistanceSquared
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 26
@@ -159,7 +159,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CircleClosest
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 28
@@ -190,7 +190,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AllCirclePointsEquidistant
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 29
@@ -221,7 +221,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 32
@@ -256,7 +256,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Compute
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 37
@@ -288,7 +288,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Get
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 43
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetSquared
     path: ../Assets/geometry3Sharp/distance/DistPoint3Circle3.cs
     startLine: 49

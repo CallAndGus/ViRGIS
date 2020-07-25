@@ -28,7 +28,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Query2d
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 36
@@ -73,7 +73,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: mVertices
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 38
@@ -104,7 +104,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 40
@@ -140,7 +140,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetNumVertices
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 46
@@ -172,7 +172,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetVertices
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 50
@@ -204,7 +204,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToLine
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 60
@@ -249,7 +249,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToLine
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 72
@@ -297,7 +297,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToTriangle
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 99
@@ -344,7 +344,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToTriangle
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 110
@@ -394,7 +394,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToCircumcircle
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 137
@@ -441,7 +441,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ToCircumcircle
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 149
@@ -491,7 +491,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Dot
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 182
@@ -532,7 +532,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/math/Query2.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Det3
     path: ../Assets/geometry3Sharp/math/Query2.cs
     startLine: 194

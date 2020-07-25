@@ -17,7 +17,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: IGridElement3
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 30
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/DSparseGrid3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CreateNewGridElement
     path: ../Assets/geometry3Sharp/spatial/DSparseGrid3.cs
     startLine: 36

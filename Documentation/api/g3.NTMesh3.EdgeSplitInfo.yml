@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EdgeSplitInfo
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1260
@@ -51,7 +51,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: bIsBoundary
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1262
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: vNew
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1263
@@ -113,7 +113,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: eNewBN
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1264
@@ -144,7 +144,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/NTMesh3.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NewEdges
     path: ../Assets/geometry3Sharp/mesh/NTMesh3.cs
     startLine: 1265

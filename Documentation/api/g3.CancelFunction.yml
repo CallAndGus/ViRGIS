@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProgressCancel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CancelFunction
     path: ../Assets/geometry3Sharp/core/ProgressCancel.cs
     startLine: 16
@@ -56,7 +56,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProgressCancel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: CancelF
     path: ../Assets/geometry3Sharp/core/ProgressCancel.cs
     startLine: 18
@@ -87,7 +87,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProgressCancel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/core/ProgressCancel.cs
     startLine: 19
@@ -123,7 +123,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/core/ProgressCancel.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Cancelled
     path: ../Assets/geometry3Sharp/core/ProgressCancel.cs
     startLine: 22

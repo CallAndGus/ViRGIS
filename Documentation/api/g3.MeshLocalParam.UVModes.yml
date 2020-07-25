@@ -19,7 +19,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshLocalParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: UVModes
     path: ../Assets/geometry3Sharp/mesh_ops/MeshLocalParam.cs
     startLine: 13
@@ -50,7 +50,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshLocalParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExponentialMap
     path: ../Assets/geometry3Sharp/mesh_ops/MeshLocalParam.cs
     startLine: 15
@@ -82,7 +82,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshLocalParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ExponentialMap_UpwindAvg
     path: ../Assets/geometry3Sharp/mesh_ops/MeshLocalParam.cs
     startLine: 16
@@ -114,7 +114,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh_ops/MeshLocalParam.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlanarProjection
     path: ../Assets/geometry3Sharp/mesh_ops/MeshLocalParam.cs
     startLine: 17

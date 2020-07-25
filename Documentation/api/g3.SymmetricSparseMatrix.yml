@@ -32,7 +32,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SymmetricSparseMatrix
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 14
@@ -71,7 +71,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 20
@@ -104,7 +104,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 24
@@ -137,7 +137,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 38
@@ -170,7 +170,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Set
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 45
@@ -209,7 +209,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Rows
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 54
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Columns
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 55
@@ -283,7 +283,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Size
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 56
@@ -320,7 +320,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: this[]
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 59
@@ -364,7 +364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Multiply
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 74
@@ -402,7 +402,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Square
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 90
@@ -437,7 +437,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SquarePackedParallel
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 139
@@ -471,7 +471,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Multiply
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 150
@@ -506,7 +506,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Multiply
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 156
@@ -546,7 +546,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonZeros
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 262
@@ -578,7 +578,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NonZeroIndices
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 266
@@ -610,7 +610,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/solvers/SparseMatrix.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: EpsilonEqual
     path: ../Assets/geometry3Sharp/solvers/SparseMatrix.cs
     startLine: 272

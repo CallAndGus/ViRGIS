@@ -61,7 +61,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: MeshEditor
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 15
@@ -94,7 +94,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Mesh
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 17
@@ -125,7 +125,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 20
@@ -158,7 +158,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddTriangleStrip
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 27
@@ -202,7 +202,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddTriangleFan_OrderedVertexLoop
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 63
@@ -246,7 +246,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AddTriangleFan_OrderedEdgeLoop
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 97
@@ -290,7 +290,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StitchLoop
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 138
@@ -336,7 +336,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StitchVertexLoops_NearestV
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 189
@@ -382,7 +382,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StitchUnorderedEdges
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 229
@@ -430,7 +430,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StitchUnorderedEdges
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 291
@@ -474,7 +474,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: StitchSpan
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 307
@@ -520,7 +520,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 357
@@ -560,7 +560,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 374
@@ -600,7 +600,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 392
@@ -640,7 +640,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 406
@@ -684,7 +684,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 410
@@ -728,7 +728,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveIsolatedTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 419
@@ -767,7 +767,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveFinTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 437
@@ -813,7 +813,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: SeparateTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 470
@@ -857,7 +857,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DuplicateTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 545
@@ -901,7 +901,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReverseTriangles
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 571
@@ -941,7 +941,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DisconnectBowtie
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 603
@@ -976,7 +976,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: DisconnectAllBowties
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 648
@@ -1013,7 +1013,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: ReinsertSubmesh
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 686
@@ -1057,7 +1057,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendMesh
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 777
@@ -1094,7 +1094,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendMesh
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 782
@@ -1136,7 +1136,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Combine
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 805
@@ -1176,7 +1176,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Append
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 814
@@ -1213,7 +1213,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendMesh
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 821
@@ -1257,7 +1257,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendBox
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 851
@@ -1292,7 +1292,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendBox
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 855
@@ -1327,7 +1327,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendBox
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 859
@@ -1364,7 +1364,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendLine
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 872
@@ -1399,7 +1399,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendLine
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 878
@@ -1436,7 +1436,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendBox
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 884
@@ -1475,7 +1475,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendBox
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 889
@@ -1516,7 +1516,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendBox
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 894
@@ -1557,7 +1557,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendBox
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 899
@@ -1600,7 +1600,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendBox
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 904
@@ -1641,7 +1641,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendLine
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 910
@@ -1680,7 +1680,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: AppendPathSolid
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 921
@@ -1720,7 +1720,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveAllBowtieVertices
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 942
@@ -1757,7 +1757,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveUnusedVertices
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 976
@@ -1791,7 +1791,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveUnusedVertices
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 988
@@ -1828,7 +1828,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveSmallComponents
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 1000
@@ -1867,7 +1867,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/mesh/MeshEditor.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RemoveSmallComponents
     path: ../Assets/geometry3Sharp/mesh/MeshEditor.cs
     startLine: 1016

@@ -26,7 +26,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Point
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 16
@@ -75,7 +75,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: .ctor
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 23
@@ -111,7 +111,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Type
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 28
@@ -151,7 +151,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Coordinates
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 33
@@ -213,7 +213,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 42
@@ -253,7 +253,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 50
@@ -290,7 +290,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: Equals
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 58
@@ -329,7 +329,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Equality
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 70
@@ -370,7 +370,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: op_Inequality
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 86
@@ -411,7 +411,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 94
@@ -448,7 +448,7 @@ items:
     remote:
       path: Assets/GeoJSON.Net/Geometry/Point.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: GetHashCode
     path: ../Assets/GeoJSON.Net/Geometry/Point.cs
     startLine: 104

@@ -20,7 +20,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneIntersectionTarget
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 71
@@ -59,7 +59,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: PlaneFrame
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 73
@@ -90,7 +90,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: NormalAxis
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 74
@@ -121,7 +121,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: HasNormal
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 76
@@ -158,7 +158,7 @@ items:
     remote:
       path: Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
       branch: gh-pages
-      repo: https://github.com/runette/ViRGIS.git
+      repo: https://github.com/ViRGIS-Team/ViRGIS.git
     id: RayIntersect
     path: ../Assets/geometry3Sharp/spatial/BasicIntersectionTargets.cs
     startLine: 77
